@@ -844,109 +844,101 @@
               {
                 "name": "5. Depositi - Carlo Pozzi (1836–1855)",
                 "link": [
-                  [
-                    {
-                      "label": "a) sintesi cronologica",
-                      "target": "53349a",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "b) sintesi quantitativa e per tipologie",
-                      "target": "a40323",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "> sintesi quantitativa dei materiali documentati (forma riassuntiva)",
-                      "target": "209035",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "> sintesi quantitativa dei materiali documentati (forma completa)",
-                      "target": "72dded",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "> sintesi dei materiali documentati per tipologie (forma ridotta)",
-                      "target": "ae0a2f",
-                      "chapter": "05"
-                    }
-                  ]
+                  {
+                    "label": "a) sintesi cronologica",
+                    "target": "53349a",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "b) sintesi quantitativa e per tipologie",
+                    "target": "a40323",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "> sintesi quantitativa dei materiali documentati (forma riassuntiva)",
+                    "target": "209035",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "> sintesi quantitativa dei materiali documentati (forma completa)",
+                    "target": "72dded",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "> sintesi dei materiali documentati per tipologie (forma ridotta)",
+                    "target": "ae0a2f",
+                    "chapter": "05"
+                  }
                 ]
               },
               {
                 "name": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)",
                 "link": [
-                  [
-                    {
-                      "label": "a) sintesi cronologica",
-                      "target": "0a9d4b",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "b) sintesi quantitativa e per tipologie",
-                      "target": "12899a",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "> sintesi quantitativa dei materiali documentati (forma ridotta)",
-                      "target": "08c6f6",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "> sintesi quantitativa dei materiali documentati (forma completa)",
-                      "target": "d61a83",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "> sintesi dei materiali documentati per tipologie",
-                      "target": "76930d",
-                      "chapter": "05"
-                    }
-                  ]
+                  {
+                    "label": "a) sintesi cronologica",
+                    "target": "0a9d4b",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "b) sintesi quantitativa e per tipologie",
+                    "target": "12899a",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "> sintesi quantitativa dei materiali documentati (forma ridotta)",
+                    "target": "08c6f6",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "> sintesi quantitativa dei materiali documentati (forma completa)",
+                    "target": "d61a83",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "> sintesi dei materiali documentati per tipologie",
+                    "target": "76930d",
+                    "chapter": "05"
+                  }
                 ]
               },
               {
                 "name": "5. Depositi - Achille Bustelli-Rossi (1857–1867)",
                 "link": [
-                  [
-                    {
-                      "label": "a) sintesi cronologica",
-                      "target": "55ddb8",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "b) sintesi quantitativa e per tipologie",
-                      "target": "242133",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "> sintesi quantitativa dei materiali documentati (forma riassuntiva)",
-                      "target": "493b44",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "> sintesi quantitativa dei materiali documentati (forma completa)",
-                      "target": "aba543",
-                      "chapter": "05"
-                    },
-                    {
-                      "label": "> sintesi dei materiali documentati per tipologie",
-                      "target": "a908e7",
-                      "chapter": "05"
-                    }
-                  ]
+                  {
+                    "label": "a) sintesi cronologica",
+                    "target": "55ddb8",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "b) sintesi quantitativa e per tipologie",
+                    "target": "242133",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "> sintesi quantitativa dei materiali documentati (forma riassuntiva)",
+                    "target": "493b44",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "> sintesi quantitativa dei materiali documentati (forma completa)",
+                    "target": "aba543",
+                    "chapter": "05"
+                  },
+                  {
+                    "label": "> sintesi dei materiali documentati per tipologie",
+                    "target": "a908e7",
+                    "chapter": "05"
+                  }
                 ]
               },
               {
                 "name": "5. Depositi - Francesco Veladini (1860–1866)",
                 "link": [
-                  [
-                    {
-                      "label": "> sintesi cronologica",
-                      "target": "b3a5b0",
-                      "chapter": "05"
-                    }
-                  ]
+                  {
+                    "label": "> sintesi cronologica",
+                    "target": "b3a5b0",
+                    "chapter": "05"
+                  }
                 ]
               }
             ]
