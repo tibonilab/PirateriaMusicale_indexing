@@ -8,7 +8,7 @@ require 'namae'
 docs = []
 
 for i in 0..11
-  doc = File.open("document#{i}.html") { |f| Nokogiri::HTML(f) }
+  doc = File.open("./source/document#{i}.html") { |f| Nokogiri::HTML(f) }
 
   doc.search('p').each do |s|
     uniq = SecureRandom.hex(3)
@@ -16,10 +16,10 @@ for i in 0..11
   end
 
   # generate a tagged file for each chapter
-  File.write("output-tagged-#{i}.html", doc.to_html);
+  File.write("./output/output-tagged-#{i}.html", doc.to_html);
 
   docs << doc.at('body').inner_html
 end
 
 # generate a unique file for full-text targeting
-File.write("output-tagged.html", docs.join('\n\n\n'))
+File.write("./output/output-tagged-full-text.html", docs.join('\n\n\n'))
