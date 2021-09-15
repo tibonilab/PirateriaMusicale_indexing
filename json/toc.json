@@ -1,0 +1,958 @@
+{
+  "index": {
+    "group": [
+      {
+        "name": "Toc",
+        "group": [
+          {
+            "name": "1. Introduzione",
+            "subtitle": "Ambientazione tematica",
+            "link": [
+              {
+                "label": "Introduzione",
+                "target": "103c54"
+              }
+            ]
+          },
+          {
+            "name": "2. Studio generale",
+            "subtitle": "Vicende storiche dell’editoria musicale ticinese durante il Risorgimento: un sommario\n            ",
+            "link": [
+              {
+                "label": "Retroscena ",
+                "target": "676e3a",
+                "chapter": "02"
+              },
+              {
+                "label": "Realtà complementari ",
+                "target": "dd9d2d",
+                "chapter": "02"
+              },
+              {
+                "label": "Attività di frontiera ",
+                "target": "158a3a",
+                "chapter": "02"
+              },
+              {
+                "label": "Contraffattori e contrabbandieri ",
+                "target": "ae4801",
+                "chapter": "02"
+              },
+              {
+                "label": "Reagisce lo Stato ",
+                "target": "47c810",
+                "chapter": "02"
+              },
+              {
+                "label": "Lista bianca – lista nera ",
+                "target": "73f075",
+                "chapter": "02"
+              },
+              {
+                "label": "Strategie di conversione ",
+                "target": "ce0a43",
+                "chapter": "02"
+              },
+              {
+                "label": "Convenzioni inconvenienti ",
+                "target": "8363f3",
+                "chapter": "02"
+              },
+              {
+                "label": "Epilogo ",
+                "target": "dd15a9",
+                "chapter": "02"
+              }
+            ]
+          },
+          {
+            "name": "3. Cronologia",
+            "subtitle": "Sunto cronologico dei principali avvenimenti legati alla storia e allo sviluppo dell’editoria\n            musicale ticinese durante il Risorgimento e oltre (1808–1902)",
+            "link": [
+              {
+                "label": "1808 ",
+                "target": "3b5829",
+                "chapter": "03"
+              },
+              {
+                "label": "1814–1815",
+                "target": "239854",
+                "chapter": "03"
+              },
+              {
+                "label": "4 agosto 1815 ",
+                "target": "0241ee",
+                "chapter": "03"
+              },
+              {
+                "label": "1816 ",
+                "target": "a3ccae",
+                "chapter": "03"
+              },
+              {
+                "label": "4 giugno 1816 ",
+                "target": "0701ef",
+                "chapter": "03"
+              },
+              {
+                "label": "1825 ",
+                "target": "924186",
+                "chapter": "03"
+              },
+              {
+                "label": "1826 ",
+                "target": "ffeb09",
+                "chapter": "03"
+              },
+              {
+                "label": "1828 ",
+                "target": "90c44a",
+                "chapter": "03"
+              },
+              {
+                "label": "1830 ",
+                "target": "159c11",
+                "chapter": "03"
+              },
+              {
+                "label": "gennaio 1831 ",
+                "target": "5af9ad",
+                "chapter": "03"
+              },
+              {
+                "label": "dicembre 1831 ",
+                "target": "7adb02",
+                "chapter": "03"
+              },
+              {
+                "label": "marzo 1832 ",
+                "target": "793de5",
+                "chapter": "03"
+              },
+              {
+                "label": "1 settembre 1833 ",
+                "target": "02f63a",
+                "chapter": "03"
+              },
+              {
+                "label": "20 ottobre 1833 ",
+                "target": "e51ae1",
+                "chapter": "03"
+              },
+              {
+                "label": "3 dicembre 1833 ",
+                "target": "74b2fa",
+                "chapter": "03"
+              },
+              {
+                "label": "9 gennaio 1835 ",
+                "target": "dca049",
+                "chapter": "03"
+              },
+              {
+                "label": "20 maggio 1835 ",
+                "target": "5c71bd",
+                "chapter": "03"
+              },
+              {
+                "label": "metà 1835 ",
+                "target": "507ac1",
+                "chapter": "03"
+              },
+              {
+                "label": "fine 1835–inizio 1836",
+                "target": "c524a4",
+                "chapter": "03"
+              },
+              {
+                "label": "4 giugno 1836 ",
+                "target": "4585e9",
+                "chapter": "03"
+              },
+              {
+                "label": "3 luglio 1836 ",
+                "target": "244d7c",
+                "chapter": "03"
+              },
+              {
+                "label": "15 aprile 1837",
+                "target": "fd89d4",
+                "chapter": "03"
+              },
+              {
+                "label": "23 settembre 1837 ",
+                "target": "0e9fa7",
+                "chapter": "03"
+              },
+              {
+                "label": "1838 ",
+                "target": "50498b",
+                "chapter": "03"
+              },
+              {
+                "label": "28 maggio 1838 ",
+                "target": "f81ac7",
+                "chapter": "03"
+              },
+              {
+                "label": "inizio–metà 1839 ",
+                "target": "36d364",
+                "chapter": "03"
+              },
+              {
+                "label": "dicembre 1839 ",
+                "target": "50eb4b",
+                "chapter": "03"
+              },
+              {
+                "label": "17 gennaio 1840 ",
+                "target": "b06e6a",
+                "chapter": "03"
+              },
+              {
+                "label": "22 maggio 1840 ",
+                "target": "c6e263",
+                "chapter": "03"
+              },
+              {
+                "label": "22 settembre 1840 ",
+                "target": "a9ea18",
+                "chapter": "03"
+              },
+              {
+                "label": "15 maggio 1841 ",
+                "target": "8e4ecb",
+                "chapter": "03"
+              },
+              {
+                "label": "1842 ",
+                "target": "ca276c",
+                "chapter": "03"
+              },
+              {
+                "label": "gennaio–ottobre 1842 ",
+                "target": "64507f",
+                "chapter": "03"
+              },
+              {
+                "label": "aprile 1843 ",
+                "target": "454574",
+                "chapter": "03"
+              },
+              {
+                "label": "1844 ",
+                "target": "d1b939",
+                "chapter": "03"
+              },
+              {
+                "label": "10 febbraio 1845 ",
+                "target": "cfe226",
+                "chapter": "03"
+              },
+              {
+                "label": "18 febbraio 1847 ",
+                "target": "cc02c6",
+                "chapter": "03"
+              },
+              {
+                "label": "1848 ",
+                "target": "f54831",
+                "chapter": "03"
+              },
+              {
+                "label": "marzo–ottobre 1848 ",
+                "target": "835a45",
+                "chapter": "03"
+              },
+              {
+                "label": "dicembre 1848–febbraio 1849 ",
+                "target": "c372d5",
+                "chapter": "03"
+              },
+              {
+                "label": "febbraio–luglio 1849 ",
+                "target": "d2bd9e",
+                "chapter": "03"
+              },
+              {
+                "label": "24 luglio 1850 ",
+                "target": "20f799",
+                "chapter": "03"
+              },
+              {
+                "label": "settembre 1850 ",
+                "target": "ed2bc9",
+                "chapter": "03"
+              },
+              {
+                "label": "18 ottobre 1850 ",
+                "target": "145690",
+                "chapter": "03"
+              },
+              {
+                "label": "15 novembre 1850 ",
+                "target": "fdb361",
+                "chapter": "03"
+              },
+              {
+                "label": "1851–1855 ",
+                "target": "01c06e",
+                "chapter": "03"
+              },
+              {
+                "label": "26 marzo 1852 ",
+                "target": "c95e28",
+                "chapter": "03"
+              },
+              {
+                "label": "novembre-dicembre 1852 ",
+                "target": "59b8b2",
+                "chapter": "03"
+              },
+              {
+                "label": "28 dicembre 1852 ",
+                "target": "2c44e1",
+                "chapter": "03"
+              },
+              {
+                "label": "17 gennaio 1853 ",
+                "target": "b441a2",
+                "chapter": "03"
+              },
+              {
+                "label": "febbraio 1853 ",
+                "target": "a8e6d5",
+                "chapter": "03"
+              },
+              {
+                "label": "15 marzo 1853 ",
+                "target": "4a2a62",
+                "chapter": "03"
+              },
+              {
+                "label": "28 maggio 1854 ",
+                "target": "04536b",
+                "chapter": "03"
+              },
+              {
+                "label": "estate 1854 ",
+                "target": "fb8483",
+                "chapter": "03"
+              },
+              {
+                "label": "26 febbraio 1855 ",
+                "target": "bc8fda",
+                "chapter": "03"
+              },
+              {
+                "label": "27 marzo 1855 ",
+                "target": "321a85",
+                "chapter": "03"
+              },
+              {
+                "label": "19 ottobre 1855 ",
+                "target": "f99683",
+                "chapter": "03"
+              },
+              {
+                "label": "gennaio/settembre 1856 ",
+                "target": "66770b",
+                "chapter": "03"
+              },
+              {
+                "label": "1857 ",
+                "target": "b3d744",
+                "chapter": "03"
+              },
+              {
+                "label": "gennaio 1858 ",
+                "target": "9b3f99",
+                "chapter": "03"
+              },
+              {
+                "label": "14 dicembre 1858 ",
+                "target": "44b463",
+                "chapter": "03"
+              },
+              {
+                "label": "15 dicembre 1858 ",
+                "target": "c4b094",
+                "chapter": "03"
+              },
+              {
+                "label": "1860–1868 ",
+                "target": "a018ee",
+                "chapter": "03"
+              },
+              {
+                "label": "17 marzo 1861 ",
+                "target": "b5e363",
+                "chapter": "03"
+              },
+              {
+                "label": "luglio 1863 ",
+                "target": "7610fe",
+                "chapter": "03"
+              },
+              {
+                "label": "10 luglio 1867 ",
+                "target": "fef50a",
+                "chapter": "03"
+              },
+              {
+                "label": "22 luglio 1868 ",
+                "target": "65e880",
+                "chapter": "03"
+              },
+              {
+                "label": "17 agosto 1868 ",
+                "target": "32e348",
+                "chapter": "03"
+              },
+              {
+                "label": "fine 1868/inizio 1869 ",
+                "target": "97f567",
+                "chapter": "03"
+              },
+              {
+                "label": "13 maggio 1869 ",
+                "target": "ecf384",
+                "chapter": "03"
+              },
+              {
+                "label": "20 settembre 1869 ",
+                "target": "302315",
+                "chapter": "03"
+              },
+              {
+                "label": "21 aprile 1870 ",
+                "target": "999ea2",
+                "chapter": "03"
+              },
+              {
+                "label": "20 novembre 1872 ",
+                "target": "449fb8",
+                "chapter": "03"
+              },
+              {
+                "label": "1 gennaio 1884 ",
+                "target": "f4a107",
+                "chapter": "03"
+              },
+              {
+                "label": "1886 ",
+                "target": "79bba8",
+                "chapter": "03"
+              },
+              {
+                "label": "1887 ",
+                "target": "1b786b",
+                "chapter": "03"
+              },
+              {
+                "label": "30 maggio 1888 ",
+                "target": "46c0ba",
+                "chapter": "03"
+              },
+              {
+                "label": "19 maggio 1902 ",
+                "target": "54d79b",
+                "chapter": "03"
+              }
+            ]
+          },
+          {
+            "name": "4. Carteggio",
+            "subtitle": "Lettere di corrispondenza di vari attori legati agli eventi (1826–1863): ",
+            "link": [
+              {
+                "label": "Carteggio.1826.1 ",
+                "target": "8a6966",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1826.2 ",
+                "target": "a0145d",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1827.1 ",
+                "target": "554a6f",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1828.1 ",
+                "target": "1defc5",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1828.2 ",
+                "target": "217d39",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1831.1 ",
+                "target": "9cb620",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1831.2 ",
+                "target": "83615e",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1832.1 ",
+                "target": "165384",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1832.2 ",
+                "target": "cc2165",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1833.1 ",
+                "target": "dafe4e",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1833.2 ",
+                "target": "456943",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1833.3 ",
+                "target": "ae05fe",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1835.1 ",
+                "target": "b15910",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1835.2 ",
+                "target": "3c2c8b",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1835.3 ",
+                "target": "812b09",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1836.1 ",
+                "target": "bc067b",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1836.2 ",
+                "target": "4fdedd",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1836.3",
+                "target": "c68f2c",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1836.4",
+                "target": "f7ce8f",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1836.5 ",
+                "target": "8594cf",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1836.6 ",
+                "target": "be52e3",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1836.7 ",
+                "target": "2a662f",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1836.8 ",
+                "target": "cd8fd7",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1836.9 ",
+                "target": "e60d95",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1836.10 ",
+                "target": "fefcdb",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1837.1 ",
+                "target": "405fc6",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1837.2 ",
+                "target": "66e49b",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1838.1 ",
+                "target": "686e12",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1838.2 ",
+                "target": "01b27b",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1838.3 ",
+                "target": "bc33c6",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1841.1 ",
+                "target": "0c4168",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1841.2 ",
+                "target": "552d1d",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1841.3 ",
+                "target": "9bd821",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1842.1 ",
+                "target": "08e025",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1842.2 ",
+                "target": "626252",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1842.3 ",
+                "target": "7f4af6",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1843.1 ",
+                "target": "7a38e8",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1843.2 ",
+                "target": "b7d05f",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1843.3 ",
+                "target": "0b07ef",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1844.1 ",
+                "target": "991d16",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1844.2 ",
+                "target": "771b11",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1844.3 ",
+                "target": "1705d5",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1844.4 ",
+                "target": "400457",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1844.5 ",
+                "target": "967b44",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1847.1 ",
+                "target": "5bbcfb",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1848.1 ",
+                "target": "2d08e1",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1848.2 ",
+                "target": "df103f",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1849.1 ",
+                "target": "396321",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1849.2 ",
+                "target": "56c8a3",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1849.3 ",
+                "target": "7c8f94",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1849.4 ",
+                "target": "c9ca3a",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1849.5 ",
+                "target": "a8268a",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1850.1 ",
+                "target": "0c15c0",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1850.2a ",
+                "target": "9c0570",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1850.2b ",
+                "target": "ae7b12",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1852.1 ",
+                "target": "980ac1",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1852.2 ",
+                "target": "fd0831",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1852.3 ",
+                "target": "17e140",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1852.4 ",
+                "target": "e2df2d",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1852.5 ",
+                "target": "2e2de0",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1852.6 ",
+                "target": "3d2cb1",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1853.1 ",
+                "target": "b5f08a",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1853.2 ",
+                "target": "535b83",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1853.3 ",
+                "target": "bc9923",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1853.4 ",
+                "target": "8945e3",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1853.5 ",
+                "target": "49ca58",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1854.1 ",
+                "target": "acc4b4",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1854.2 ",
+                "target": "f890d2",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1855.1 ",
+                "target": "41adec",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1855.2 ",
+                "target": "1324cd",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1855.3 ",
+                "target": "b4c4e8",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1855.4 ",
+                "target": "0c700a",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1858.1 ",
+                "target": "ba6c59",
+                "chapter": "04"
+              },
+              {
+                "label": "Carteggio.1863.1 ",
+                "target": "bfc730",
+                "chapter": "04"
+              }
+            ]
+          },
+          {
+            "name": "5. Depositi",
+            "subtitle": "Elenco dei prodotti depositati ufficialmente presso il Consiglio di Stato ticinese\n            ",
+            "group": [
+              {
+                "name": "5. Depositi - Carlo Pozzi (1836–1855)",
+                "link": [
+                  [
+                    {
+                      "label": "a) sintesi cronologica",
+                      "target": "53349a",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "b) sintesi quantitativa e per tipologie",
+                      "target": "a40323",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "> sintesi quantitativa dei materiali documentati (forma riassuntiva)",
+                      "target": "209035",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "> sintesi quantitativa dei materiali documentati (forma completa)",
+                      "target": "72dded",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "> sintesi dei materiali documentati per tipologie (forma ridotta)",
+                      "target": "ae0a2f",
+                      "chapter": "05"
+                    }
+                  ]
+                ]
+              },
+              {
+                "name": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)",
+                "link": [
+                  [
+                    {
+                      "label": "a) sintesi cronologica",
+                      "target": "0a9d4b",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "b) sintesi quantitativa e per tipologie",
+                      "target": "12899a",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "> sintesi quantitativa dei materiali documentati (forma ridotta)",
+                      "target": "08c6f6",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "> sintesi quantitativa dei materiali documentati (forma completa)",
+                      "target": "d61a83",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "> sintesi dei materiali documentati per tipologie",
+                      "target": "76930d",
+                      "chapter": "05"
+                    }
+                  ]
+                ]
+              },
+              {
+                "name": "5. Depositi - Achille Bustelli-Rossi (1857–1867)",
+                "link": [
+                  [
+                    {
+                      "label": "a) sintesi cronologica",
+                      "target": "55ddb8",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "b) sintesi quantitativa e per tipologie",
+                      "target": "242133",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "> sintesi quantitativa dei materiali documentati (forma riassuntiva)",
+                      "target": "493b44",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "> sintesi quantitativa dei materiali documentati (forma completa)",
+                      "target": "aba543",
+                      "chapter": "05"
+                    },
+                    {
+                      "label": "> sintesi dei materiali documentati per tipologie",
+                      "target": "a908e7",
+                      "chapter": "05"
+                    }
+                  ]
+                ]
+              },
+              {
+                "name": "5. Depositi - Francesco Veladini (1860–1866)",
+                "link": [
+                  [
+                    {
+                      "label": "> sintesi cronologica",
+                      "target": "b3a5b0",
+                      "chapter": "05"
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

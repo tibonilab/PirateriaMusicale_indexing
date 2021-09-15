@@ -1,0 +1,4136 @@
+{
+  "index": {
+    "group": [
+      {
+        "name": "Composers",
+        "group": [
+          {
+            "name": "Czerny, Carl (1791–1857)",
+            "link": [
+              {
+                "label": "* 27 giugno 1836",
+                "target": "f1d137",
+                "chapter": "06"
+              },
+              {
+                "label": "2 ottobre 1842",
+                "target": "582264",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1843",
+                "target": "5c6db7",
+                "chapter": "06"
+              },
+              {
+                "label": "22 luglio 1843",
+                "target": "e6c20d",
+                "chapter": "06"
+              },
+              {
+                "label": "18 settembre 1843",
+                "target": "4edbac",
+                "chapter": "06"
+              },
+              {
+                "label": "18 settembre 1843",
+                "target": "5a94b3",
+                "chapter": "06"
+              },
+              {
+                "label": "* 11 novembre 1840",
+                "target": "f117e3",
+                "chapter": "06"
+              },
+              {
+                "label": "* 11 novembre 1840",
+                "target": "b8d58b",
+                "chapter": "06"
+              },
+              {
+                "label": "* [1843]",
+                "target": "d7f2d6",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Benedict, Julius (1804–1885)",
+            "link": [
+              {
+                "label": "* 27 giugno 1836",
+                "target": "ab5ba9",
+                "chapter": "06"
+              },
+              {
+                "label": "* 11 ottobre 1836",
+                "target": "b408b4",
+                "chapter": "06"
+              },
+              {
+                "label": "* 30 dicembre 1836",
+                "target": "7306d1",
+                "chapter": "06"
+              },
+              {
+                "label": "* 30 dicembre 1836",
+                "target": "5f00ea",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "07747d",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Fanna, Antonio (1793–1845)",
+            "link": [
+              {
+                "label": "* [ante ottobre 1836]",
+                "target": "8c52e7",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] agosto 1844",
+                "target": "65bada",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "38c2de",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Coppola, Pietro Antonio (1793–1877)",
+            "link": [
+              {
+                "label": "* 7 settembre 1836",
+                "target": "3f661d",
+                "chapter": "06"
+              },
+              {
+                "label": "* 17 luglio 1837",
+                "target": "5402f5",
+                "chapter": "06"
+              },
+              {
+                "label": "* 24 luglio 1837",
+                "target": "dd0f96",
+                "chapter": "06"
+              },
+              {
+                "label": "* 19 novembre 1838",
+                "target": "12ea77",
+                "chapter": "06"
+              },
+              {
+                "label": "4 settembre 1846",
+                "target": "0bd800",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Donizetti, Gaetano (1797–1848)",
+            "link": [
+              {
+                "label": "* 26 settembre 1836",
+                "target": "abad11",
+                "chapter": "06"
+              },
+              {
+                "label": "* [tra novembre e 31 dicembre] 1836",
+                "target": "881c17",
+                "chapter": "06"
+              },
+              {
+                "label": "* 28 aprile 1837",
+                "target": "1bf242",
+                "chapter": "06"
+              },
+              {
+                "label": "26 gennaio 1842",
+                "target": "d6987a",
+                "chapter": "06"
+              },
+              {
+                "label": "9 febbraio 1842",
+                "target": "55ef31",
+                "chapter": "06"
+              },
+              {
+                "label": "21 febbraio 1842",
+                "target": "35d674",
+                "chapter": "06"
+              },
+              {
+                "label": "26 febbraio 1842",
+                "target": "2f2f59",
+                "chapter": "06"
+              },
+              {
+                "label": "3 luglio 1842",
+                "target": "6eef91",
+                "chapter": "06"
+              },
+              {
+                "label": "5 agosto 1842",
+                "target": "1ee0f0",
+                "chapter": "06"
+              },
+              {
+                "label": "16 agosto 1842",
+                "target": "fe6727",
+                "chapter": "06"
+              },
+              {
+                "label": "24 agosto 1842",
+                "target": "b4b201",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1842",
+                "target": "401835",
+                "chapter": "06"
+              },
+              {
+                "label": "16 settembre 1842",
+                "target": "26d730",
+                "chapter": "06"
+              },
+              {
+                "label": "24 settembre 1842",
+                "target": "2b8cc9",
+                "chapter": "06"
+              },
+              {
+                "label": "24 settembre 1842",
+                "target": "1da11f",
+                "chapter": "06"
+              },
+              {
+                "label": "2 ottobre 1842",
+                "target": "070afb",
+                "chapter": "06"
+              },
+              {
+                "label": "2 ottobre 1842",
+                "target": "643ca5",
+                "chapter": "06"
+              },
+              {
+                "label": "13 dicembre 1842",
+                "target": "6cb083",
+                "chapter": "06"
+              },
+              {
+                "label": "15 gennaio 1843",
+                "target": "2cf136",
+                "chapter": "06"
+              },
+              {
+                "label": "24 gennaio 1843",
+                "target": "5c2a3d",
+                "chapter": "06"
+              },
+              {
+                "label": "24 gennaio 1843",
+                "target": "854990",
+                "chapter": "06"
+              },
+              {
+                "label": "6 febbraio 1843",
+                "target": "351bc0",
+                "chapter": "06"
+              },
+              {
+                "label": "9 febbraio 1843",
+                "target": "5ab599",
+                "chapter": "06"
+              },
+              {
+                "label": "7 marzo 1843",
+                "target": "edf0f3",
+                "chapter": "06"
+              },
+              {
+                "label": "7 marzo 1843",
+                "target": "d05440",
+                "chapter": "06"
+              },
+              {
+                "label": "7 marzo 1843",
+                "target": "7dc996",
+                "chapter": "06"
+              },
+              {
+                "label": "27 marzo 1843",
+                "target": "bf1117",
+                "chapter": "06"
+              },
+              {
+                "label": "3 aprile 1843",
+                "target": "d0e38a",
+                "chapter": "06"
+              },
+              {
+                "label": "6 aprile 1843",
+                "target": "2984c9",
+                "chapter": "06"
+              },
+              {
+                "label": "12 maggio 1843",
+                "target": "f24b5a",
+                "chapter": "06"
+              },
+              {
+                "label": "12 maggio 1843",
+                "target": "81ad72",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1843",
+                "target": "fdaf63",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1843",
+                "target": "c736af",
+                "chapter": "06"
+              },
+              {
+                "label": "6 luglio 1843",
+                "target": "9d4896",
+                "chapter": "06"
+              },
+              {
+                "label": "22 luglio 1843",
+                "target": "a333c6",
+                "chapter": "06"
+              },
+              {
+                "label": "14 agosto 1843",
+                "target": "2740da",
+                "chapter": "06"
+              },
+              {
+                "label": "18 settembre 1843",
+                "target": "5cddb9",
+                "chapter": "06"
+              },
+              {
+                "label": "11 ottobre 1843",
+                "target": "279d86",
+                "chapter": "06"
+              },
+              {
+                "label": "11 ottobre 1843",
+                "target": "7b7671",
+                "chapter": "06"
+              },
+              {
+                "label": "9 dicembre 1843",
+                "target": "011cd7",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1844",
+                "target": "4a531a",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] agosto 1844",
+                "target": "d3b425",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "c76bec",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "63dee8",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "a21853",
+                "chapter": "06"
+              },
+              {
+                "label": "* [ante 29 maggio 1838]",
+                "target": "11b056",
+                "chapter": "06"
+              },
+              {
+                "label": "* 29 maggio 1838",
+                "target": "be3487",
+                "chapter": "06"
+              },
+              {
+                "label": "* 31 agosto 1838",
+                "target": "56ee36",
+                "chapter": "06"
+              },
+              {
+                "label": "* 11 novembre 1840",
+                "target": "bce68e",
+                "chapter": "06"
+              },
+              {
+                "label": "* 13 febbraio 1841",
+                "target": "6192b9",
+                "chapter": "06"
+              },
+              {
+                "label": "* [tra 13 febbraio e 12 maggio 1841]",
+                "target": "ca5fa6",
+                "chapter": "06"
+              },
+              {
+                "label": "* 23 giugno 1841",
+                "target": "fd4692",
+                "chapter": "06"
+              },
+              {
+                "label": "6 dicembre 1849",
+                "target": "7f70a6",
+                "chapter": "06"
+              },
+              {
+                "label": "23 dicembre 1849",
+                "target": "6246de",
+                "chapter": "06"
+              },
+              {
+                "label": "17 gennaio 1850",
+                "target": "abb4b4",
+                "chapter": "06"
+              },
+              {
+                "label": "23 dicembre 1850",
+                "target": "9bf793",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Rossini, Gioachino (1792–1868)",
+            "link": [
+              {
+                "label": "* 30 dicembre 1836",
+                "target": "578161",
+                "chapter": "06"
+              },
+              {
+                "label": "26 dicembre 1841",
+                "target": "d5300b",
+                "chapter": "06"
+              },
+              {
+                "label": "20 marzo 1842",
+                "target": "64efe9",
+                "chapter": "06"
+              },
+              {
+                "label": "18 luglio 1842",
+                "target": "c971c0",
+                "chapter": "06"
+              },
+              {
+                "label": "31 dicembre 1844",
+                "target": "c9edb6",
+                "chapter": "06"
+              },
+              {
+                "label": "17 gennaio 1850",
+                "target": "502cb8",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Raimondi, Pietro (1786–1853)",
+            "link": [
+              {
+                "label": "* [tra ottobre 1836 e marzo 1837]",
+                "target": "f92ae7",
+                "chapter": "06"
+              },
+              {
+                "label": "14 febbraio 1846",
+                "target": "5501a3",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Mercadante, Saverio (1795–1870)",
+            "link": [
+              {
+                "label": "* 30 marzo 1837",
+                "target": "81f493",
+                "chapter": "06"
+              },
+              {
+                "label": "* 18 gennaio 1839",
+                "target": "9b8d8e",
+                "chapter": "06"
+              },
+              {
+                "label": "* 10 febbraio 1839",
+                "target": "1a3dfb",
+                "chapter": "06"
+              },
+              {
+                "label": "* 27 marzo 1839",
+                "target": "601ce5",
+                "chapter": "06"
+              },
+              {
+                "label": "26 febbraio 1842",
+                "target": "a05229",
+                "chapter": "06"
+              },
+              {
+                "label": "20 marzo 1842",
+                "target": "541649",
+                "chapter": "06"
+              },
+              {
+                "label": "14 giugno 1843",
+                "target": "45da9a",
+                "chapter": "06"
+              },
+              {
+                "label": "12 gennaio 1847",
+                "target": "42e34b",
+                "chapter": "06"
+              },
+              {
+                "label": "* [ante 29 maggio 1838]",
+                "target": "6fcfc3",
+                "chapter": "06"
+              },
+              {
+                "label": "* 31 agosto 1838",
+                "target": "decfc6",
+                "chapter": "06"
+              },
+              {
+                "label": "20 luglio 1845",
+                "target": "00de1e",
+                "chapter": "06"
+              },
+              {
+                "label": "16 dicembre 1850",
+                "target": "00bb42",
+                "chapter": "06"
+              },
+              {
+                "label": "16 dicembre 1850",
+                "target": "d9650d",
+                "chapter": "06"
+              },
+              {
+                "label": "5 maggio 1851",
+                "target": "efc66b",
+                "chapter": "06"
+              },
+              {
+                "label": "16 gennaio 1853",
+                "target": "62a40f",
+                "chapter": "06"
+              },
+              {
+                "label": "20 giugno 1853",
+                "target": "cd86c9",
+                "chapter": "06"
+              },
+              {
+                "label": "13 novembre 1853",
+                "target": "3c99b8",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Bellini, Vincenzo (1801–1835)",
+            "link": [
+              {
+                "label": "* 17 ottobre 1837",
+                "target": "db01f7",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Obiols, Mariano (1809–1888)",
+            "link": [
+              {
+                "label": "* 17 ottobre 1837",
+                "target": "674c4b",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Levi, Samuele (1813–1883)",
+            "link": [
+              {
+                "label": "* 23 novembre 1837",
+                "target": "d7b025",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Nini, Alessandro (1805–1880)",
+            "link": [
+              {
+                "label": "* 11 gennaio 1838",
+                "target": "1de80a",
+                "chapter": "06"
+              },
+              {
+                "label": "* 29 gennaio 1838",
+                "target": "405477",
+                "chapter": "06"
+              },
+              {
+                "label": "* 26 febbraio 1838",
+                "target": "09fbc3",
+                "chapter": "06"
+              },
+              {
+                "label": "* 31 agosto 1841",
+                "target": "d467a7",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Bordogni, Marco (1789–1856)",
+            "link": [
+              {
+                "label": "* 12 febbraio 1838",
+                "target": "7f067a",
+                "chapter": "06"
+              },
+              {
+                "label": "* 12 maggio 1841",
+                "target": "a1e191",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Ricci, Luigi (1805–1859)",
+            "link": [
+              {
+                "label": "* 26 febbraio 1838",
+                "target": "550a47",
+                "chapter": "06"
+              },
+              {
+                "label": "19 agosto 1841",
+                "target": "661de7",
+                "chapter": "06"
+              },
+              {
+                "label": "15 marzo 1850",
+                "target": "8d0ccf",
+                "chapter": "06"
+              },
+              {
+                "label": "23 aprile 1850",
+                "target": "2ff0a2",
+                "chapter": "06"
+              },
+              {
+                "label": "20 aprile 1854",
+                "target": "c3bfe0",
+                "chapter": "06"
+              },
+              {
+                "label": "28 maggio 1854",
+                "target": "8bc147",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Vaccaj, Nicola (1790–1848)",
+            "link": [
+              {
+                "label": "* 16 maggio 1838",
+                "target": "60711b",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Parish Alvars, E.  (Elias Parish Alvars, 1808–1849)",
+            "link": [
+              {
+                "label": "* 17 novembre 1838",
+                "target": "8cd0b8",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Lickl, Ferdinand Carl (1803–1864)",
+            "link": [
+              {
+                "label": "* 19 novembre 1838",
+                "target": "2ad9c1",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "D’Alberti, Francesco (fl. 1835–1845)",
+            "link": [
+              {
+                "label": "* 19 novembre 1838",
+                "target": "a5d4ab",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Nava, Gaetano (1802–1875)",
+            "link": [
+              {
+                "label": "* [ante 1839]",
+                "target": "d0c8ac",
+                "chapter": "06"
+              },
+              {
+                "label": "[5] novembre 1849",
+                "target": "6dddc6",
+                "chapter": "06"
+              },
+              {
+                "label": "3 febbraio 1850",
+                "target": "5f5f00",
+                "chapter": "06"
+              },
+              {
+                "label": "6 marzo 1851",
+                "target": "76df32",
+                "chapter": "06"
+              },
+              {
+                "label": "5 maggio 1851",
+                "target": "53fd3d",
+                "chapter": "06"
+              },
+              {
+                "label": "4 gennaio 1853",
+                "target": "db32a7",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Liszt, Franz (1811–1886)",
+            "link": [
+              {
+                "label": "* 18 gennaio 1839",
+                "target": "635c3c",
+                "chapter": "06"
+              },
+              {
+                "label": "* 9 aprile 1839",
+                "target": "2b7ace",
+                "chapter": "06"
+              },
+              {
+                "label": "* 30 giugno 1842",
+                "target": "720dad",
+                "chapter": "06"
+              },
+              {
+                "label": "* 22 febbraio 1845",
+                "target": "5178cb",
+                "chapter": "06"
+              },
+              {
+                "label": "25 giugno 1846",
+                "target": "d3ca84",
+                "chapter": "06"
+              },
+              {
+                "label": "4 settembre 1846",
+                "target": "d278fe",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Thalberg, Sigismund (1812–1871)",
+            "link": [
+              {
+                "label": "* 18 gennaio 1839",
+                "target": "ddcded",
+                "chapter": "06"
+              },
+              {
+                "label": "* 9 aprile 1839",
+                "target": "355aac",
+                "chapter": "06"
+              },
+              {
+                "label": "* [ante 16 dicembre 1839]",
+                "target": "24fd24",
+                "chapter": "06"
+              },
+              {
+                "label": "14 giugno 1843",
+                "target": "4dbea9",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1843",
+                "target": "f8824f",
+                "chapter": "06"
+              },
+              {
+                "label": "22 luglio 1843",
+                "target": "1f22d7",
+                "chapter": "06"
+              },
+              {
+                "label": "18 settembre 1843",
+                "target": "d2b95e",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "6a0db8",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1844",
+                "target": "c4aeb1",
+                "chapter": "06"
+              },
+              {
+                "label": "4 novembre 1844",
+                "target": "0c1cf8",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "0b48d4",
+                "chapter": "06"
+              },
+              {
+                "label": "* 22 febbraio 1845",
+                "target": "035198",
+                "chapter": "06"
+              },
+              {
+                "label": "* 22 febbraio 1845",
+                "target": "f7ce03",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "451717",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "1f8c29",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "1af74f",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1845",
+                "target": "cc1afb",
+                "chapter": "06"
+              },
+              {
+                "label": "27 novembre 1845",
+                "target": "9f933d",
+                "chapter": "06"
+              },
+              {
+                "label": "26 ottobre 1846",
+                "target": "c2c171",
+                "chapter": "06"
+              },
+              {
+                "label": "28 gennaio 1849",
+                "target": "d658cb",
+                "chapter": "06"
+              },
+              {
+                "label": "* [1843]",
+                "target": "8d9e25",
+                "chapter": "06"
+              },
+              {
+                "label": "20 luglio 1845",
+                "target": "482ba3",
+                "chapter": "06"
+              },
+              {
+                "label": "25 luglio 1850",
+                "target": "dfee33",
+                "chapter": "06"
+              },
+              {
+                "label": "20 giugno 1853",
+                "target": "bb9e1b",
+                "chapter": "06"
+              },
+              {
+                "label": "13 novembre 1853",
+                "target": "14b561",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1862",
+                "target": "89963c",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Herz, Henri (Heinrich Herz, 1803–1888)",
+            "link": [
+              {
+                "label": "* 18 gennaio 1839",
+                "target": "612893",
+                "chapter": "06"
+              },
+              {
+                "label": "2 ottobre 1842",
+                "target": "5a3717",
+                "chapter": "06"
+              },
+              {
+                "label": "14 giugno 1843",
+                "target": "6d2c6c",
+                "chapter": "06"
+              },
+              {
+                "label": "11 ottobre 1843",
+                "target": "dd1dcb",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "aa6a10",
+                "chapter": "06"
+              },
+              {
+                "label": "9 dicembre 1843",
+                "target": "35634f",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1844",
+                "target": "45fa06",
+                "chapter": "06"
+              },
+              {
+                "label": "* [ante 18 aprile 1844]",
+                "target": "dbdb68",
+                "chapter": "06"
+              },
+              {
+                "label": "4 novembre 1844",
+                "target": "1c39dc",
+                "chapter": "06"
+              },
+              {
+                "label": "27 novembre 1845",
+                "target": "1d771f",
+                "chapter": "06"
+              },
+              {
+                "label": "8 dicembre 1845",
+                "target": "b61e2a",
+                "chapter": "06"
+              },
+              {
+                "label": "* [ante 4 settembre 1846]",
+                "target": "7120a4",
+                "chapter": "06"
+              },
+              {
+                "label": "4 settembre 1846",
+                "target": "8218c5",
+                "chapter": "06"
+              },
+              {
+                "label": "* [ante 1840]",
+                "target": "ede943",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Verdi, Giuseppe (1813–1901)",
+            "link": [
+              {
+                "label": "16 dicembre 1839",
+                "target": "3b48be",
+                "chapter": "06"
+              },
+              {
+                "label": "19 gennaio 1840",
+                "target": "40989c",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1842",
+                "target": "75642d",
+                "chapter": "06"
+              },
+              {
+                "label": "9 settembre 1842",
+                "target": "165ae5",
+                "chapter": "06"
+              },
+              {
+                "label": "9 settembre 1842",
+                "target": "50f264",
+                "chapter": "06"
+              },
+              {
+                "label": "16 settembre 1842",
+                "target": "3bb774",
+                "chapter": "06"
+              },
+              {
+                "label": "16 settembre 1842",
+                "target": "36b03b",
+                "chapter": "06"
+              },
+              {
+                "label": "24 settembre 1842",
+                "target": "2c3cf5",
+                "chapter": "06"
+              },
+              {
+                "label": "24 settembre 1842",
+                "target": "552bbe",
+                "chapter": "06"
+              },
+              {
+                "label": "15 ottobre 1842",
+                "target": "fcaabc",
+                "chapter": "06"
+              },
+              {
+                "label": "15 ottobre 1842",
+                "target": "6e846c",
+                "chapter": "06"
+              },
+              {
+                "label": "27 marzo 1843",
+                "target": "d02739",
+                "chapter": "06"
+              },
+              {
+                "label": "27 marzo 1843",
+                "target": "e6e8d0",
+                "chapter": "06"
+              },
+              {
+                "label": "3 aprile 1843",
+                "target": "7a76b3",
+                "chapter": "06"
+              },
+              {
+                "label": "3 aprile 1843",
+                "target": "50dfae",
+                "chapter": "06"
+              },
+              {
+                "label": "6 aprile 1843",
+                "target": "c66692",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "2354cb",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1844",
+                "target": "65a152",
+                "chapter": "06"
+              },
+              {
+                "label": "* 18 aprile 1844",
+                "target": "813eeb",
+                "chapter": "06"
+              },
+              {
+                "label": "* 29 aprile 1844",
+                "target": "4e4274",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] agosto 1844",
+                "target": "25df99",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] agosto 1844",
+                "target": "16a285",
+                "chapter": "06"
+              },
+              {
+                "label": "29 agosto 1844",
+                "target": "8b538a",
+                "chapter": "06"
+              },
+              {
+                "label": "14 novembre 1844",
+                "target": "308211",
+                "chapter": "06"
+              },
+              {
+                "label": "14 novembre 1844",
+                "target": "927eea",
+                "chapter": "06"
+              },
+              {
+                "label": "2 dicembre 1844",
+                "target": "760d2c",
+                "chapter": "06"
+              },
+              {
+                "label": "2 dicembre 1844",
+                "target": "26a6d3",
+                "chapter": "06"
+              },
+              {
+                "label": "7 dicembre 1844",
+                "target": "2fe265",
+                "chapter": "06"
+              },
+              {
+                "label": "7 dicembre 1844",
+                "target": "c669ed",
+                "chapter": "06"
+              },
+              {
+                "label": "* 19 marzo 1845",
+                "target": "cb2c47",
+                "chapter": "06"
+              },
+              {
+                "label": "29 marzo 1845",
+                "target": "54ce87",
+                "chapter": "06"
+              },
+              {
+                "label": "29 marzo 1845",
+                "target": "6fdaf1",
+                "chapter": "06"
+              },
+              {
+                "label": "5 aprile 1845",
+                "target": "e3d0f1",
+                "chapter": "06"
+              },
+              {
+                "label": "8 aprile 1845",
+                "target": "1badc0",
+                "chapter": "06"
+              },
+              {
+                "label": "8 aprile 1845",
+                "target": "4bd864",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "420383",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "732039",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1845",
+                "target": "e5fee4",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1845",
+                "target": "034d79",
+                "chapter": "06"
+              },
+              {
+                "label": "24 settembre 1845",
+                "target": "ef2c43",
+                "chapter": "06"
+              },
+              {
+                "label": "24 settembre 1845",
+                "target": "8d3ba7",
+                "chapter": "06"
+              },
+              {
+                "label": "8 ottobre 1845",
+                "target": "adec28",
+                "chapter": "06"
+              },
+              {
+                "label": "8 ottobre 1845",
+                "target": "c43a63",
+                "chapter": "06"
+              },
+              {
+                "label": "14 ottobre 1845",
+                "target": "8d5d6d",
+                "chapter": "06"
+              },
+              {
+                "label": "14 ottobre 1845",
+                "target": "3cb45e",
+                "chapter": "06"
+              },
+              {
+                "label": "19 gennaio 1846",
+                "target": "6674c5",
+                "chapter": "06"
+              },
+              {
+                "label": "19 gennaio 1846",
+                "target": "628088",
+                "chapter": "06"
+              },
+              {
+                "label": "23 marzo 1847",
+                "target": "80f8b1",
+                "chapter": "06"
+              },
+              {
+                "label": "23 marzo 1847",
+                "target": "bccce9",
+                "chapter": "06"
+              },
+              {
+                "label": "8 aprile 1847",
+                "target": "6b3561",
+                "chapter": "06"
+              },
+              {
+                "label": "21 aprile 1847",
+                "target": "5ef4bc",
+                "chapter": "06"
+              },
+              {
+                "label": "18 marzo 1848",
+                "target": "3b2fbc",
+                "chapter": "06"
+              },
+              {
+                "label": "18 marzo 1848",
+                "target": "2057b9",
+                "chapter": "06"
+              },
+              {
+                "label": "* 29 maggio 1848",
+                "target": "7e3142",
+                "chapter": "06"
+              },
+              {
+                "label": "* 29 maggio 1848",
+                "target": "e28ae4",
+                "chapter": "06"
+              },
+              {
+                "label": "7 giugno 1848",
+                "target": "849745",
+                "chapter": "06"
+              },
+              {
+                "label": "16 giugno 1848",
+                "target": "4a968e",
+                "chapter": "06"
+              },
+              {
+                "label": "28 gennaio 1849",
+                "target": "dc5992",
+                "chapter": "06"
+              },
+              {
+                "label": "28 gennaio 1849",
+                "target": "b050c8",
+                "chapter": "06"
+              },
+              {
+                "label": "1 marzo 1849",
+                "target": "fa57ee",
+                "chapter": "06"
+              },
+              {
+                "label": "1 marzo 1849",
+                "target": "4f9d04",
+                "chapter": "06"
+              },
+              {
+                "label": "1 febbraio 1850",
+                "target": "b00f51",
+                "chapter": "06"
+              },
+              {
+                "label": "1 febbraio 1850",
+                "target": "929e1e",
+                "chapter": "06"
+              },
+              {
+                "label": "7 marzo 1850",
+                "target": "db4689",
+                "chapter": "06"
+              },
+              {
+                "label": "7 marzo 1850",
+                "target": "5335d3",
+                "chapter": "06"
+              },
+              {
+                "label": "15 marzo 1850",
+                "target": "3697eb",
+                "chapter": "06"
+              },
+              {
+                "label": "15 marzo 1850",
+                "target": "026bbc",
+                "chapter": "06"
+              },
+              {
+                "label": "20 novembre 1850",
+                "target": "1f2c9d",
+                "chapter": "06"
+              },
+              {
+                "label": "8 gennaio 1851",
+                "target": "07c762",
+                "chapter": "06"
+              },
+              {
+                "label": "8 gennaio 1851",
+                "target": "f3dde6",
+                "chapter": "06"
+              },
+              {
+                "label": "24 gennaio 1851",
+                "target": "b7fe12",
+                "chapter": "06"
+              },
+              {
+                "label": "24 gennaio 1851",
+                "target": "4a01de",
+                "chapter": "06"
+              },
+              {
+                "label": "8 febbraio 1851",
+                "target": "1d9e94",
+                "chapter": "06"
+              },
+              {
+                "label": "8 febbraio 1851",
+                "target": "11c116",
+                "chapter": "06"
+              },
+              {
+                "label": "2 aprile 1851",
+                "target": "b4ee80",
+                "chapter": "06"
+              },
+              {
+                "label": "2 aprile 1851",
+                "target": "f3897c",
+                "chapter": "06"
+              },
+              {
+                "label": "10 aprile 1851",
+                "target": "bc08cc",
+                "chapter": "06"
+              },
+              {
+                "label": "10 aprile 1851",
+                "target": "b41a52",
+                "chapter": "06"
+              },
+              {
+                "label": "24 aprile 1851",
+                "target": "a9a1dc",
+                "chapter": "06"
+              },
+              {
+                "label": "24 aprile 1851",
+                "target": "237627",
+                "chapter": "06"
+              },
+              {
+                "label": "17 maggio 1851",
+                "target": "976043",
+                "chapter": "06"
+              },
+              {
+                "label": "17 maggio 1851",
+                "target": "65ab11",
+                "chapter": "06"
+              },
+              {
+                "label": "21 maggio 1851",
+                "target": "fdd0be",
+                "chapter": "06"
+              },
+              {
+                "label": "21 maggio 1851",
+                "target": "354e7b",
+                "chapter": "06"
+              },
+              {
+                "label": "3 giugno 1851",
+                "target": "e0729c",
+                "chapter": "06"
+              },
+              {
+                "label": "3 giugno 1851",
+                "target": "95a179",
+                "chapter": "06"
+              },
+              {
+                "label": "31 gennaio 1853",
+                "target": "f7312e",
+                "chapter": "06"
+              },
+              {
+                "label": "31 gennaio 1853",
+                "target": "868f44",
+                "chapter": "06"
+              },
+              {
+                "label": "17 febbraio 1853",
+                "target": "877004",
+                "chapter": "06"
+              },
+              {
+                "label": "17 febbraio 1853",
+                "target": "9535f2",
+                "chapter": "06"
+              },
+              {
+                "label": "17 marzo 1853",
+                "target": "7b4446",
+                "chapter": "06"
+              },
+              {
+                "label": "17 marzo 1853",
+                "target": "82bde5",
+                "chapter": "06"
+              },
+              {
+                "label": "31 marzo 1853",
+                "target": "4cbfc4",
+                "chapter": "06"
+              },
+              {
+                "label": "31 marzo 1853",
+                "target": "791a2a",
+                "chapter": "06"
+              },
+              {
+                "label": "23 aprile 1853",
+                "target": "6fb80c",
+                "chapter": "06"
+              },
+              {
+                "label": "23 aprile 1853",
+                "target": "285fc6",
+                "chapter": "06"
+              },
+              {
+                "label": "12 maggio 1853",
+                "target": "84f910",
+                "chapter": "06"
+              },
+              {
+                "label": "12 maggio 1853",
+                "target": "92731f",
+                "chapter": "06"
+              },
+              {
+                "label": "13 agosto 1853",
+                "target": "ceb066",
+                "chapter": "06"
+              },
+              {
+                "label": "13 agosto 1853",
+                "target": "b6bb86",
+                "chapter": "06"
+              },
+              {
+                "label": "9 agosto 1855",
+                "target": "181fd5",
+                "chapter": "06"
+              },
+              {
+                "label": "9 agosto 1855",
+                "target": "d148c1",
+                "chapter": "06"
+              },
+              {
+                "label": "21 agosto 1855",
+                "target": "c500ff",
+                "chapter": "06"
+              },
+              {
+                "label": "21 agosto 1855",
+                "target": "ae7f4a",
+                "chapter": "06"
+              },
+              {
+                "label": "[agosto-settembre] 1855",
+                "target": "68cb9d",
+                "chapter": "06"
+              },
+              {
+                "label": "17 dicembre 1845",
+                "target": "161230",
+                "chapter": "06"
+              },
+              {
+                "label": "5 aprile 1846",
+                "target": "b317b9",
+                "chapter": "06"
+              },
+              {
+                "label": "5 aprile 1846",
+                "target": "8a7e8a",
+                "chapter": "06"
+              },
+              {
+                "label": "13 aprile 1846",
+                "target": "afd020",
+                "chapter": "06"
+              },
+              {
+                "label": "13 aprile 1846",
+                "target": "c9279c",
+                "chapter": "06"
+              },
+              {
+                "label": "13 aprile 1846",
+                "target": "1620bf",
+                "chapter": "06"
+              },
+              {
+                "label": "31 maggio 1846",
+                "target": "041bd8",
+                "chapter": "06"
+              },
+              {
+                "label": "9 giugno 1846",
+                "target": "d8831d",
+                "chapter": "06"
+              },
+              {
+                "label": "2 novembre 1846",
+                "target": "eb9fd4",
+                "chapter": "06"
+              },
+              {
+                "label": "29 novembre 1846",
+                "target": "d11777",
+                "chapter": "06"
+              },
+              {
+                "label": "29 luglio 1847",
+                "target": "e91934",
+                "chapter": "06"
+              },
+              {
+                "label": "8 agosto 1847",
+                "target": "0d4664",
+                "chapter": "06"
+              },
+              {
+                "label": "16 ottobre 1847",
+                "target": "9a2187",
+                "chapter": "06"
+              },
+              {
+                "label": "2 novembre 1847",
+                "target": "a6282e",
+                "chapter": "06"
+              },
+              {
+                "label": "1 marzo 1849",
+                "target": "f0a7c2",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1857",
+                "target": "9a6bd3",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1857",
+                "target": "86438b",
+                "chapter": "06"
+              },
+              {
+                "label": "* 14 Aprile 1857",
+                "target": "ce862e",
+                "chapter": "06"
+              },
+              {
+                "label": "* 21 aprile 1857",
+                "target": "67e3df",
+                "chapter": "06"
+              },
+              {
+                "label": "* 6 luglio 1857",
+                "target": "36742b",
+                "chapter": "06"
+              },
+              {
+                "label": "30 settembre 1857",
+                "target": "e0a3b1",
+                "chapter": "06"
+              },
+              {
+                "label": "* 17 ottobre 1857",
+                "target": "1921f7",
+                "chapter": "06"
+              },
+              {
+                "label": "* 17 ottobre 1857",
+                "target": "ddf9db",
+                "chapter": "06"
+              },
+              {
+                "label": "* 26 ottobre 1857",
+                "target": "22b2a2",
+                "chapter": "06"
+              },
+              {
+                "label": "* 2 novembre 1857",
+                "target": "a685e8",
+                "chapter": "06"
+              },
+              {
+                "label": "* 25 novembre 1857",
+                "target": "2b736d",
+                "chapter": "06"
+              },
+              {
+                "label": "* [senza data], 1857",
+                "target": "98d506",
+                "chapter": "06"
+              },
+              {
+                "label": "* [senza data], 1857",
+                "target": "fa311e",
+                "chapter": "06"
+              },
+              {
+                "label": "* [senza lastra di deposito], 1857",
+                "target": "57a3bb",
+                "chapter": "06"
+              },
+              {
+                "label": "* 19 febbraio 1858",
+                "target": "b8fb24",
+                "chapter": "06"
+              },
+              {
+                "label": "* 19 febbraio 1858",
+                "target": "c46589",
+                "chapter": "06"
+              },
+              {
+                "label": "26 febbraio 1859",
+                "target": "c857df",
+                "chapter": "06"
+              },
+              {
+                "label": "* 28 febbraio 1859",
+                "target": "67eb12",
+                "chapter": "06"
+              },
+              {
+                "label": "* 15 marzo 1859",
+                "target": "cffd4f",
+                "chapter": "06"
+              },
+              {
+                "label": "* 19 marzo 1859",
+                "target": "b314a9",
+                "chapter": "06"
+              },
+              {
+                "label": "5 luglio 1862",
+                "target": "2ed8c2",
+                "chapter": "06"
+              },
+              {
+                "label": "6 dicembre 1862",
+                "target": "845826",
+                "chapter": "06"
+              },
+              {
+                "label": "14 marzo 1867",
+                "target": "fa1ca0",
+                "chapter": "06"
+              },
+              {
+                "label": "10 luglio 1867",
+                "target": "b5b15f",
+                "chapter": "06"
+              },
+              {
+                "label": "10 luglio 1867",
+                "target": "159395",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Coccia, Carlo (1782–1873)",
+            "link": [
+              {
+                "label": "* 17 aprile 1840",
+                "target": "d990bc",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Mabellini, Teodulo (1817–1897)",
+            "link": [
+              {
+                "label": "* 5 gennaio 1841",
+                "target": "e9846c",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Savi, Luigi (1803–1842)",
+            "link": [
+              {
+                "label": "* [tra marzo e giugno 1841]",
+                "target": "4b6136",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Gabussi, Vincenzo (1800–1846)",
+            "link": [
+              {
+                "label": "* 3 giugno 1841",
+                "target": "8c618b",
+                "chapter": "06"
+              },
+              {
+                "label": "* 7 giugno 1841",
+                "target": "d92de2",
+                "chapter": "06"
+              },
+              {
+                "label": "* 14 giugno 1841",
+                "target": "b2f2f0",
+                "chapter": "06"
+              },
+              {
+                "label": "* 24 giugno 1841",
+                "target": "55b9a4",
+                "chapter": "06"
+              },
+              {
+                "label": "* 15 luglio 1841",
+                "target": "973dbb",
+                "chapter": "06"
+              },
+              {
+                "label": "* 15 luglio 1841",
+                "target": "ed83cb",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Nicolai, Otto (1810–1849)",
+            "link": [
+              {
+                "label": "* 12 giugno 1841",
+                "target": "eb2955",
+                "chapter": "06"
+              },
+              {
+                "label": "* 12 maggio 1841",
+                "target": "40d90a",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Mazzucato, Alberto (1813-1877)",
+            "link": [
+              {
+                "label": "* 21 giugno 1841",
+                "target": "963c20",
+                "chapter": "06"
+              },
+              {
+                "label": "* 24 giugno 1841",
+                "target": "24fb4a",
+                "chapter": "06"
+              },
+              {
+                "label": "19 agosto 1841",
+                "target": "deffbb",
+                "chapter": "06"
+              },
+              {
+                "label": "11 giugno 1852",
+                "target": "151875",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1852",
+                "target": "e5d940",
+                "chapter": "06"
+              },
+              {
+                "label": "4 gennaio 1853",
+                "target": "93b54a",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Ricci, Luigi (1805–1859)",
+            "link": [
+              {
+                "label": "* 30 giugno 1841",
+                "target": "b526de",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Ricci, Federico (1809–1877)",
+            "link": [
+              {
+                "label": "* 5 agosto 1841",
+                "target": "2ca6c3",
+                "chapter": "06"
+              },
+              {
+                "label": "* 15 dicembre 1841",
+                "target": "02f37d",
+                "chapter": "06"
+              },
+              {
+                "label": "* 20 dicembre 1841",
+                "target": "d9b211",
+                "chapter": "06"
+              },
+              {
+                "label": "26 dicembre 1841",
+                "target": "0a4aab",
+                "chapter": "06"
+              },
+              {
+                "label": "* 27 dicembre 1841",
+                "target": "4ae93e",
+                "chapter": "06"
+              },
+              {
+                "label": "3 luglio 1842",
+                "target": "f9850b",
+                "chapter": "06"
+              },
+              {
+                "label": "* 18 aprile 1844",
+                "target": "1095d6",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "89cb01",
+                "chapter": "06"
+              },
+              {
+                "label": "* 11 novembre 1840",
+                "target": "a8a49a",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Mandanici, Placido (1798–1852)",
+            "link": [
+              {
+                "label": "* 12 agosto 1841",
+                "target": "e451c3",
+                "chapter": "06"
+              },
+              {
+                "label": "14 agosto 1843",
+                "target": "01768e",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Poniatowski, Giuseppe (1816–1873)",
+            "link": [
+              {
+                "label": "19 agosto 1841",
+                "target": "a5e6e6",
+                "chapter": "06"
+              },
+              {
+                "label": "* 31 agosto 1841",
+                "target": "687612",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Degola, Giocondo (1803–1845)",
+            "link": [
+              {
+                "label": "19 agosto 1841",
+                "target": "938d77",
+                "chapter": "06"
+              },
+              {
+                "label": "* 20 settembre 1841",
+                "target": "a3c4db",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Hünten, Franz (1792–1878)",
+            "link": [
+              {
+                "label": "* 30 novembre 1841",
+                "target": "de02ce",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Bériot, Charles Auguste de (1802–1870)",
+            "link": [
+              {
+                "label": "* 2 dicembre 1841",
+                "target": "9ff187",
+                "chapter": "06"
+              },
+              {
+                "label": "* 22 febbraio 1845",
+                "target": "1a06f3",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "c70675",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "811a07",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Pacini, Giovanni (1796–1867)",
+            "link": [
+              {
+                "label": "26 gennaio 1842",
+                "target": "3fd4db",
+                "chapter": "06"
+              },
+              {
+                "label": "26 febbraio 1842",
+                "target": "d82843",
+                "chapter": "06"
+              },
+              {
+                "label": "20 marzo 1842",
+                "target": "710fbb",
+                "chapter": "06"
+              },
+              {
+                "label": "18 luglio 1842",
+                "target": "d3d96e",
+                "chapter": "06"
+              },
+              {
+                "label": "7 agosto 1842",
+                "target": "2840c2",
+                "chapter": "06"
+              },
+              {
+                "label": "24 gennaio 1843",
+                "target": "a4a8f2",
+                "chapter": "06"
+              },
+              {
+                "label": "24 gennaio 1843",
+                "target": "513a08",
+                "chapter": "06"
+              },
+              {
+                "label": "6 febbraio 1843",
+                "target": "e62015",
+                "chapter": "06"
+              },
+              {
+                "label": "7 marzo 1843",
+                "target": "c454a3",
+                "chapter": "06"
+              },
+              {
+                "label": "27 marzo 1843",
+                "target": "383816",
+                "chapter": "06"
+              },
+              {
+                "label": "3 aprile 1843",
+                "target": "5f101a",
+                "chapter": "06"
+              },
+              {
+                "label": "3 aprile 1843",
+                "target": "25a532",
+                "chapter": "06"
+              },
+              {
+                "label": "6 aprile 1843",
+                "target": "3d6909",
+                "chapter": "06"
+              },
+              {
+                "label": "12 maggio 1843",
+                "target": "eec263",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1844",
+                "target": "289c73",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "3a5f80",
+                "chapter": "06"
+              },
+              {
+                "label": "19 gennaio 1846",
+                "target": "626220",
+                "chapter": "06"
+              },
+              {
+                "label": "2 giugno 1846",
+                "target": "056463",
+                "chapter": "06"
+              },
+              {
+                "label": "25 giugno 1846",
+                "target": "0cb55b",
+                "chapter": "06"
+              },
+              {
+                "label": "4 settembre 1846",
+                "target": "ef3813",
+                "chapter": "06"
+              },
+              {
+                "label": "20 luglio 1845",
+                "target": "06da60",
+                "chapter": "06"
+              },
+              {
+                "label": "5 maggio 1851",
+                "target": "5a10ec",
+                "chapter": "06"
+              },
+              {
+                "label": "6 luglio 1851",
+                "target": "ee0cb4",
+                "chapter": "06"
+              },
+              {
+                "label": "27 ottobre 1851",
+                "target": "66ad61",
+                "chapter": "06"
+              },
+              {
+                "label": "9 dicembre 1851",
+                "target": "472943",
+                "chapter": "06"
+              },
+              {
+                "label": "9 maggio 1852",
+                "target": "171d69",
+                "chapter": "06"
+              },
+              {
+                "label": "11 giugno 1852",
+                "target": "2c190e",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Garcia fils, Manuel (1805–1906)",
+            "link": [
+              {
+                "label": "26 gennaio 1842",
+                "target": "8e1167",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Döhler, Theodor (1814–1856)",
+            "link": [
+              {
+                "label": "30 marzo 1842",
+                "target": "96f440",
+                "chapter": "06"
+              },
+              {
+                "label": "3 luglio 1842",
+                "target": "d05424",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1842",
+                "target": "c6401e",
+                "chapter": "06"
+              },
+              {
+                "label": "2 novembre 1842",
+                "target": "403556",
+                "chapter": "06"
+              },
+              {
+                "label": "27 marzo 1843",
+                "target": "207241",
+                "chapter": "06"
+              },
+              {
+                "label": "14 giugno 1843",
+                "target": "994589",
+                "chapter": "06"
+              },
+              {
+                "label": "14 giugno 1843",
+                "target": "8ce31c",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1843",
+                "target": "d87e1f",
+                "chapter": "06"
+              },
+              {
+                "label": "18 settembre 1843",
+                "target": "3a2e53",
+                "chapter": "06"
+              },
+              {
+                "label": "18 settembre 1843",
+                "target": "6f9748",
+                "chapter": "06"
+              },
+              {
+                "label": "9 dicembre 1843",
+                "target": "8138db",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1844",
+                "target": "2b1564",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "78c722",
+                "chapter": "06"
+              },
+              {
+                "label": "24 settembre 1845",
+                "target": "bab66d",
+                "chapter": "06"
+              },
+              {
+                "label": "2 giugno 1846",
+                "target": "832f86",
+                "chapter": "06"
+              },
+              {
+                "label": "* [ante 1841]",
+                "target": "7d2b0e",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Kalkbrenner, Friedrich (1785–1849)",
+            "link": [
+              {
+                "label": "3 luglio 1842",
+                "target": "0d8a66",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Wolff, Edouard (Edward Wolff, 1816–1880)",
+            "link": [
+              {
+                "label": "3 luglio 1842",
+                "target": "5b1026",
+                "chapter": "06"
+              },
+              {
+                "label": "13 dicembre 1842",
+                "target": "1fa19c",
+                "chapter": "06"
+              },
+              {
+                "label": "27 marzo 1843",
+                "target": "9bd651",
+                "chapter": "06"
+              },
+              {
+                "label": "14 giugno 1843",
+                "target": "004e28",
+                "chapter": "06"
+              },
+              {
+                "label": "14 giugno 1843",
+                "target": "d25488",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "488aa5",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Lanner, Josef (1801–1843)",
+            "link": [
+              {
+                "label": "18 luglio 1842",
+                "target": "c09ece",
+                "chapter": "06"
+              },
+              {
+                "label": "2 ottobre 1842",
+                "target": "e6678b",
+                "chapter": "06"
+              },
+              {
+                "label": "24 gennaio 1843",
+                "target": "1264d6",
+                "chapter": "06"
+              },
+              {
+                "label": "6 aprile 1843",
+                "target": "fd8d80",
+                "chapter": "06"
+              },
+              {
+                "label": "12 maggio 1843",
+                "target": "0b16cc",
+                "chapter": "06"
+              },
+              {
+                "label": "18 settembre 1843",
+                "target": "5de2a8",
+                "chapter": "06"
+              },
+              {
+                "label": "* [ante 11 ottobre 1843]",
+                "target": "9da7e1",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1844",
+                "target": "ab51ff",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "708433",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Henselt, Adolph (1814–1889)",
+            "link": [
+              {
+                "label": "2 ottobre 1842",
+                "target": "f57d6d",
+                "chapter": "06"
+              },
+              {
+                "label": "2 ottobre 1842",
+                "target": "f2f989",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Croff, Giovanni Battista (1802–1868)",
+            "link": [
+              {
+                "label": "2 ottobre 1842",
+                "target": "e8db39",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "17b1ae",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Hünten, François (Franz Hünten, 1792–1878)",
+            "link": [
+              {
+                "label": "21 ottobre 1842",
+                "target": "15bdc2",
+                "chapter": "06"
+              },
+              {
+                "label": "21 ottobre 1842",
+                "target": "f59a68",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Lablache, Luigi (1794–1858)",
+            "link": [
+              {
+                "label": "21 ottobre 1842",
+                "target": "0a384e",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Golinelli, Stefano (1818–1891)",
+            "link": [
+              {
+                "label": "2 novembre 1842",
+                "target": "183c62",
+                "chapter": "06"
+              },
+              {
+                "label": "4 gennaio 1853",
+                "target": "e9b1e5",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Strauss, Johann (1804–1849)",
+            "link": [
+              {
+                "label": "2 novembre 1842",
+                "target": "ddfe32",
+                "chapter": "06"
+              },
+              {
+                "label": "20 dicembre 1842",
+                "target": "18922a",
+                "chapter": "06"
+              },
+              {
+                "label": "6 febbraio 1843",
+                "target": "d7c796",
+                "chapter": "06"
+              },
+              {
+                "label": "27 marzo 1843",
+                "target": "5f8dc7",
+                "chapter": "06"
+              },
+              {
+                "label": "14 giugno 1843",
+                "target": "cda9a2",
+                "chapter": "06"
+              },
+              {
+                "label": "6 luglio 1843",
+                "target": "6a8d5b",
+                "chapter": "06"
+              },
+              {
+                "label": "18 settembre 1843",
+                "target": "6e3ba0",
+                "chapter": "06"
+              },
+              {
+                "label": "11 ottobre 1843",
+                "target": "4c0adf",
+                "chapter": "06"
+              },
+              {
+                "label": "11 ottobre 1843",
+                "target": "2098c6",
+                "chapter": "06"
+              },
+              {
+                "label": "9 dicembre 1843",
+                "target": "e23ae8",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1844",
+                "target": "922fa7",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1844",
+                "target": "1642c0",
+                "chapter": "06"
+              },
+              {
+                "label": "* [ante 18 aprile 1844]",
+                "target": "1da0b6",
+                "chapter": "06"
+              },
+              {
+                "label": "* 14 giugno 1844",
+                "target": "ceb672",
+                "chapter": "06"
+              },
+              {
+                "label": "4 novembre 1844",
+                "target": "1d8644",
+                "chapter": "06"
+              },
+              {
+                "label": "4 novembre 1844",
+                "target": "99a3df",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "b0b053",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "64847e",
+                "chapter": "06"
+              },
+              {
+                "label": "7 dicembre 1844",
+                "target": "658ea3",
+                "chapter": "06"
+              },
+              {
+                "label": "* 23 gennaio 1845",
+                "target": "9f8b4e",
+                "chapter": "06"
+              },
+              {
+                "label": "* 22 febbraio 1845",
+                "target": "f9ba95",
+                "chapter": "06"
+              },
+              {
+                "label": "* 22 febbraio 1845",
+                "target": "867094",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "d28fce",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "4f2161",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1845",
+                "target": "3a44db",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1845",
+                "target": "8d8ee1",
+                "chapter": "06"
+              },
+              {
+                "label": "27 novembre 1845",
+                "target": "576097",
+                "chapter": "06"
+              },
+              {
+                "label": "8 dicembre 1845",
+                "target": "8b5c5a",
+                "chapter": "06"
+              },
+              {
+                "label": "2 giugno 1846",
+                "target": "0a970d",
+                "chapter": "06"
+              },
+              {
+                "label": "25 giugno 1846",
+                "target": "3a0e19",
+                "chapter": "06"
+              },
+              {
+                "label": "12 gennaio 1847",
+                "target": "bb0273",
+                "chapter": "06"
+              },
+              {
+                "label": "13 febbraio 1847",
+                "target": "0a4bc8",
+                "chapter": "06"
+              },
+              {
+                "label": "27 settembre 1847",
+                "target": "702735",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Donzelli, Domenico (1790–1873)",
+            "link": [
+              {
+                "label": "2 novembre 1842",
+                "target": "31a19a",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Pacini, Giovanni (1796–1867)",
+            "link": [
+              {
+                "label": "27 marzo 1843",
+                "target": "75586a",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Vieuxtemps, Henri (1820–1881)",
+            "link": [
+              {
+                "label": "27 marzo 1843",
+                "target": "056c0b",
+                "chapter": "06"
+              },
+              {
+                "label": "14 giugno 1843",
+                "target": "08e46b",
+                "chapter": "06"
+              },
+              {
+                "label": "* 22 febbraio 1845",
+                "target": "47df94",
+                "chapter": "06"
+              },
+              {
+                "label": "29 marzo 1845",
+                "target": "b7f194",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "7128eb",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Seligmann, Hippolyte Prosper (1817–1882)",
+            "link": [
+              {
+                "label": "14 giugno 1843",
+                "target": "013af0",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "cdcdb3",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Labitzky, Joseph (1802–1881)",
+            "link": [
+              {
+                "label": "18 settembre 1843",
+                "target": "0f8bb0",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "239ce3",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "adbc06",
+                "chapter": "06"
+              },
+              {
+                "label": "* 5 aprile 1844",
+                "target": "f07345",
+                "chapter": "06"
+              },
+              {
+                "label": "4 novembre 1844",
+                "target": "5b37b6",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "6c2438",
+                "chapter": "06"
+              },
+              {
+                "label": "16 aprile 1845",
+                "target": "f66e9a",
+                "chapter": "06"
+              },
+              {
+                "label": "20 luglio 1845",
+                "target": "daa9ef",
+                "chapter": "06"
+              },
+              {
+                "label": "14 agosto 1845",
+                "target": "246b0f",
+                "chapter": "06"
+              },
+              {
+                "label": "15 ottobre 1846",
+                "target": "fffbd2",
+                "chapter": "06"
+              },
+              {
+                "label": "30 marzo 1850",
+                "target": "10a9cd",
+                "chapter": "06"
+              },
+              {
+                "label": "25 luglio 1850",
+                "target": "9ef456",
+                "chapter": "06"
+              },
+              {
+                "label": "4 agosto 1850",
+                "target": "685dd3",
+                "chapter": "06"
+              },
+              {
+                "label": "16 settembre 1850",
+                "target": "25d536",
+                "chapter": "06"
+              },
+              {
+                "label": "17 novembre 1850",
+                "target": "162173",
+                "chapter": "06"
+              },
+              {
+                "label": "23 dicembre 1850",
+                "target": "b319eb",
+                "chapter": "06"
+              },
+              {
+                "label": "31 marzo 1851",
+                "target": "bc6b66",
+                "chapter": "06"
+              },
+              {
+                "label": "22 maggio 1851",
+                "target": "3429d6",
+                "chapter": "06"
+              },
+              {
+                "label": "5 giugno 1851",
+                "target": "37461e",
+                "chapter": "06"
+              },
+              {
+                "label": "11 agosto 1851",
+                "target": "41c357",
+                "chapter": "06"
+              },
+              {
+                "label": "27 ottobre 1851",
+                "target": "ed6270",
+                "chapter": "06"
+              },
+              {
+                "label": "27 dicembre 1851",
+                "target": "511d57",
+                "chapter": "06"
+              },
+              {
+                "label": "9 maggio 1852",
+                "target": "46ffff",
+                "chapter": "06"
+              },
+              {
+                "label": "11 giugno 1852",
+                "target": "3107a1",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1852",
+                "target": "06f809",
+                "chapter": "06"
+              },
+              {
+                "label": "16 gennaio 1853",
+                "target": "36184d",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Panofka, Heinrich (1807–1887)",
+            "link": [
+              {
+                "label": "11 ottobre 1843",
+                "target": "581a84",
+                "chapter": "06"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "8e526a",
+                "chapter": "06"
+              },
+              {
+                "label": "16 novembre 1844",
+                "target": "9d4f37",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1845",
+                "target": "0341c9",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Adam, Adolphe Charles (1803–1856)",
+            "link": [
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "d24220",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Lecarpentier, Adolphe (Adolphe Clair Le Carpentier, 1809–1869)",
+            "link": [
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "4505d3",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Burgmüller, Friedrich (1806–1874)",
+            "link": [
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "b9a8dc",
+                "chapter": "06"
+              },
+              {
+                "label": "9 dicembre 1843",
+                "target": "abca0a",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Soussman, Enrico (Heinrich Soussmann, 1796–1848)",
+            "link": [
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "eea841",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Lanner, Josef (1801–1843)",
+            "link": [
+              {
+                "label": "9 dicembre 1843",
+                "target": "bed329",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Lafont, Charles Philippe (1781–1839)",
+            "link": [
+              {
+                "label": "9 dicembre 1843",
+                "target": "9e8d7f",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Bajetti, Giovanni (1811/15–1876)",
+            "link": [
+              {
+                "label": "* 5 aprile 1844",
+                "target": "5a73c6",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Adam, Adolphe Charles (1803–1856)",
+            "link": [
+              {
+                "label": "* 5 aprile 1844",
+                "target": "1c100c",
+                "chapter": "06"
+              },
+              {
+                "label": "14 febbraio 1846",
+                "target": "ff882b",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Lecarpentier, Adolphe (Adolphe Clair Le Carpentier, 1809–1869)",
+            "link": [
+              {
+                "label": "* 5 aprile 1844",
+                "target": "f0f2e9",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Mussi, Antonio (fl. 1840)",
+            "link": [
+              {
+                "label": "* [ante 18 aprile 1844]",
+                "target": "c989d1",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Truzzi, Luigi (1799–1864)",
+            "link": [
+              {
+                "label": "[ante 19] agosto 1844",
+                "target": "82155f",
+                "chapter": "06"
+              },
+              {
+                "label": "14 febbraio 1846",
+                "target": "478085",
+                "chapter": "06"
+              },
+              {
+                "label": "23 aprile 1846",
+                "target": "63073b",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Gambini, Carlo Andrea (1819–1865)",
+            "link": [
+              {
+                "label": "4 novembre 1844",
+                "target": "7ed512",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Chotek, Franz Xaver (František Xaver Chotek, 1800–1852)",
+            "link": [
+              {
+                "label": "16 novembre 1844",
+                "target": "6487e3",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Anzoletti, Francesco (1821–1866)",
+            "link": [
+              {
+                "label": "* [tra ottobre e dicembre 1844]",
+                "target": "9b60c4",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Fioravanti, Vincenzo (1799-1877)",
+            "link": [
+              {
+                "label": "16 aprile 1845",
+                "target": "e79c83",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Mosca, Giuseppe (1772-1839)",
+            "link": [
+              {
+                "label": "16 aprile 1845",
+                "target": "1ea40a",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Cambiaggio, Carlo (1798–1880)",
+            "link": [
+              {
+                "label": "16 aprile 1845",
+                "target": "406c73",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Tonassi, Pietro (1800–1877)",
+            "link": [
+              {
+                "label": "16 aprile 1845",
+                "target": "373dc3",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Consolini, Giovanni (1818–1906)",
+            "link": [
+              {
+                "label": "16 aprile 1845",
+                "target": "ef18b9",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Prudent, Emile (1817–1863)",
+            "link": [
+              {
+                "label": "16 aprile 1845",
+                "target": "941163",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Rosellen, Henri (1811–1876)",
+            "link": [
+              {
+                "label": "30 giugno 1845",
+                "target": "f3e26a",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "e4c121",
+                "chapter": "06"
+              },
+              {
+                "label": "* 30 ottobre 1846",
+                "target": "287198",
+                "chapter": "06"
+              },
+              {
+                "label": "29 novembre 1846",
+                "target": "96990e",
+                "chapter": "06"
+              },
+              {
+                "label": "[5] novembre 1849",
+                "target": "489b46",
+                "chapter": "06"
+              },
+              {
+                "label": "23 dicembre 1849",
+                "target": "990f68",
+                "chapter": "06"
+              },
+              {
+                "label": "3 febbraio 1850",
+                "target": "cd33ee",
+                "chapter": "06"
+              },
+              {
+                "label": "30 marzo 1850",
+                "target": "4989a2",
+                "chapter": "06"
+              },
+              {
+                "label": "* [tra 30 marzo 1850",
+                "target": "f7e566",
+                "chapter": "06"
+              },
+              {
+                "label": "25 luglio 1850",
+                "target": "97d0a8",
+                "chapter": "06"
+              },
+              {
+                "label": "4 agosto 1850",
+                "target": "1f36d4",
+                "chapter": "06"
+              },
+              {
+                "label": "16 settembre 1850",
+                "target": "4c51b1",
+                "chapter": "06"
+              },
+              {
+                "label": "16 settembre 1850",
+                "target": "a57b14",
+                "chapter": "06"
+              },
+              {
+                "label": "17 novembre 1850",
+                "target": "14666c",
+                "chapter": "06"
+              },
+              {
+                "label": "23 dicembre 1850",
+                "target": "e00a5d",
+                "chapter": "06"
+              },
+              {
+                "label": "31 marzo 1851",
+                "target": "cf32fd",
+                "chapter": "06"
+              },
+              {
+                "label": "5 maggio 1851",
+                "target": "56c94b",
+                "chapter": "06"
+              },
+              {
+                "label": "15 settembre 1851",
+                "target": "b6f65b",
+                "chapter": "06"
+              },
+              {
+                "label": "6 ottobre 1851",
+                "target": "e48bb1",
+                "chapter": "06"
+              },
+              {
+                "label": "9 dicembre 1851",
+                "target": "1d47fe",
+                "chapter": "06"
+              },
+              {
+                "label": "3 febbraio 1852",
+                "target": "8497da",
+                "chapter": "06"
+              },
+              {
+                "label": "20 giugno 1853",
+                "target": "5c4bcd",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Heller, Stephen (1813–1888)",
+            "link": [
+              {
+                "label": "30 giugno 1845",
+                "target": "77073d",
+                "chapter": "06"
+              },
+              {
+                "label": "30 giugno 1845",
+                "target": "992ba4",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Tutsch, Joseph (fl. 1845)",
+            "link": [
+              {
+                "label": "30 giugno 1845",
+                "target": "9d37f2",
+                "chapter": "06"
+              },
+              {
+                "label": "2 giugno 1846",
+                "target": "1cf46e",
+                "chapter": "06"
+              },
+              {
+                "label": "13 febbraio 1847",
+                "target": "eeb095",
+                "chapter": "06"
+              },
+              {
+                "label": "8 aprile 1847",
+                "target": "bd9c12",
+                "chapter": "06"
+              },
+              {
+                "label": "27 settembre 1847",
+                "target": "b719f4",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Wolff, Edouard (Edward Wolff, 1816–1880)",
+            "link": [
+              {
+                "label": "30 giugno 1845",
+                "target": "019bf6",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Ernst, Heinrich Wilhelm (1814–1865)",
+            "link": [
+              {
+                "label": "30 giugno 1845",
+                "target": "4d70c1",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Ernst, Heinrich Wilhelm (1814–1865)",
+            "link": [
+              {
+                "label": "30 giugno 1845",
+                "target": "cc580b",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Dancla, Jean Baptiste Charles (1817–1907)",
+            "link": [
+              {
+                "label": "30 giugno 1845",
+                "target": "255a10",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Tulou, Jean-Louis (1786–1865)",
+            "link": [
+              {
+                "label": "30 giugno 1845",
+                "target": "b1bb41",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Villmers, Rodolfo (Rudolf Willmers, 1821–1878)",
+            "link": [
+              {
+                "label": "1 settembre 1845",
+                "target": "73db62",
+                "chapter": "06"
+              },
+              {
+                "label": "14 ottobre 1845",
+                "target": "b63489",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Parish Alvars, E.  (Elias Parish Alvars, 1808–1849)",
+            "link": [
+              {
+                "label": "1 settembre 1845",
+                "target": "949c5c",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Rossi, Lauro (1812–1885)",
+            "link": [
+              {
+                "label": "25 giugno 1846",
+                "target": "34b5c6",
+                "chapter": "06"
+              },
+              {
+                "label": "25 giugno 1846",
+                "target": "4aa4e7",
+                "chapter": "06"
+              },
+              {
+                "label": "17 settembre 1849",
+                "target": "a51b21",
+                "chapter": "06"
+              },
+              {
+                "label": "6 ottobre 1849",
+                "target": "ac4ed9",
+                "chapter": "06"
+              },
+              {
+                "label": "6 ottobre 1849",
+                "target": "933915",
+                "chapter": "06"
+              },
+              {
+                "label": "20 ottobre 1849",
+                "target": "61c188",
+                "chapter": "06"
+              },
+              {
+                "label": "1 luglio 1845",
+                "target": "ae6859",
+                "chapter": "06"
+              },
+              {
+                "label": "20 luglio 1845",
+                "target": "6ba4ab",
+                "chapter": "06"
+              },
+              {
+                "label": "20 luglio 1845",
+                "target": "c5c5e4",
+                "chapter": "06"
+              },
+              {
+                "label": "14 agosto 1845",
+                "target": "5d4211",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Sanelli, Gualtiero (1816–1861)",
+            "link": [
+              {
+                "label": "4 settembre 1846",
+                "target": "aa31f9",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Flotow, Friedrich von (1812–1883)",
+            "link": [
+              {
+                "label": "4 settembre 1846",
+                "target": "1e1bae",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Meyer, Léopold de (Leopold von Meyer, 1816–1883)",
+            "link": [
+              {
+                "label": "4 settembre 1846",
+                "target": "b9eb2f",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Meyerbeer, Giacomo (1791–1864)",
+            "link": [
+              {
+                "label": "13 settembre 1849",
+                "target": "c20218",
+                "chapter": "06"
+              },
+              {
+                "label": "13 settembre 1849",
+                "target": "c077b1",
+                "chapter": "06"
+              },
+              {
+                "label": "17 settembre 1849",
+                "target": "45a5c5",
+                "chapter": "06"
+              },
+              {
+                "label": "20 ottobre 1849",
+                "target": "dac4d5",
+                "chapter": "06"
+              },
+              {
+                "label": "22 dicembre 1849",
+                "target": "81f9d7",
+                "chapter": "06"
+              },
+              {
+                "label": "6 gennaio 1850",
+                "target": "3dbbce",
+                "chapter": "06"
+              },
+              {
+                "label": "15 marzo 1850",
+                "target": "bee638",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Cagnoni, Antonio (1828–1896)",
+            "link": [
+              {
+                "label": "[11 luglio 1850]",
+                "target": "9612f6",
+                "chapter": "06"
+              },
+              {
+                "label": "[11 luglio 1850]",
+                "target": "c39882",
+                "chapter": "06"
+              },
+              {
+                "label": "11 giugno 1852",
+                "target": "6bd937",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Apolloni, Giuseppe (1822–1889)",
+            "link": [
+              {
+                "label": "9 agosto 1855",
+                "target": "771d03",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Lillo, Giuseppe (1814–1863)",
+            "link": [
+              {
+                "label": "* 31 agosto 1838",
+                "target": "605c1f",
+                "chapter": "06"
+              },
+              {
+                "label": "* 11 novembre 1840",
+                "target": "2f07d6",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Speranza, Giovanni Antonio (1811–1850)",
+            "link": [
+              {
+                "label": "17 gennaio 1840",
+                "target": "fb3b1b",
+                "chapter": "06"
+              },
+              {
+                "label": "* 11 novembre 1840",
+                "target": "c34f6c",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Meyer, Léopold de (Leopold von Meyer, 1816–1883)",
+            "link": [
+              {
+                "label": "20 luglio 1845",
+                "target": "d1cd18",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Meyer, Léopold de (Leopold von Meyer, 1816–1883)",
+            "link": [
+              {
+                "label": "14 agosto 1845",
+                "target": "3b690b",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Vischin, Giuseppe (Joseph Wischin; fl. 1845)",
+            "link": [
+              {
+                "label": "21 febbraio 1847",
+                "target": "98745e",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Briccialdi, Giulio (1818–1881)",
+            "link": [
+              {
+                "label": "6 dicembre 1849",
+                "target": "99f757",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Rabboni, Giuseppe (1800–1856)",
+            "link": [
+              {
+                "label": "6 dicembre 1849",
+                "target": "887692",
+                "chapter": "06"
+              },
+              {
+                "label": "31 marzo 1851",
+                "target": "e6d2bf",
+                "chapter": "06"
+              },
+              {
+                "label": "27 ottobre 1851",
+                "target": "8c992c",
+                "chapter": "06"
+              },
+              {
+                "label": "9 maggio 1852",
+                "target": "806a8e",
+                "chapter": "06"
+              },
+              {
+                "label": "28 maggio 1854",
+                "target": "738978",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Goria, Alexandre Edouard (1823–1860)",
+            "link": [
+              {
+                "label": "23 dicembre 1849",
+                "target": "3e6411",
+                "chapter": "06"
+              },
+              {
+                "label": "30 marzo 1850",
+                "target": "a176d3",
+                "chapter": "06"
+              },
+              {
+                "label": "30 marzo 1850",
+                "target": "83df43",
+                "chapter": "06"
+              },
+              {
+                "label": "25 luglio 1850",
+                "target": "13e172",
+                "chapter": "06"
+              },
+              {
+                "label": "16 dicembre 1850",
+                "target": "6f8d09",
+                "chapter": "06"
+              },
+              {
+                "label": "31 agosto 1851",
+                "target": "53bf72",
+                "chapter": "06"
+              },
+              {
+                "label": "6 ottobre 1851",
+                "target": "233800",
+                "chapter": "06"
+              },
+              {
+                "label": "27 ottobre 1851",
+                "target": "ff1186",
+                "chapter": "06"
+              },
+              {
+                "label": "9 dicembre 1851",
+                "target": "152a0a",
+                "chapter": "06"
+              },
+              {
+                "label": "3 febbraio 1852",
+                "target": "b4085d",
+                "chapter": "06"
+              },
+              {
+                "label": "4 gennaio 1853",
+                "target": "b4dfc1",
+                "chapter": "06"
+              },
+              {
+                "label": "20 giugno 1853",
+                "target": "531caa",
+                "chapter": "06"
+              },
+              {
+                "label": "13 novembre 1853",
+                "target": "323201",
+                "chapter": "06"
+              },
+              {
+                "label": "19 febbraio 1854",
+                "target": "cb2acc",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Hünten, François (Franz Hünten, 1792–1878)",
+            "link": [
+              {
+                "label": "3 febbraio 1850",
+                "target": "239a32",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Godefroid, Félix (1818–1897)",
+            "link": [
+              {
+                "label": "24 febbraio 1850",
+                "target": "82d3ad",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Louis, Nicolas (1807–1857)",
+            "link": [
+              {
+                "label": "24 febbraio 1850",
+                "target": "887966",
+                "chapter": "06"
+              },
+              {
+                "label": "30 marzo 1850",
+                "target": "9b0447",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Aulagnier, Antonin Joseph (1800–1892)",
+            "link": [
+              {
+                "label": "30 marzo 1850",
+                "target": "572347",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "David, Feliciano (Félicien David, 1810–1876)",
+            "link": [
+              {
+                "label": "25 luglio 1850",
+                "target": "18b4fa",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Chiaromonte, Francesco (1809–1886)",
+            "link": [
+              {
+                "label": "13 ottobre 1850",
+                "target": "740d3a",
+                "chapter": "06"
+              },
+              {
+                "label": "14 aprile 1851",
+                "target": "f0485e",
+                "chapter": "06"
+              },
+              {
+                "label": "28 aprile 1851",
+                "target": "12269a",
+                "chapter": "06"
+              },
+              {
+                "label": "6 luglio 1851",
+                "target": "ec5c28",
+                "chapter": "06"
+              },
+              {
+                "label": "11 agosto 1851",
+                "target": "d65a1e",
+                "chapter": "06"
+              },
+              {
+                "label": "* [tra 14 aprile e 31 agosto 1851",
+                "target": "aba6fb",
+                "chapter": "06"
+              },
+              {
+                "label": "31 agosto 1851",
+                "target": "dff754",
+                "chapter": "06"
+              },
+              {
+                "label": "9 maggio 1852",
+                "target": "f085d1",
+                "chapter": "06"
+              },
+              {
+                "label": "11 giugno 1852",
+                "target": "b8d344",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1852",
+                "target": "e4e55e",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1852",
+                "target": "bca49b",
+                "chapter": "06"
+              },
+              {
+                "label": "4 gennaio 1853",
+                "target": "9e8f93",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Bertini, Henri-Jérôme (1798–1876)",
+            "link": [
+              {
+                "label": "* [ante 1851]",
+                "target": "8d7b2d",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Villanis, Angelo (Luigi Angelo Villanis, 1821–1865)",
+            "link": [
+              {
+                "label": "14 aprile 1851",
+                "target": "51d5fa",
+                "chapter": "06"
+              },
+              {
+                "label": "28 aprile 1851",
+                "target": "daa5f6",
+                "chapter": "06"
+              },
+              {
+                "label": "5 maggio 1851",
+                "target": "c95594",
+                "chapter": "06"
+              },
+              {
+                "label": "5 giugno 1851",
+                "target": "1af515",
+                "chapter": "06"
+              },
+              {
+                "label": "6 luglio 1851",
+                "target": "05149a",
+                "chapter": "06"
+              },
+              {
+                "label": "11 agosto 1851",
+                "target": "d4b589",
+                "chapter": "06"
+              },
+              {
+                "label": "27 dicembre 1851",
+                "target": "1eed6f",
+                "chapter": "06"
+              },
+              {
+                "label": "3 febbraio 1852",
+                "target": "152dc1",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Gottschalk, Louis Moreau (1829–1869)",
+            "link": [
+              {
+                "label": "22 maggio 1851",
+                "target": "43e653",
+                "chapter": "06"
+              },
+              {
+                "label": "6 luglio 1851",
+                "target": "f75a4d",
+                "chapter": "06"
+              },
+              {
+                "label": "27 dicembre 1851",
+                "target": "b1c5b1",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Gordigiani, Luigi (1806–1860)",
+            "link": [
+              {
+                "label": "5 giugno 1851",
+                "target": "bc921d",
+                "chapter": "06"
+              },
+              {
+                "label": "20 giugno 1853",
+                "target": "dc7857",
+                "chapter": "06"
+              },
+              {
+                "label": "28 maggio 1854",
+                "target": "eb3e04",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Jaell, Alfred (1832–1882)",
+            "link": [
+              {
+                "label": "11 agosto 1851",
+                "target": "bfb3fc",
+                "chapter": "06"
+              },
+              {
+                "label": "9 dicembre 1851",
+                "target": "778403",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Trivulzi, Antonio (fl. 1850)",
+            "link": [
+              {
+                "label": "31 agosto 1851",
+                "target": "f070ec",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Arrieta, Emilio (1823–1894)",
+            "link": [
+              {
+                "label": "15 settembre 1851",
+                "target": "260f6b",
+                "chapter": "06"
+              },
+              {
+                "label": "6 ottobre 1851",
+                "target": "2a2e9f",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Butera, Andrea (1822–1862)",
+            "link": [
+              {
+                "label": "6 ottobre 1851",
+                "target": "cae2fd",
+                "chapter": "06"
+              },
+              {
+                "label": "27 ottobre 1851",
+                "target": "9d49db",
+                "chapter": "06"
+              },
+              {
+                "label": "9 dicembre 1851",
+                "target": "9da833",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Foroni, Jacopo (1824–1858)",
+            "link": [
+              {
+                "label": "27 ottobre 1851",
+                "target": "a3ce0c",
+                "chapter": "06"
+              },
+              {
+                "label": "27 dicembre 1851",
+                "target": "d52197",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Fumagalli, Adolfo (1828–1856)",
+            "link": [
+              {
+                "label": "27 ottobre 1851",
+                "target": "0a9be9",
+                "chapter": "06"
+              },
+              {
+                "label": "27 dicembre 1851",
+                "target": "e7f078",
+                "chapter": "06"
+              },
+              {
+                "label": "3 febbraio 1852",
+                "target": "331e5d",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Bodoira, Paolo (fl. 1850)",
+            "link": [
+              {
+                "label": "27 ottobre 1851",
+                "target": "39d11e",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Picchi, Ermanno (1811–1856)",
+            "link": [
+              {
+                "label": "9 dicembre 1851",
+                "target": "753b23",
+                "chapter": "06"
+              },
+              {
+                "label": "27 dicembre 1851",
+                "target": "e805e6",
+                "chapter": "06"
+              },
+              {
+                "label": "3 febbraio 1852",
+                "target": "f3758f",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1852",
+                "target": "f80f97",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Fiori, Ettore (1826–1898)",
+            "link": [
+              {
+                "label": "9 dicembre 1851",
+                "target": "a65a2a",
+                "chapter": "06"
+              },
+              {
+                "label": "27 dicembre 1851",
+                "target": "b8bff5",
+                "chapter": "06"
+              },
+              {
+                "label": "3 febbraio 1852",
+                "target": "a9235c",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1852",
+                "target": "d345dc",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Ferrara, Bernardo (1841–1860)",
+            "link": [
+              {
+                "label": "9 dicembre 1851",
+                "target": "098c60",
+                "chapter": "06"
+              },
+              {
+                "label": "27 dicembre 1851",
+                "target": "53d8f0",
+                "chapter": "06"
+              },
+              {
+                "label": "1 settembre 1852",
+                "target": "d4294f",
+                "chapter": "06"
+              },
+              {
+                "label": "20 giugno 1853",
+                "target": "d9bb86",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "De Giosa, Nicola (1819–1885)",
+            "link": [
+              {
+                "label": "1 settembre 1852",
+                "target": "924eeb",
+                "chapter": "06"
+              },
+              {
+                "label": "4 gennaio 1853",
+                "target": "497387",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Campana, Fabio (1819–1882)",
+            "link": [
+              {
+                "label": "4 gennaio 1853",
+                "target": "135925",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Tancioni, Eugenio (fl. 1840–1855)",
+            "link": [
+              {
+                "label": "4 gennaio 1853",
+                "target": "977a8c",
+                "chapter": "06"
+              },
+              {
+                "label": "28 maggio 1854",
+                "target": "484097",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Piatti, Alfredo (1822–1901)",
+            "link": [
+              {
+                "label": "2 febbraio 1853",
+                "target": "c8378f",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Romani, Carlo (1824–1875)",
+            "link": [
+              {
+                "label": "20 giugno 1853",
+                "target": "95f791",
+                "chapter": "06"
+              },
+              {
+                "label": "13 novembre 1853",
+                "target": "035fe3",
+                "chapter": "06"
+              },
+              {
+                "label": "19 febbraio 1854",
+                "target": "23c5b5",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Bussi, Antonio (Antonio Buzzi, 1808–1891)",
+            "link": [
+              {
+                "label": "19 febbraio 1854",
+                "target": "fdf7b1",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Duvernoy, Jean Baptiste (1800–1880)",
+            "link": [
+              {
+                "label": "19 febbraio 1854",
+                "target": "091511",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Petrella, Enrico (Errico Petrella, 1813–1877)",
+            "link": [
+              {
+                "label": "20 aprile 1854",
+                "target": "c9967e",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Salviani, Clemente (fl. 1815–1837)",
+            "link": [
+              {
+                "label": "20 aprile 1854",
+                "target": "60e5d6",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Petrella, Errico (1813–1877)",
+            "link": [
+              {
+                "label": "28 maggio 1854",
+                "target": "eda529",
+                "chapter": "06"
+              },
+              {
+                "label": "[senza data]",
+                "target": "cc9212",
+                "chapter": "06"
+              },
+              {
+                "label": "[senza data]",
+                "target": "410afa",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Piave, Francesco Maria (1810–1876)",
+            "link": [
+              {
+                "label": "6 dicembre 1862",
+                "target": "14b9f5",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Méry, Joseph (1798–1866)",
+            "link": [
+              {
+                "label": "23 aprile 1867",
+                "target": "b0270e",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "Méry, Joseph (1798–1866)",
+            "link": [
+              {
+                "label": "23 aprile 1867",
+                "target": "6e0755",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "du Locle, Camillo (1832–1903)",
+            "link": [
+              {
+                "label": "23 aprile 1867",
+                "target": "35f54e",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "De Ferrari, Serafino Amedeo (1824–1885)",
+            "link": [
+              {
+                "label": "[senza data]",
+                "target": "b4185d",
+                "chapter": "06"
+              },
+              {
+                "label": "[senza data]",
+                "target": "f94691",
+                "chapter": "06"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
