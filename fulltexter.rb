@@ -1,0 +1,16 @@
+require 'nokogiri'
+require 'awesome_print'
+require 'securerandom'
+require 'json'
+require 'namae'
+
+
+doc = File.open("./output/output-tagged.html") { |f| Nokogiri::HTML(f) }
+
+list = []
+
+doc.search('p').each do |s|
+  list << {ref: s.[]('id'), transcription: s.text.strip}
+end
+
+File.write("./json/fulltext.json", JSON.pretty_generate(list))
