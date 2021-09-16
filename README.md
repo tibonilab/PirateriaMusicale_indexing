@@ -7,8 +7,8 @@ Script to generate K output tagged HTML files and a whole HTML tagged file for i
 ### Full-texter
 Script to generate a JSON file containing a list of transcriptions related to every tag.
 
-### Indexer
-Script to generate a JSON file containing an index of elements related to particoular tags.
-
 ### TOCer
 Script to generate a JSON file containing the Table of Contents of the project.
+
+### Indexer
+Script to generate a JSON file containing the whole index composed by ToC and Composers.
