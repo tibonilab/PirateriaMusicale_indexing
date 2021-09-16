@@ -151,7 +151,286 @@ chapter5[:group].each do |mp|
 end
 
 
-ap chapter5
+
+
+chapter6 = {
+    group: []
+}
+
+doc = File.open("./output/output-tagged-6.html") { |f| Nokogiri::HTML(f) }
+
+titlefound = false;
+paragraphkey = 0;
+paragraphs = {}
+
+doc.search('span').each do |s|
+  # matching main section title
+  if s[:style] == "font-size:14pt;font-weight:bold"
+    if !titlefound
+        titlefound = true
+    
+        subtitle = s.parent.next_element.children.text
+        
+        chapterName = s.text.strip
+        chapter6 = {
+            name: chapterName,
+            subtitle: s.parent.next_element.children.text,
+            group: []
+        }
+    else
+      chapter6[:group] << {name: s.text.strip, link: []}
+        paragraphs[paragraphkey] = []
+        paragraphkey += 1
+    end
+  end
+
+  if s[:style] == "font-weight:bold;color:44546A"
+
+    if paragraphs[paragraphkey - 1].nil? && paragraphkey > 0
+        ap "init paragraph for key #{paragraphkey}"
+        paragraphs[paragraphkey - 1] = []
+    end
+
+    if paragraphkey > 0
+        paragraphs[paragraphkey - 1] << {label: s.text.strip, target: s.parent.[]('id'), chapter: "06"}
+    end
+  end
+
+end
+
+key = 0
+chapter6[:group].each do |mp|
+  chapter6[:group][key][:link] = paragraphs[key]
+    key += 1
+end
+
+
+
+
+chapter7 = {
+    group: []
+}
+
+doc = File.open("./output/output-tagged-7.html") { |f| Nokogiri::HTML(f) }
+
+titlefound = false;
+paragraphkey = 0;
+paragraphs = {}
+
+doc.search('span').each do |s|
+  # matching main section title
+  if s[:style] == "font-size:14pt;font-weight:bold"
+    if !titlefound
+        titlefound = true
+    
+        subtitle = s.parent.next_element.children.text
+        
+        chapterName = s.text.strip
+        chapter7 = {
+            name: chapterName,
+            subtitle: s.parent.next_element.children.text,
+            link: []
+        }
+    else
+      chapter7[:link] << {label: s.text.strip, target: s.parent.[]('id'), chapter: "07"}
+      # chapter7[:group] << {name: s.text.strip, link: []}
+      # paragraphs[paragraphkey] = []
+      # paragraphkey += 1
+    end
+  end
+
+  # if s[:style] == "font-size:11pt;font-weight:bold"
+
+  #   if paragraphs[paragraphkey - 1].nil? && paragraphkey > 0
+  #       ap "init paragraph for key #{paragraphkey}"
+  #       paragraphs[paragraphkey - 1] = []
+  #   end
+
+  #   if paragraphkey > 0
+  #       paragraphs[paragraphkey - 1] << {label: s.text.strip, target: s.parent.[]('id'), chapter: "05"}
+  #   end
+  # end
+
+end
+
+# key = 0
+# chapter7[:group].each do |mp|
+#   chapter7[:group][key][:link] = paragraphs[key]
+#     key += 1
+# end
+
+
+
+
+
+
+
+chapter8 = {
+    group: []
+}
+
+doc = File.open("./output/output-tagged-8.html") { |f| Nokogiri::HTML(f) }
+
+titlefound = false;
+paragraphkey = 0;
+paragraphs = {}
+
+doc.search('span').each do |s|
+  # matching main section title
+  if s[:style] == "font-size:14pt;font-weight:bold"
+    if !titlefound
+        titlefound = true
+    
+        subtitle = s.parent.next_element.children.text
+        
+        chapterName = s.text.strip
+        chapter8 = {
+            name: chapterName,
+            subtitle: s.parent.next_element.children.text,
+            link: []
+        }
+    else
+      chapter8[:link] << {label: s.text.strip, target: s.parent.[]('id'), chapter: "08"}
+      # chapter7[:group] << {name: s.text.strip, link: []}
+      # paragraphs[paragraphkey] = []
+      # paragraphkey += 1
+    end
+  end
+
+  # if s[:style] == "font-size:11pt;font-weight:bold"
+
+  #   if paragraphs[paragraphkey - 1].nil? && paragraphkey > 0
+  #       ap "init paragraph for key #{paragraphkey}"
+  #       paragraphs[paragraphkey - 1] = []
+  #   end
+
+  #   if paragraphkey > 0
+  #       paragraphs[paragraphkey - 1] << {label: s.text.strip, target: s.parent.[]('id'), chapter: "05"}
+  #   end
+  # end
+
+end
+
+# key = 0
+# chapter7[:group].each do |mp|
+#   chapter7[:group][key][:link] = paragraphs[key]
+#     key += 1
+# end
+
+
+
+
+
+
+
+chapter9 = {
+    group: []
+}
+
+doc = File.open("./output/output-tagged-9.html") { |f| Nokogiri::HTML(f) }
+
+titlefound = false;
+paragraphkey = 0;
+paragraphs = {}
+
+doc.search('span').each do |s|
+  # matching main section title
+  if s[:style] == "font-size:14pt;font-weight:bold"
+    if !titlefound
+        titlefound = true
+    
+        subtitle = s.parent.next_element.children.text
+        
+        chapterName = s.text.strip
+        chapter9 = {
+            name: chapterName,
+            subtitle: s.parent.next_element.children.text,
+            link: []
+        }
+    end
+  end
+  
+  if s[:style] == "font-size:11pt;font-weight:bold"
+    chapter9[:link] << {label: s.text.strip, target: s.parent.[]('id'), chapter: "09"}
+  end
+
+end
+
+
+
+
+
+chapter10 = {
+    group: []
+}
+
+doc = File.open("./output/output-tagged-10.html") { |f| Nokogiri::HTML(f) }
+
+titlefound = false;
+paragraphkey = 0;
+paragraphs = {}
+
+doc.search('span').each do |s|
+  # matching main section title
+  if s[:style] == "font-size:14pt;font-weight:bold"
+    if !titlefound
+        titlefound = true
+    
+        subtitle = s.parent.next_element.children.text
+        
+        chapterName = s.text.strip
+        chapter10 = {
+            name: chapterName,
+            # subtitle: s.parent.next_element.children.text,
+            link: []
+        }
+    end
+  end
+  
+  if s[:style] == "font-size:10pt;font-weight:bold"
+    chapter10[:link] << {label: s.text.strip, target: s.parent.[]('id'), chapter: "10"}
+  end
+
+end
+
+
+
+
+
+chapter11 = {
+    group: []
+}
+
+doc = File.open("./output/output-tagged-11.html") { |f| Nokogiri::HTML(f) }
+
+titlefound = false;
+paragraphkey = 0;
+paragraphs = {}
+
+doc.search('span').each do |s|
+  # matching main section title
+  if s[:style] == "font-size:14pt;font-weight:bold"
+    if !titlefound
+        titlefound = true
+    
+        subtitle = s.parent.next_element.children.text
+        
+        chapterName = s.text.strip
+        chapter11 = {
+            name: chapterName,
+            # subtitle: s.parent.next_element.children.text,
+            link: []
+        }
+    end
+  end
+  
+  if s[:style] == "font-size:11pt;text-decoration:underline"
+    chapter11[:link] << {label: s.text.strip, target: s.parent.[]('id'), chapter: "11"}
+  end
+
+end
+
+
 
 
 # init and compose toc dataset
@@ -162,14 +441,20 @@ toc = [
         link: [
             {
                 label: "Introduzione", 
-                target: "103c54"
+                target: "9b3670"
             }
         ]
     },
     chapter2,
     chapter3,
     chapter4,
-    chapter5
+    chapter5,
+    chapter6,
+    chapter7,
+    chapter8,
+    chapter9,
+    chapter10,
+    chapter11
 ]
 
 dataset = {
