@@ -49,6 +49,9 @@ doc.search('span').each do |s|
   end
 end
 
+
+
+
 composers = []
 
 normalized_names = {}
@@ -59,12 +62,89 @@ index.each do |name, pages|
   
   composer = {}
   composer[:name] = normalized_name
-  composer[:link] = []
+  
+  links = []
   pages.each do |p|
-    composer[:link] << {label: p[1].strip, target: p[0], chapter: "05"}
+    links << {label: p[1].strip, target: p[0], chapter: "05"}
   end
+
+  composer[:link] = links.sort_by { |link| link[:label].to_i == 0 ? 999999999999 + link[:label][0].ord : link[:label].to_i }
+
   composers << composer
 end
+
+composers = composers.sort_by { |c| c[:name] }
+
+
+
+
+
+
+
+
+name_map2 = data_hash = JSON.parse(File.read("./utils/name_map2.json"))
+
+doc = File.open("./output/output-tagged-6.html") { |f| Nokogiri::HTML(f) }
+
+index = {}
+
+doc.search('span').each do |s|
+  if s[:style] == "font-size:10pt;font-weight:bold;color:44546A"
+
+    uniq = s.parent[:id]
+
+    first_number = s.parent.next_element.child
+    if first_number[:style] != 'font-size:10pt;color:44546A'
+      first_number = first_number.parent.next_element.child
+    end 
+
+    splitted = first_number.text.split(/\t/)    
+    test_title = splitted[0].gsub('°', '').to_i
+
+    if test_title == 0
+      first_number = first_number.parent.next_element.child
+      splitted = first_number.text.split(/\t/)
+    end
+
+
+    title = splitted[0].strip
+
+    if title == ''
+      title = splitted[1]
+    end
+    
+    if !index.include?(s.text.strip)
+      index[s.text.strip] = []
+    end
+    
+    index[s.text.strip] << [uniq, title]
+    
+  end
+end
+
+
+
+composers2 = []
+
+index.each do |name, pages|
+
+  normalized_name = name_map2[name]
+  
+  composer = {}
+  composer[:name] = normalized_name
+  
+  links = []
+  pages.each do |p|
+    links << {label: p[1].strip, target: p[0], chapter: "06"}
+  end
+
+  composer[:link] = links.sort_by { |link| link[:label].to_i == 0 ? 999999999999 + link[:label][0].ord : link[:label].to_i }
+
+  composers2 << composer
+end
+
+composers2 = composers2.sort_by { |c| c[:name] }
+
 
 
 
@@ -507,7 +587,7 @@ toc = [
         link: [
             {
                 label: "Introduzione", 
-                target: "9b3670"
+                target: "b35653"
             }
         ]
     },
@@ -531,8 +611,12 @@ dataset = {
         group: toc
       },
       {
-        name:  "Composers",
+        name:  "Composers5",
         group: composers
+      },
+      {
+        name: "Composers6",
+        group: composers2
       }
     ]
   }
