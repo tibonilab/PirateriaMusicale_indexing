@@ -25,7 +25,7 @@ hand_map = {
 }
 =end
 
-name_map = data_hash = JSON.parse(File.read("../utils/name_map.json"))
+name_map = data_hash = JSON.parse(File.read("../utils/name_map2.json"))
 
 doc = File.open("../output/output-tagged-6.html") { |f| Nokogiri::HTML(f) }
 
@@ -33,28 +33,27 @@ index = {}
 
 doc.search('span').each do |s|
   if s[:style] == "font-size:10pt;font-weight:bold;color:44546A"
+
     uniq = s.parent[:id]
-    
-    
-    prev = s.parent.previous_element
-    found = false
-    title = ""
-    for a in 1..250 do
-      prev.search('span').each do |t|
-        if t[:style] == "font-size:11pt;font-weight:bold"
-          #puts t
-          found = true
-          title = t.text
-          break
-        end
-      end
-      break if found
-      prev = prev.previous_element
+
+    first_number = s.parent.next_element.child
+    if first_number[:style] != 'font-size:10pt;color:44546A'
+      first_number = first_number.parent.next_element.child
+    end 
+
+    splitted = first_number.text.split(/\t/)    
+    test_title = splitted[0].gsub('°', '').to_i
+
+    if test_title == 0
+      first_number = first_number.parent.next_element.child
+      splitted = first_number.text.split(/\t/)
     end
-    
-    if !found
-      puts s.text
-      ap prev
+
+
+    title = splitted[0].strip
+
+    if title == ''
+      title = splitted[1]
     end
     
     if !index.include?(s.text.strip)
@@ -66,22 +65,40 @@ doc.search('span').each do |s|
   end
 end
 
-# File.write("output.html", doc.to_html)
+
+ap index
+
+sorted = index.sort
+
+sorted_hash = {}
+
+sorted.each do |i|
+  sorted_hash[i[0]] = index[i[0]]
+end 
+
+ap sorted_hash
+
+
+
 
 composers = []
 
 normalized_names = {}
 
-index.each do |name, pages|
+sorted_hash.each do |name, pages|
 
   normalized_name = name_map[name]
   
   composer = {}
   composer[:name] = normalized_name
-  composer[:link] = []
+  links = []
   pages.each do |p|
-    composer[:link] << {label: p[1].strip, target: p[0], chapter: "06"}
+    links << {label: p[1].strip, target: p[0], chapter: "06"}
   end
+
+
+  composer[:link] = links.sort_by { |link| link[:label].to_i == 0 ? 999999999999 + link[:label][0].ord : link[:label].to_i }
+
   composers << composer
 end
 
