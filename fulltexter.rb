@@ -5,7 +5,7 @@ require 'json'
 require 'namae'
 
 
-doc = File.open("./output/output-tagged.html") { |f| Nokogiri::HTML(f) }
+doc = File.open("./output/output-tagged-full-text.html") { |f| Nokogiri::HTML(f) }
 
 list = []
 
