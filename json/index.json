@@ -843,6 +843,7 @@
             "group": [
               {
                 "name": "5. Depositi - Carlo Pozzi (1836–1855)",
+                "target": "93038d",
                 "link": [
                   {
                     "label": "a) sintesi cronologica",
@@ -873,6 +874,7 @@
               },
               {
                 "name": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)",
+                "target": "5cf6fe",
                 "link": [
                   {
                     "label": "a) sintesi cronologica",
@@ -903,6 +905,7 @@
               },
               {
                 "name": "5. Depositi - Achille Bustelli-Rossi (1857–1867)",
+                "target": "7b652a",
                 "link": [
                   {
                     "label": "a) sintesi cronologica",
@@ -933,6 +936,7 @@
               },
               {
                 "name": "5. Depositi - Francesco Veladini (1860–1866)",
+                "target": "972679",
                 "link": [
                   {
                     "label": "> sintesi cronologica",
@@ -949,6 +953,7 @@
             "group": [
               {
                 "name": "6. Cataloghi - Catalogo delle musiche prodotte da Carlo Pozzi",
+                "target": "a2e5dd",
                 "link": [
                   {
                     "label": "a) in ordine numerico",
@@ -969,6 +974,7 @@
               },
               {
                 "name": "6. Cataloghi - Catalogo delle musiche prodotte da Euterpe Ticinese",
+                "target": "1fabf6",
                 "link": [
                   {
                     "label": "a) in ordine numerico",
@@ -989,6 +995,7 @@
               },
               {
                 "name": "6. Cataloghi - Catalogo delle musiche prodotte da Achille Bustelli-Rossi",
+                "target": "ecd6d3",
                 "link": [
                   {
                     "label": "a) in ordine numerico",
@@ -1556,16 +1563,6 @@
             "name": "Adam, Adolphe Charles (1803–1856)",
             "link": [
               {
-                "label": "[ante 19] novembre 1843",
-                "target": "eca4ec",
-                "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Adam, Adolphe Charles (1803–1856)",
-            "link": [
-              {
                 "label": "14 febbraio 1846",
                 "target": "9589a7",
                 "chapter": "05"
@@ -1573,6 +1570,11 @@
               {
                 "label": "* 5 aprile 1844",
                 "target": "f0a866",
+                "chapter": "05"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "eca4ec",
                 "chapter": "05"
               }
             ]
@@ -2489,12 +2491,7 @@
                 "label": "30 giugno 1845",
                 "target": "579468",
                 "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Ernst, Heinrich Wilhelm (1814–1865)",
-            "link": [
+              },
               {
                 "label": "30 giugno 1845",
                 "target": "579468",
@@ -2931,15 +2928,10 @@
             "name": "Hünten, Franz (1792–1878)",
             "link": [
               {
-                "label": "* 30 novembre 1841",
-                "target": "866a38",
+                "label": "3 febbraio 1850",
+                "target": "cfa15a",
                 "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Hünten, François (Franz Hünten, 1792–1878)",
-            "link": [
+              },
               {
                 "label": "21 ottobre 1842",
                 "target": "563875",
@@ -2949,15 +2941,10 @@
                 "label": "21 ottobre 1842",
                 "target": "4e6c4d",
                 "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Hünten, François (Franz Hünten, 1792–1878)",
-            "link": [
+              },
               {
-                "label": "3 febbraio 1850",
-                "target": "cfa15a",
+                "label": "* 30 novembre 1841",
+                "target": "866a38",
                 "chapter": "05"
               }
             ]
@@ -3156,6 +3143,11 @@
                 "chapter": "05"
               },
               {
+                "label": "9 dicembre 1843",
+                "target": "38059d",
+                "chapter": "05"
+              },
+              {
                 "label": "12 maggio 1843",
                 "target": "5bff86",
                 "chapter": "05"
@@ -3193,31 +3185,16 @@
             ]
           },
           {
-            "name": "Lanner, Josef (1801–1843)",
-            "link": [
-              {
-                "label": "9 dicembre 1843",
-                "target": "38059d",
-                "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Lecarpentier, Adolphe (Adolphe Clair Le Carpentier, 1809–1869)",
-            "link": [
-              {
-                "label": "[ante 19] novembre 1843",
-                "target": "7d05c0",
-                "chapter": "05"
-              }
-            ]
-          },
-          {
             "name": "Lecarpentier, Adolphe (Adolphe Clair Le Carpentier, 1809–1869)",
             "link": [
               {
                 "label": "* 5 aprile 1844",
                 "target": "715dcf",
+                "chapter": "05"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "7d05c0",
                 "chapter": "05"
               }
             ]
@@ -3464,25 +3441,15 @@
                 "label": "4 settembre 1846",
                 "target": "9c02d9",
                 "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Meyer, Léopold de (Leopold von Meyer, 1816–1883)",
-            "link": [
-              {
-                "label": "20 luglio 1845",
-                "target": "0f7bbc",
-                "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Meyer, Léopold de (Leopold von Meyer, 1816–1883)",
-            "link": [
+              },
               {
                 "label": "14 agosto 1845",
                 "target": "f991cf",
+                "chapter": "05"
+              },
+              {
+                "label": "20 luglio 1845",
+                "target": "0f7bbc",
                 "chapter": "05"
               }
             ]
@@ -3554,12 +3521,7 @@
                 "label": "23 aprile 1867",
                 "target": "1ca811",
                 "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Méry, Joseph (1798–1866)",
-            "link": [
+              },
               {
                 "label": "23 aprile 1867",
                 "target": "1ca811",
@@ -3777,6 +3739,11 @@
               },
               {
                 "label": "27 marzo 1843",
+                "target": "0dfdf8",
+                "chapter": "05"
+              },
+              {
+                "label": "27 marzo 1843",
                 "target": "477a3d",
                 "chapter": "05"
               },
@@ -3788,16 +3755,6 @@
               {
                 "label": "* 5 aprile 1844",
                 "target": "76cef1",
-                "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Pacini, Giovanni (1796–1867)",
-            "link": [
-              {
-                "label": "27 marzo 1843",
-                "target": "0dfdf8",
                 "chapter": "05"
               }
             ]
@@ -3831,6 +3788,11 @@
             "name": "Parish Alvars, E.  (Elias Parish Alvars, 1808–1849)",
             "link": [
               {
+                "label": "1 settembre 1845",
+                "target": "305e75",
+                "chapter": "05"
+              },
+              {
                 "label": "* 17 novembre 1838",
                 "target": "f7533a",
                 "chapter": "05"
@@ -3838,28 +3800,13 @@
             ]
           },
           {
-            "name": "Parish Alvars, E.  (Elias Parish Alvars, 1808–1849)",
-            "link": [
-              {
-                "label": "1 settembre 1845",
-                "target": "305e75",
-                "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Petrella, Enrico (Errico Petrella, 1813–1877)",
+            "name": "Petrella, Errico (1813–1877)",
             "link": [
               {
                 "label": "20 aprile 1854",
                 "target": "75fdfe",
                 "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Petrella, Errico (1813–1877)",
-            "link": [
+              },
               {
                 "label": "28 maggio 1854",
                 "target": "ad4456",
@@ -4074,12 +4021,7 @@
                 "label": "* 26 febbraio 1838",
                 "target": "8febc7",
                 "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Ricci, Luigi (1805–1859)",
-            "link": [
+              },
               {
                 "label": "* 30 giugno 1841",
                 "target": "23c382",
@@ -5651,18 +5593,13 @@
                 "chapter": "05"
               },
               {
-                "label": "[ante 19] novembre 1843",
-                "target": "4bf453",
-                "chapter": "05"
-              }
-            ]
-          },
-          {
-            "name": "Wolff, Edouard (Edward Wolff, 1816–1880)",
-            "link": [
-              {
                 "label": "30 giugno 1845",
                 "target": "0fce74",
+                "chapter": "05"
+              },
+              {
+                "label": "[ante 19] novembre 1843",
+                "target": "4bf453",
                 "chapter": "05"
               }
             ]
@@ -8899,12 +8836,7 @@
                 "label": "679",
                 "target": "4d105f",
                 "chapter": "06"
-              }
-            ]
-          },
-          {
-            "name": "Lafont, Charles-Philippe (1781–1839)",
-            "link": [
+              },
               {
                 "label": "°346",
                 "target": "1c8c5d",
@@ -9406,6 +9338,16 @@
                 "chapter": "06"
               },
               {
+                "label": "512",
+                "target": "8391df",
+                "chapter": "06"
+              },
+              {
+                "label": "512",
+                "target": "affae7",
+                "chapter": "06"
+              },
+              {
                 "label": "[partitura e parte]",
                 "target": "81ba13",
                 "chapter": "06"
@@ -9423,21 +9365,6 @@
               {
                 "label": "°497",
                 "target": "c73de2",
-                "chapter": "06"
-              }
-            ]
-          },
-          {
-            "name": "Osborne, George Alexander de (1806–1893)",
-            "link": [
-              {
-                "label": "512",
-                "target": "8391df",
-                "chapter": "06"
-              },
-              {
-                "label": "512",
-                "target": "affae7",
                 "chapter": "06"
               }
             ]
