@@ -14,4 +14,4 @@ Script to generate a JSON file containing the Table of Contents of the project.
 Script to generate a JSON file containing the whole index composed by ToC and Composers.
 
 ### Styler
-Script to generate heading class names to peculiar node in order to let the generated document be styled
+Script to generate heading class names to peculiar nodes in order to let the generated document be styled
