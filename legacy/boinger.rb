@@ -27,12 +27,12 @@ hand_map = {
 
 name_map = data_hash = JSON.parse(File.read("../utils/name_map.json"))
 
-doc = File.open("../output/output-tagged-6.html") { |f| Nokogiri::HTML(f) }
+doc = File.open("../output/output-tagged-5.html") { |f| Nokogiri::HTML(f) }
 
 index = {}
 
 doc.search('span').each do |s|
-  if s[:style] == "font-size:10pt;font-weight:bold;color:44546A"
+  if s[:style] == "font-size:10pt;font-weight:bold;color:C00000"
     uniq = s.parent[:id]
     
     
@@ -57,16 +57,82 @@ doc.search('span').each do |s|
       ap prev
     end
     
-    if !index.include?(s.text.strip)
-      index[s.text.strip] = []
+    string_to_test = s.text.strip
+
+    if ['Adolphe Adam', 'Adolphe Charles Adam'].include?(string_to_test)
+      string_to_test = 'Adolphe Adam'
+      ap string_to_test
+    end
+
+    if ['Adolphe Lecarpentier', 'Adolphe Le Carpentier'].include?(string_to_test)
+      string_to_test = 'Adolphe Lecarpentier'
+      ap string_to_test
+    end
+
+    if ['Wilhelm Ernst', 'Heinrich Wilhelm Ernst'].include?(string_to_test)
+      string_to_test = 'Wilhelm Ernst'
+      ap string_to_test
+    end    
+
+    if ['Luigi Ricci', 'Louis Ricci'].include?(string_to_test)
+      string_to_test = 'Luigi Ricci'
+      ap string_to_test
+    end    
+    
+    if ['Errico Petrella', 'Enrico Petrella'].include?(string_to_test)
+      string_to_test = 'Errico Petrella'
+      ap string_to_test
+    end    
+    
+    if ['E. Parish Alvars', 'Parish Alvars'].include?(string_to_test)
+      string_to_test = 'E. Parish Alvars'
+      ap string_to_test
+    end    
+        
+    if ['Giovanni Pacini', 'Giovanni Paccini'].include?(string_to_test)
+      string_to_test = 'Giovanni Pacini'
+      ap string_to_test
+    end    
+            
+    if ['Joseph', 'Méry'].include?(string_to_test)
+      string_to_test = 'Joseph'
+      ap string_to_test
+    end    
+                
+    if ['Léopold de Meyer', 'Leopold De Meyer', 'Leopold De Meyer'].include?(string_to_test)
+      string_to_test = 'Léopold de Meyer'
+      ap string_to_test
+    end    
+    
+                
+    if ['Josef Lanner', 'Joseph Lanner'].include?(string_to_test)
+      string_to_test = 'Josef Lanner'
+      ap string_to_test
+    end    
+    
+                
+    if ['Franz Hünten', 'François Hunten', 'François Hünten'].include?(string_to_test)
+      string_to_test = 'Franz Hünten'
+      ap string_to_test
+    end          
+             
+    if ['Edward Wolff', 'Edouard Wolff'].include?(string_to_test)
+      string_to_test = 'Edward Wolff'
+      ap string_to_test
+    end    
+    
+    
+    if !index.include?(string_to_test)
+      index[string_to_test] = []
     end
     
-    index[s.text.strip] << [uniq, title]
+    index[string_to_test] << [uniq, title]
     
   end
 end
 
-# File.write("output.html", doc.to_html)
+ap index
+
 
 composers = []
 
@@ -76,27 +142,29 @@ index.each do |name, pages|
 
   normalized_name = name_map[name]
   
+  ap normalized_name
+  ap name
+
   composer = {}
   composer[:name] = normalized_name
-  composer[:link] = []
+  
+  links = []
   pages.each do |p|
-    composer[:link] << {label: p[1].strip, target: p[0], chapter: "06"}
+    links << {label: p[1].strip, target: p[0], chapter: "05"}
   end
+
+  composer[:link] = links.sort_by { |link| link[:label].to_i == 0 ? 999999999999 + link[:label][0].ord : link[:label].to_i }
+
   composers << composer
 end
 
-dataset = {
-  index: {
-    group: [
-      {
-        name: "Composers6",
-        group: composers
-      }
-    ]
-  }
-}
+composers = composers.sort_by { |c| c[:name].downcase }
 
-ap dataset
+
+ap composers
+
+
+# ap dataset
 
 # File.write("index.json", JSON.pretty_generate(dataset))
 

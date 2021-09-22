@@ -56,11 +56,93 @@ doc.search('span').each do |s|
       title = splitted[1]
     end
     
-    if !index.include?(s.text.strip)
-      index[s.text.strip] = []
+    string_to_test = s.text.strip
+
+    if ['Adolphe Adam', 'Adolphe Charles Adam'].include?(string_to_test)
+      string_to_test = 'Adolphe Adam'
+      ap string_to_test
+    end
+
+    if ['Adolphe Lecarpentier', 'Adolphe Le Carpentier'].include?(string_to_test)
+      string_to_test = 'Adolphe Lecarpentier'
+      ap string_to_test
+    end
+
+    if ['Wilhelm Ernst', 'Heinrich Wilhelm Ernst'].include?(string_to_test)
+      string_to_test = 'Wilhelm Ernst'
+      ap string_to_test
+    end    
+
+    if ['Luigi Ricci', 'Louis Ricci'].include?(string_to_test)
+      string_to_test = 'Luigi Ricci'
+      ap string_to_test
+    end    
+    
+    if ['Errico Petrella', 'Enrico Petrella'].include?(string_to_test)
+      string_to_test = 'Errico Petrella'
+      ap string_to_test
+    end    
+    
+    if ['E. Parish Alvars', 'Parish Alvars'].include?(string_to_test)
+      string_to_test = 'E. Parish Alvars'
+      ap string_to_test
+    end    
+        
+    if ['Giovanni Pacini', 'Giovanni Paccini'].include?(string_to_test)
+      string_to_test = 'Giovanni Pacini'
+      ap string_to_test
+    end    
+            
+    if ['Joseph', 'Méry'].include?(string_to_test)
+      string_to_test = 'Joseph'
+      ap string_to_test
+    end    
+                
+    if ['Léopold de Meyer', 'Leopold De Meyer', 'Leopold De Meyer'].include?(string_to_test)
+      string_to_test = 'Léopold de Meyer'
+      ap string_to_test
+    end    
+    
+                
+    if ['Josef Lanner', 'Joseph Lanner'].include?(string_to_test)
+      string_to_test = 'Josef Lanner'
+      ap string_to_test
+    end    
+    
+                
+    if ['Franz Hünten', 'François Hunten', 'François Hünten'].include?(string_to_test)
+      string_to_test = 'Franz Hünten'
+      ap string_to_test
+    end          
+             
+    if ['Edward Wolff', 'Edouard Wolff'].include?(string_to_test)
+      string_to_test = 'Edward Wolff'
+      ap string_to_test
+    end    
+    
+    if ['Charles Philippe Lafont', 'Charles-Philippe Lafont'].include?(string_to_test)
+      string_to_test = 'Charles-Philippe Lafont'
+      ap string_to_test
+    end   
+
+    if ['George Alexander Osborne', 'George Alexander de Osborne'].include?(string_to_test)
+      string_to_test = 'George Alexander Osborne'
+      ap string_to_test
+    end    
+    
+    
+    if ['Heinrich Wilhelm Ernst', 'Wilhelm Ernst'].include?(string_to_test)
+      string_to_test = 'Heinrich Wilhelm Ernst'
+      ap string_to_test
+    end    
+    
+    
+    
+    if !index.include?(string_to_test)
+      index[string_to_test] = []
     end
     
-    index[s.text.strip] << [uniq, title]
+    index[string_to_test] << [uniq, title]
     
   end
 end
@@ -102,18 +184,23 @@ sorted_hash.each do |name, pages|
   composers << composer
 end
 
-dataset = {
-  index: {
-    group: [
-      {
-        name: "Composers6",
-        group: composers
-      }
-    ]
-  }
-}
+composers = composers.sort_by { |c| c[:name].downcase }
 
-ap dataset
+ap composers
+
+
+# dataset = {
+#   index: {
+#     group: [
+#       {
+#         name: "Composers6",
+#         group: composers
+#       }
+#     ]
+#   }
+# }
+
+# ap dataset
 
 # File.write("index.json", JSON.pretty_generate(dataset))
 
