@@ -39,12 +39,65 @@ doc.search('span').each do |s|
       puts s.text
       ap prev
     end
+
+    # normalizing names
+    string_to_test = s.text.strip
+
+    if ['Adolphe Adam', 'Adolphe Charles Adam'].include?(string_to_test)
+      string_to_test = 'Adolphe Adam'
+    end
+
+    if ['Adolphe Lecarpentier', 'Adolphe Le Carpentier'].include?(string_to_test)
+      string_to_test = 'Adolphe Lecarpentier'
+    end
+
+    if ['Wilhelm Ernst', 'Heinrich Wilhelm Ernst'].include?(string_to_test)
+      string_to_test = 'Wilhelm Ernst'
+    end    
+
+    if ['Luigi Ricci', 'Louis Ricci'].include?(string_to_test)
+      string_to_test = 'Luigi Ricci'
+    end    
     
-    if !index.include?(s.text.strip)
-      index[s.text.strip] = []
+    if ['Errico Petrella', 'Enrico Petrella'].include?(string_to_test)
+      string_to_test = 'Errico Petrella'
+    end    
+    
+    if ['E. Parish Alvars', 'Parish Alvars'].include?(string_to_test)
+      string_to_test = 'E. Parish Alvars'
+    end    
+        
+    if ['Giovanni Pacini', 'Giovanni Paccini'].include?(string_to_test)
+      string_to_test = 'Giovanni Pacini'
+    end    
+            
+    if ['Joseph', 'Méry'].include?(string_to_test)
+      string_to_test = 'Joseph'
+    end    
+                
+    if ['Léopold de Meyer', 'Leopold De Meyer', 'Leopold De Meyer'].include?(string_to_test)
+      string_to_test = 'Léopold de Meyer'
+    end    
+    
+                
+    if ['Josef Lanner', 'Joseph Lanner'].include?(string_to_test)
+      string_to_test = 'Josef Lanner'
+    end    
+    
+                
+    if ['Franz Hünten', 'François Hunten', 'François Hünten'].include?(string_to_test)
+      string_to_test = 'Franz Hünten'
+    end          
+             
+    if ['Edward Wolff', 'Edouard Wolff'].include?(string_to_test)
+      string_to_test = 'Edward Wolff'
+    end    
+    
+    if !index.include?(string_to_test)
+      index[string_to_test] = []
     end
     
-    index[s.text.strip] << [uniq, title]
+    index[string_to_test] << [uniq, title]
     
   end
 end
@@ -113,11 +166,76 @@ doc.search('span').each do |s|
       title = splitted[1]
     end
     
-    if !index.include?(s.text.strip)
-      index[s.text.strip] = []
+    # normalizing names
+    string_to_test = s.text.strip
+
+    if ['Adolphe Adam', 'Adolphe Charles Adam'].include?(string_to_test)
+      string_to_test = 'Adolphe Adam'
+    end
+
+    if ['Adolphe Lecarpentier', 'Adolphe Le Carpentier'].include?(string_to_test)
+      string_to_test = 'Adolphe Lecarpentier'
+    end
+
+    if ['Wilhelm Ernst', 'Heinrich Wilhelm Ernst'].include?(string_to_test)
+      string_to_test = 'Wilhelm Ernst'
+    end    
+
+    if ['Luigi Ricci', 'Louis Ricci'].include?(string_to_test)
+      string_to_test = 'Luigi Ricci'
+    end    
+    
+    if ['Errico Petrella', 'Enrico Petrella'].include?(string_to_test)
+      string_to_test = 'Errico Petrella'
+    end    
+    
+    if ['E. Parish Alvars', 'Parish Alvars'].include?(string_to_test)
+      string_to_test = 'E. Parish Alvars'
+    end    
+        
+    if ['Giovanni Pacini', 'Giovanni Paccini'].include?(string_to_test)
+      string_to_test = 'Giovanni Pacini'
+    end    
+            
+    if ['Joseph', 'Méry'].include?(string_to_test)
+      string_to_test = 'Joseph'
+    end    
+                
+    if ['Léopold de Meyer', 'Leopold De Meyer', 'Leopold De Meyer'].include?(string_to_test)
+      string_to_test = 'Léopold de Meyer'
+    end    
+    
+                
+    if ['Josef Lanner', 'Joseph Lanner'].include?(string_to_test)
+      string_to_test = 'Josef Lanner'
+    end    
+    
+                
+    if ['Franz Hünten', 'François Hunten', 'François Hünten'].include?(string_to_test)
+      string_to_test = 'Franz Hünten'
+    end          
+             
+    if ['Edward Wolff', 'Edouard Wolff'].include?(string_to_test)
+      string_to_test = 'Edward Wolff'
+    end    
+    
+    if ['Charles Philippe Lafont', 'Charles-Philippe Lafont'].include?(string_to_test)
+      string_to_test = 'Charles-Philippe Lafont'
+    end   
+
+    if ['George Alexander Osborne', 'George Alexander de Osborne'].include?(string_to_test)
+      string_to_test = 'George Alexander Osborne'
+    end    
+    
+    if ['Heinrich Wilhelm Ernst', 'Wilhelm Ernst'].include?(string_to_test)
+      string_to_test = 'Heinrich Wilhelm Ernst'
+    end    
+    
+    if !index.include?(string_to_test)
+      index[string_to_test] = []
     end
     
-    index[s.text.strip] << [uniq, title]
+    index[string_to_test] << [uniq, title]
     
   end
 end
@@ -272,7 +390,7 @@ doc.search('span').each do |s|
             group: []
         }
     else
-        chapter5[:group] << {name: s.text.strip, link: []}
+        chapter5[:group] << {name: s.text.strip, target: s.parent.[]('id'), link: []}
         paragraphs[paragraphkey] = []
         paragraphkey += 1
     end
@@ -326,7 +444,7 @@ doc.search('span').each do |s|
             group: []
         }
     else
-      chapter6[:group] << {name: s.text.strip, link: []}
+      chapter6[:group] << {name: s.text.strip, target: s.parent.[]('id'), link: []}
         paragraphs[paragraphkey] = []
         paragraphkey += 1
     end
