@@ -124,7 +124,7 @@ doc.search('span').each do |s|
             group: []
         }
     else
-        chapter5[:group] << {name: s.text.strip, link: []}
+        chapter5[:group] << {name: s.text.strip, target: s.parent.[]('id'), link: []}
         paragraphs[paragraphkey] = []
         paragraphkey += 1
     end
@@ -178,7 +178,7 @@ doc.search('span').each do |s|
             group: []
         }
     else
-      chapter6[:group] << {name: s.text.strip, link: []}
+      chapter6[:group] << {name: s.text.strip, target: s.parent.[]('id'), link: []}
         paragraphs[paragraphkey] = []
         paragraphkey += 1
     end
@@ -441,7 +441,7 @@ toc = [
         link: [
             {
                 label: "Introduzione", 
-                target: "9b3670"
+                target: "b35653"
             }
         ]
     },
