@@ -15,3 +15,6 @@ Script to generate a JSON file containing the whole index composed by ToC and Co
 
 ### Styler
 Script to generate heading class names to peculiar nodes in order to let the generated document be styled
+
+### Referer
+Script to generate referral links throughout the document
