@@ -77,4 +77,4 @@ doc.search('p').each do |node|
     end
 end
 
-File.write('./output/output-tagget-full-text-styled.html', doc);
+File.write('./output/output-tagged-full-text-styled.html', doc);

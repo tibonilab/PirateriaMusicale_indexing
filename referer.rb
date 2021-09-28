@@ -38,7 +38,7 @@ def try_matching_extracted(extracted, headers, child, doc, found, node, search)
 
         wrap(child, referer, doc)
 
-        found << { id: node[:id], string: search }
+        found << { id: node[:id], string: search, target: referer[0][:id] }
 
         return true;
     end
@@ -58,7 +58,7 @@ def try_matching(node, child, headers, found, missing, doc)
 
         wrap(child, referer, doc)
 
-        found << { id: node[:id], string: search }
+        found << { id: node[:id], string: search, target: referer[0][:id]  }
     else
         # here are managed all the peculiar matching logic
 
@@ -83,6 +83,54 @@ def try_matching(node, child, headers, found, missing, doc)
             try_matching_extracted(extracted, headers, child, doc, found, node, search)
 
         # peculiar strings to care about
+        elsif search == "Carteggio"
+            extracted = "4. Carteggio"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Cronologia"
+            extracted = "3. Cronologia"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Catalogo Bustelli-Rossi"
+            extracted = "6. Cataloghi - Catalogo delle musiche prodotte da Achille Bustelli-Rossi"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Studio generale"
+            extracted = "2. Studio generale"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Catalogo Pozzi"
+            extracted = "6. Cataloghi - Catalogo delle musiche prodotte da Carlo Pozzi"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        
+        elsif search == "Catalogo Euterpe Ticinese"
+            extracted = "6. Cataloghi - Catalogo delle musiche prodotte da Euterpe Ticinese"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Illustrazioni"
+            extracted = "10. Illustrazioni"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Depositi"
+            extracted = "5. Depositi"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Cataloghi"
+            extracted = "6. Cataloghi"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Petizioni"
+            extracted = "7. Petizioni"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Avvisi musicali"
+            extracted = "8. Avvisi musicali"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Documenti vari"
+            extracted = "9. Documenti vari"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
         elsif search == "2. Studio generale"
             extracted = "2. Studio generale"
             try_matching_extracted(extracted, headers, child, doc, found, node, search)
@@ -90,7 +138,7 @@ def try_matching(node, child, headers, found, missing, doc)
         elsif search == "2. Studio generale"
             extracted = "2. Studio generale"
             try_matching_extracted(extracted, headers, child, doc, found, node, search)
-            
+
         elsif search == '5. Depositi - Spinelli'
             extracted = "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)"
             try_matching_extracted(extracted, headers, child, doc, found, node, search)
@@ -101,6 +149,10 @@ def try_matching(node, child, headers, found, missing, doc)
 
         elsif search == '5. Depositi - Veladini'
             extracted = "5. Depositi - Francesco Veladini (1860–1866)"
+            try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif search == "Euterpe Ticinese - Catalogo"
+            extracted = "6. Cataloghi - Catalogo delle musiche prodotte da Euterpe Ticinese"
             try_matching_extracted(extracted, headers, child, doc, found, node, search)
 
         elsif search == "6. Cataloghi - Catalogo Euterpe Ticinese"
@@ -140,8 +192,9 @@ def try_matching(node, child, headers, found, missing, doc)
 
 
         else
-            puts 'NOT FOUND'
+            # puts 'NOT FOUND'
             ap search
+            ap node[:id]
             add_missing(missing, node, search)
         end
         
@@ -259,16 +312,28 @@ doc.search('p').each do |node|
 
             # try matching inside content body
             if !node[:class] && child[:style] == 'font-size:11pt;font-weight:bold' && child.text.strip.length > 3 && child.text.strip =~ /\d/
+                try_matching(node, child, headers, found, missing, doc)
+            end
 
-                 try_matching(node, child, headers, found, missing, doc)
+            if !node[:class] && child[:style] == 'font-size:11pt;font-weight:bold' && child.text.strip.length > 3
+                try_matching(node, child, headers, found, missing, doc)
+            end
 
+            # Carteggio
+            if child[:style] == 'font-size:10pt;font-weight:bold' && child.text.strip.length > 3 && child.text.strip =~ /\d/
+                try_matching(node, child, headers, found, missing, doc)
             end
 
             # try matching inside notes
-            if child[:style] == 'font-size:10pt;font-weight:bold' && child.text.strip.length > 3 && child.text.strip =~ /\d/
-
-                 try_matching(node, child, headers, found, missing, doc)
-
+            if node.parent[:class] && node.parent[:class] == 'noteBody' && child[:style] == 'font-size:10pt;font-weight:bold' && child.text.strip.length > 3
+                try_matching(node, child, headers, found, missing, doc)
+            end
+        end
+    else 
+        if node.parent[:class] && node.parent[:class] == 'noteBody'
+            # try matching inside notes --single childs
+            if node.child[:style] == 'font-size:10pt;font-weight:bold' && node.child.text.strip.length > 3
+                try_matching(node, node.child, headers, found, missing, doc)
             end
         end
     end
