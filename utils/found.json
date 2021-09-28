@@ -29,15 +29,39 @@
   },
   {
     "id": "0d5347",
+    "string": "5. Depositi - Spinelli"
+  },
+  {
+    "id": "0d5347",
     "string": "Spinelli.avvisi.1838.1"
+  },
+  {
+    "id": "0d5347",
+    "string": "5. Depositi - Spinelli"
+  },
+  {
+    "id": "0d5347",
+    "string": "Illustrazione 2"
+  },
+  {
+    "id": "850321",
+    "string": "6. Cataloghi -Catalogo Euterpe Ticinese"
   },
   {
     "id": "8d9e24",
     "string": "Carteggio.1837.2"
   },
   {
+    "id": "7f1cb6",
+    "string": "5. Depositi"
+  },
+  {
     "id": "53adb0",
     "string": "Carteggio.1850.2b"
+  },
+  {
+    "id": "53adb0",
+    "string": "Illustrazione 6"
   },
   {
     "id": "53adb0",
@@ -46,6 +70,14 @@
   {
     "id": "53adb0",
     "string": "Carteggio.1837.1"
+  },
+  {
+    "id": "53adb0",
+    "string": "5. Depositi"
+  },
+  {
+    "id": "c5c48a",
+    "string": "6. Cataloghi"
   },
   {
     "id": "e9e3de",
@@ -78,6 +110,10 @@
   {
     "id": "906f13",
     "string": "Illustrazione 13"
+  },
+  {
+    "id": "09254d",
+    "string": "6. Cataloghi"
   },
   {
     "id": "5d5eff",
@@ -190,6 +226,10 @@
   {
     "id": "83edc4",
     "string": "Carteggio.1836.6"
+  },
+  {
+    "id": "8cb221",
+    "string": "5. Depositi - Pozzi"
   },
   {
     "id": "8cb221",
@@ -364,12 +404,28 @@
     "string": "Carteggio.1850.2b"
   },
   {
+    "id": "ba0a72",
+    "string": "5. Depositi - Pozzi"
+  },
+  {
+    "id": "0c1204",
+    "string": "Carteggio.1854.1–2"
+  },
+  {
     "id": "0c1204",
     "string": "Pozzi.petizioni.1855.1"
   },
   {
     "id": "d1ea82",
     "string": "Carteggio.1852.1"
+  },
+  {
+    "id": "d1ea82",
+    "string": "Carteggio.1853.2–5"
+  },
+  {
+    "id": "a9e632",
+    "string": "Carteggio.1852.2–6"
   },
   {
     "id": "a9e632",
@@ -390,6 +446,10 @@
   {
     "id": "0ad102",
     "string": "Spinelli.petizioni.1854.3"
+  },
+  {
+    "id": "d42e09",
+    "string": "Carteggio.1853.2–5"
   },
   {
     "id": "caceae",
@@ -464,6 +524,10 @@
     "string": "Carteggio.1863.1"
   },
   {
+    "id": "474a3e",
+    "string": "5. Depositi - Veladini"
+  },
+  {
     "id": "dc46ed",
     "string": "Documenti.vari.1863.1"
   },
@@ -500,6 +564,10 @@
     "string": "Illustrazione 37"
   },
   {
+    "id": "264ca7",
+    "string": "5. Depositi - Veladini"
+  },
+  {
     "id": "bdf560",
     "string": "Carteggio.1844.1"
   },
@@ -510,6 +578,10 @@
   {
     "id": "c46955",
     "string": "Pozzi.petizioni.1842.22"
+  },
+  {
+    "id": "c46955",
+    "string": "Pozzi.petizioni.1842.1"
   },
   {
     "id": "c46955",
@@ -544,6 +616,10 @@
     "string": "Spinelli.avvisi.1851.4"
   },
   {
+    "id": "fdf2dc",
+    "string": "Documenti.vari.1841.1."
+  },
+  {
     "id": "eecacb",
     "string": "Pozzi.petizioni.1850.3"
   },
@@ -572,6 +648,10 @@
     "string": "Illustrazione 18"
   },
   {
+    "id": "ed96b5",
+    "string": "6. Cataloghi - Catalogo Euterpe Ticinese"
+  },
+  {
     "id": "07c381",
     "string": "Documenti.vari.1869.1"
   },
@@ -592,8 +672,36 @@
     "string": "Documenti.vari.1869.2"
   },
   {
+    "id": "39048e",
+    "string": "Illustrazione 19"
+  },
+  {
     "id": "3c5c00",
     "string": "Illustrazione 20"
+  },
+  {
+    "id": "4b67ad",
+    "string": "5. Depositi"
+  },
+  {
+    "id": "4b67ad",
+    "string": "6. Cataloghi"
+  },
+  {
+    "id": "4b67ad",
+    "string": "7. Petizioni"
+  },
+  {
+    "id": "4b67ad",
+    "string": "8. Avvisi musicali"
+  },
+  {
+    "id": "4b67ad",
+    "string": "9. Documenti vari"
+  },
+  {
+    "id": "4b67ad",
+    "string": "10. Illustrazioni"
   },
   {
     "id": "28fd35",
@@ -656,6 +764,10 @@
     "string": "Carteggio.1833.2"
   },
   {
+    "id": "c8976d",
+    "string": "Carteggio.1836.1"
+  },
+  {
     "id": "f50c1d",
     "string": "Documenti.vari.1833.1"
   },
@@ -668,12 +780,24 @@
     "string": "Documenti.vari.1835.1"
   },
   {
+    "id": "be5fab",
+    "string": "5. Depositi - Pozzi"
+  },
+  {
     "id": "e2eff7",
     "string": "Documenti.vari.1842.1"
   },
   {
+    "id": "550ab8",
+    "string": "7. Petizioni - Pozzi"
+  },
+  {
     "id": "611f5b",
     "string": "Carteggio.1836.5"
+  },
+  {
+    "id": "0e5b0f",
+    "string": "7. Petizioni - Pozzi"
   },
   {
     "id": "792997",
@@ -708,6 +832,14 @@
     "string": "Documenti.vari.1868.1"
   },
   {
+    "id": "a6111d",
+    "string": "5. Depositi - Pozzi"
+  },
+  {
+    "id": "b2a02a",
+    "string": "Illustrazione 6"
+  },
+  {
     "id": "b2a02a",
     "string": "Pozzi.avvisi.1841.1"
   },
@@ -718,6 +850,18 @@
   {
     "id": "0234ac",
     "string": "Documenti.vari.1841.1"
+  },
+  {
+    "id": "0075a7",
+    "string": "Pozzi.petizioni.1842.1"
+  },
+  {
+    "id": "f6d446",
+    "string": "Pozzi.petizioni.1842.1"
+  },
+  {
+    "id": "e6cf54",
+    "string": "Illustrazione 6"
   },
   {
     "id": "e6cf54",
@@ -792,8 +936,20 @@
     "string": "Carteggio.1844.4"
   },
   {
+    "id": "ffad1d",
+    "string": "5. Depositi - Pozzi"
+  },
+  {
+    "id": "8007d6",
+    "string": "Carteggio.1852.2–6"
+  },
+  {
     "id": "2ddb25",
     "string": "Carteggio.1849.4"
+  },
+  {
+    "id": "57f70d",
+    "string": "Carteggio.1850.2a-b"
   },
   {
     "id": "1e24cb",
@@ -852,6 +1008,10 @@
     "string": "Pozzi.petizioni.1850.8"
   },
   {
+    "id": "7713ae",
+    "string": "Illustrazione 25"
+  },
+  {
     "id": "7ea836",
     "string": "Pozzi.petizioni.1850.8"
   },
@@ -874,6 +1034,10 @@
   {
     "id": "d457c5",
     "string": "Carteggio.1852.5"
+  },
+  {
+    "id": "9f33c7",
+    "string": "Carteggio.1849.1; Carteggio.1849.3"
   },
   {
     "id": "5a59bd",
@@ -920,6 +1084,10 @@
     "string": "Carteggio.1835.2"
   },
   {
+    "id": "eb96e8",
+    "string": "5. Depositi - Pozzi"
+  },
+  {
     "id": "a1da21",
     "string": "Carteggio.1855.4"
   },
@@ -964,6 +1132,10 @@
     "string": "Illustrazione 22"
   },
   {
+    "id": "d474c2",
+    "string": "Carteggio.1836.2–6"
+  },
+  {
     "id": "fe9d69",
     "string": "Pozzi.petizioni.1842.14"
   },
@@ -973,7 +1145,15 @@
   },
   {
     "id": "77ca88",
+    "string": "5. Depositi - Pozzi"
+  },
+  {
+    "id": "77ca88",
     "string": "Carteggio.1843.3"
+  },
+  {
+    "id": "b4b2f5",
+    "string": "Carteggio.1848.2 "
   },
   {
     "id": "b4b2f5",
@@ -989,7 +1169,15 @@
   },
   {
     "id": "399160",
+    "string": "Carteggio.1844.2."
+  },
+  {
+    "id": "399160",
     "string": "Pozzi.petizioni.1850.3"
+  },
+  {
+    "id": "54ccb4",
+    "string": "Carteggio.1836.1"
   },
   {
     "id": "32757d",
@@ -1004,6 +1192,10 @@
     "string": "Carteggio.1843.3"
   },
   {
+    "id": "6f4ae8",
+    "string": "7. Petizioni - Pozzi"
+  },
+  {
     "id": "9bff76",
     "string": "Illustrazione 6"
   },
@@ -1016,8 +1208,24 @@
     "string": "Illustrazione 26"
   },
   {
+    "id": "ae7602",
+    "string": "8. Avvisi musicali - Pozzi"
+  },
+  {
+    "id": "449c15",
+    "string": "7. Petizioni - Spinelli (Euterpe Ticinese)"
+  },
+  {
+    "id": "4b00c7",
+    "string": "7. Petizioni - Bustelli-Rossi"
+  },
+  {
     "id": "ae53b1",
     "string": "Illustrazione 8"
+  },
+  {
+    "id": "4527ce",
+    "string": "8. Avvisi musicali - Bustelli-Rossi"
   },
   {
     "id": "c6799a",
@@ -1050,6 +1258,10 @@
   {
     "id": "288ef4",
     "string": "Illustrazione 23"
+  },
+  {
+    "id": "3fd1b1",
+    "string": "Pozzi.petizioni.1842.1"
   },
   {
     "id": "12e560",
@@ -1088,6 +1300,10 @@
     "string": "Pozzi.petizioni.1844.5"
   },
   {
+    "id": "b53ee7",
+    "string": "3. Cronologia - luglio 1863"
+  },
+  {
     "id": "75c5db",
     "string": "Carteggio.1837.1"
   },
@@ -1098,6 +1314,14 @@
   {
     "id": "7effeb",
     "string": "Illustrazione 25a-c"
+  },
+  {
+    "id": "b08c6a",
+    "string": "6. Cataloghi - Catalogo Euterpe Ticinese"
+  },
+  {
+    "id": "155aa7",
+    "string": "Illustrazione 3"
   },
   {
     "id": "a0f52f",
@@ -1162,6 +1386,10 @@
   {
     "id": "a167d1",
     "string": "Spinelli.petizioni.1851.13"
+  },
+  {
+    "id": "d65239",
+    "string": "6. Cataloghi - Catalogo Euterpe Ticinese"
   },
   {
     "id": "6e78a6",
@@ -1249,11 +1477,23 @@
   },
   {
     "id": "dd5ca4",
+    "string": "2. Studio generale"
+  },
+  {
+    "id": "dd5ca4",
     "string": "Figura 6"
+  },
+  {
+    "id": "3e7fa9",
+    "string": "Illustrazione 19"
   },
   {
     "id": "02862d",
     "string": "Documenti.vari.1869.2"
+  },
+  {
+    "id": "68cb17",
+    "string": "Illustrazione 18."
   },
   {
     "id": "7838b7",
@@ -1349,7 +1589,15 @@
   },
   {
     "id": "86526d",
+    "string": "8. Avvisi musicali - Pozzi"
+  },
+  {
+    "id": "86526d",
     "string": "Illustrazione 5"
+  },
+  {
+    "id": "1c03e8",
+    "string": "5. Depositi"
   },
   {
     "id": "0e9899",
@@ -1357,7 +1605,19 @@
   },
   {
     "id": "bab526",
+    "string": "8. Avvisi musicali - Spinelli"
+  },
+  {
+    "id": "bab526",
+    "string": "2. Studio generale"
+  },
+  {
+    "id": "bab526",
     "string": "Figura 3"
+  },
+  {
+    "id": "9e677a",
+    "string": "5. Depositi"
   },
   {
     "id": "f02a9f",
@@ -1401,7 +1661,15 @@
   },
   {
     "id": "bbd462",
+    "string": "8. Avvisi musicali - Bustelli-Rossi"
+  },
+  {
+    "id": "bbd462",
     "string": "Illustrazione 7"
+  },
+  {
+    "id": "52a47f",
+    "string": "5. Depositi"
   },
   {
     "id": "a62a85",
@@ -1458,6 +1726,10 @@
   {
     "id": "48b48b",
     "string": "Spinelli.petizioni.1853.1"
+  },
+  {
+    "id": "65064c",
+    "string": "Pozzi.petizioni.1842.1"
   },
   {
     "id": "924f8b",

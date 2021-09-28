@@ -1,5 +1,9 @@
 [
   {
+    "id": "b35653",
+    "string": "1. Introduzione"
+  },
+  {
     "id": "ef99cd",
     "string": "1 settembre 1833"
   },
@@ -36,6 +40,10 @@
     "string": "1 settembre 1852"
   },
   {
+    "id": "9fc7b2",
+    "string": "2. Studio generale"
+  },
+  {
     "id": "d5f1ba",
     "string": "2 ottobre 1842"
   },
@@ -70,6 +78,10 @@
   {
     "id": "a5c7e8",
     "string": "2 febbraio 1853"
+  },
+  {
+    "id": "c34f23",
+    "string": "3. Cronologia"
   },
   {
     "id": "7da431",
@@ -112,6 +124,10 @@
     "string": "4 giugno 1836"
   },
   {
+    "id": "991d0d",
+    "string": "4. Carteggio"
+  },
+  {
     "id": "4e1bcb",
     "string": "4 novembre 1844"
   },
@@ -124,12 +140,40 @@
     "string": "4 gennaio 1853"
   },
   {
+    "id": "428f1b",
+    "string": "5. Depositi"
+  },
+  {
+    "id": "93038d",
+    "string": "5. Depositi - Carlo Pozzi (1836–1855)"
+  },
+  {
     "id": "a4ffbe",
     "string": "5 agosto 1842"
   },
   {
     "id": "b7c338",
     "string": "5 aprile 1845"
+  },
+  {
+    "id": "449caa",
+    "string": "5. Depositi - Carlo Pozzi (1836–1855)"
+  },
+  {
+    "id": "a49a27",
+    "string": "5. Depositi - Carlo Pozzi (1836–1855)"
+  },
+  {
+    "id": "1e7e90",
+    "string": "5. Depositi - Carlo Pozzi (1836–1855)"
+  },
+  {
+    "id": "b52c62",
+    "string": "5. Depositi - Carlo Pozzi (1836–1855)"
+  },
+  {
+    "id": "5cf6fe",
+    "string": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)"
   },
   {
     "id": "288239",
@@ -144,8 +188,48 @@
     "string": "5 giugno 1851"
   },
   {
+    "id": "177b2a",
+    "string": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)"
+  },
+  {
+    "id": "e80ba5",
+    "string": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)"
+  },
+  {
+    "id": "7677a5",
+    "string": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)"
+  },
+  {
+    "id": "7bf1f3",
+    "string": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)"
+  },
+  {
+    "id": "7b652a",
+    "string": "5. Depositi - Achille Bustelli-Rossi (1857–1867)"
+  },
+  {
     "id": "cf9756",
     "string": "5 luglio 1862"
+  },
+  {
+    "id": "63e072",
+    "string": "5. Depositi - Achille Bustelli-Rossi (1857–1867)"
+  },
+  {
+    "id": "18eaba",
+    "string": "5. Depositi - Achille Bustelli-Rossi (1857–1867)"
+  },
+  {
+    "id": "84d19f",
+    "string": "5. Depositi - Achille Bustelli-Rossi (1857–1867)"
+  },
+  {
+    "id": "6c991f",
+    "string": "5. Depositi - Achille Bustelli-Rossi (1857–1867)"
+  },
+  {
+    "id": "972679",
+    "string": "5. Depositi - Francesco Veladini (1860–1866)"
   },
   {
     "id": "9413da",
@@ -188,6 +272,22 @@
     "string": "6 dicembre 1862"
   },
   {
+    "id": "6e62ef",
+    "string": "6. Cataloghi"
+  },
+  {
+    "id": "a2e5dd",
+    "string": "6. Cataloghi - Catalogo delle musiche prodotte da Carlo Pozzi"
+  },
+  {
+    "id": "1fabf6",
+    "string": "6. Cataloghi - Catalogo delle musiche prodotte da Euterpe Ticinese"
+  },
+  {
+    "id": "ecd6d3",
+    "string": "6. Cataloghi - Catalogo delle musiche prodotte da Achille Bustelli-Rossi"
+  },
+  {
     "id": "847c1e",
     "string": "7 agosto 1842"
   },
@@ -206,6 +306,22 @@
   {
     "id": "a9e651",
     "string": "7 marzo 1850"
+  },
+  {
+    "id": "07ea06",
+    "string": "7. Petizioni"
+  },
+  {
+    "id": "beae90",
+    "string": "7. Petizioni - Pozzi (1839–1855)"
+  },
+  {
+    "id": "99ca03",
+    "string": "7. Petizioni - Spinelli / Euterpe Ticinese (1840–1854)"
+  },
+  {
+    "id": "29f6ef",
+    "string": "7. Petizioni - Bustelli-Rossi (1859–1867)"
   },
   {
     "id": "d75411",
@@ -230,6 +346,22 @@
   {
     "id": "a5110d",
     "string": "8 agosto 1847"
+  },
+  {
+    "id": "9163e2",
+    "string": "8. Avvisi musicali"
+  },
+  {
+    "id": "5f8104",
+    "string": "8. Avvisi musicali pubblicati da Carlo Pozzi"
+  },
+  {
+    "id": "9e9ec2",
+    "string": "8. Avvisi musicali pubblicati da Gioachino Spinelli (Euterpe Ticinese)"
+  },
+  {
+    "id": "9ef0f1",
+    "string": "8. Avvisi musicali pubblicati da Achille Bustelli-Rossi"
   },
   {
     "id": "d04bc5",
@@ -268,6 +400,10 @@
     "string": "9 maggio 1852"
   },
   {
+    "id": "8dde1e",
+    "string": "9. Documenti vari"
+  },
+  {
     "id": "1b5e16",
     "string": "10 febbraio 1845"
   },
@@ -284,6 +420,10 @@
     "string": "10 luglio 1867"
   },
   {
+    "id": "e7a2c9",
+    "string": "10. Illustrazioni"
+  },
+  {
     "id": "a78de1",
     "string": "11 ottobre 1843"
   },
@@ -294,6 +434,10 @@
   {
     "id": "ef67bc",
     "string": "11 giugno 1852"
+  },
+  {
+    "id": "cbf0fd",
+    "string": "11. Abbreviazioni  -  Bibliografia"
   },
   {
     "id": "1f1079",
@@ -945,7 +1089,7 @@
   },
   {
     "id": "e008a6",
-    "string": "* [tra novembre e 31 dicembre]\n                  1836"
+    "string": "* [tra novembre e 31 dicembre] 1836"
   },
   {
     "id": "c47d2f",
@@ -1189,7 +1333,7 @@
   },
   {
     "id": "06cb6b",
-    "string": "* [tra 13 febbraio e 12 maggio\n                  1841]"
+    "string": "* [tra 13 febbraio e 12 maggio 1841]"
   },
   {
     "id": "15ec02",
@@ -1217,7 +1361,7 @@
   },
   {
     "id": "2b829e",
-    "string": "* [tra 14 aprile e 31 agosto\n                  1851"
+    "string": "* [tra 14 aprile e 31 agosto 1851"
   },
   {
     "id": "f4f4a3",
@@ -1257,7 +1401,7 @@
   },
   {
     "id": "01ded7",
-    "string": "* [senza lastra di deposito],\n                  1857"
+    "string": "* [senza lastra di deposito], 1857"
   },
   {
     "id": "a95c43",
