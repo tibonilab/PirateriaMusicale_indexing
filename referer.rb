@@ -113,7 +113,7 @@ def try_matching(node, child, headers, found, missing, doc)
             extracted = "10. Illustrazioni"
             matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
 
-        elsif !matched &&  (search == "Depositi" || search == "5. Depositi " || search == "5. Depositi ")
+        elsif !matched &&  (search == "Depositi" || search == "5. Depositi " || search == "5. Depositi " || search == "5. Depositi")
             extracted = "5. Depositi"
             matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
 
