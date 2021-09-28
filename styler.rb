@@ -60,7 +60,11 @@ doc.search('p').each do |node|
     if node.child[:style] == 'font-size:11pt;font-weight:bold'
         node[:class] = 'heading6'
 
-        ap node.child
+        if (node.child.text.strip.include?('4 settembre 1846'))
+            ap node.child
+        end
+
+        # ap node.child
     end
 
 
@@ -74,6 +78,16 @@ doc.search('p').each do |node|
         node[:class] = 'heading5'
 
         ap node.child
+    end
+
+    node.children.each do |child|
+        if node.child.text.include?('*')
+            if child[:style] == 'font-size:11pt;font-weight:bold'
+                node[:class] = 'heading6'
+        
+                ap child.text
+            end
+        end
     end
 end
 
