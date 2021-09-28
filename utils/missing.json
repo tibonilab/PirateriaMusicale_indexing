@@ -1,207 +1,422 @@
 [
   {
-    "id": "9d3943",
+    "id": "fa01ca",
     "string": "Illustrazione 4a-b",
-    "url": "http://pirateriamusicale.rism.digital/book#9d3943"
+    "url": "http://pirateriamusicale.rism.digital/book#fa01ca"
   },
   {
-    "id": "612fba",
+    "id": "fa01ca",
+    "string": "Illustrazione 4a-b",
+    "url": "http://pirateriamusicale.rism.digital/book#fa01ca"
+  },
+  {
+    "id": "ba6b3e",
     "string": "Figura 1a-c",
-    "url": "http://pirateriamusicale.rism.digital/book#612fba"
+    "url": "http://pirateriamusicale.rism.digital/book#ba6b3e"
   },
   {
-    "id": "1ab85f",
+    "id": "ba6b3e",
+    "string": "Figura 1a-c",
+    "url": "http://pirateriamusicale.rism.digital/book#ba6b3e"
+  },
+  {
+    "id": "c97107",
     "string": "Figura 3, 4, 5",
-    "url": "http://pirateriamusicale.rism.digital/book#1ab85f"
+    "url": "http://pirateriamusicale.rism.digital/book#c97107"
   },
   {
-    "id": "4eb8c1",
+    "id": "c97107",
+    "string": "Figura 3, 4, 5",
+    "url": "http://pirateriamusicale.rism.digital/book#c97107"
+  },
+  {
+    "id": "ffcdfc",
     "string": "Illustrazione 11",
-    "url": "http://pirateriamusicale.rism.digital/book#4eb8c1"
+    "url": "http://pirateriamusicale.rism.digital/book#ffcdfc"
   },
   {
-    "id": "6abc76",
+    "id": "ffcdfc",
+    "string": "Illustrazione 11",
+    "url": "http://pirateriamusicale.rism.digital/book#ffcdfc"
+  },
+  {
+    "id": "8817b5",
     "string": "Figura 10 e 11",
-    "url": "http://pirateriamusicale.rism.digital/book#6abc76"
+    "url": "http://pirateriamusicale.rism.digital/book#8817b5"
   },
   {
-    "id": "b5e1f9",
+    "id": "8817b5",
+    "string": "Figura 10 e 11",
+    "url": "http://pirateriamusicale.rism.digital/book#8817b5"
+  },
+  {
+    "id": "6338ce",
     "string": "Illustrazione 25e",
-    "url": "http://pirateriamusicale.rism.digital/book#b5e1f9"
+    "url": "http://pirateriamusicale.rism.digital/book#6338ce"
   },
   {
-    "id": "391f25",
+    "id": "0d25b7",
+    "string": "Henri Herz",
+    "url": "http://pirateriamusicale.rism.digital/book#0d25b7"
+  },
+  {
+    "id": "e7d67c",
     "string": "[agosto-settembre] 1855",
-    "url": "http://pirateriamusicale.rism.digital/book#391f25"
+    "url": "http://pirateriamusicale.rism.digital/book#e7d67c"
   },
   {
-    "id": "4ad458",
+    "id": "e7d67c",
+    "string": "[agosto-settembre] 1855",
+    "url": "http://pirateriamusicale.rism.digital/book#e7d67c"
+  },
+  {
+    "id": "bac93a",
+    "string": "MENDRISIO",
+    "url": "http://pirateriamusicale.rism.digital/book#bac93a"
+  },
+  {
+    "id": "bac93a",
+    "string": "CARLO POZZI",
+    "url": "http://pirateriamusicale.rism.digital/book#bac93a"
+  },
+  {
+    "id": "7265ad",
     "string": "Pozzi.petizioni.85",
-    "url": "http://pirateriamusicale.rism.digital/book#4ad458"
+    "url": "http://pirateriamusicale.rism.digital/book#7265ad"
   },
   {
-    "id": "ef6f81",
+    "id": "7265ad",
+    "string": "Pozzi.petizioni.85",
+    "url": "http://pirateriamusicale.rism.digital/book#7265ad"
+  },
+  {
+    "id": "9cfbae",
     "string": "Pozzi.petizioni.88",
-    "url": "http://pirateriamusicale.rism.digital/book#ef6f81"
+    "url": "http://pirateriamusicale.rism.digital/book#9cfbae"
   },
   {
-    "id": "0fd365",
+    "id": "9cfbae",
+    "string": "Pozzi.petizioni.88",
+    "url": "http://pirateriamusicale.rism.digital/book#9cfbae"
+  },
+  {
+    "id": "e79566",
     "string": "Pozzi.petizioni.85",
-    "url": "http://pirateriamusicale.rism.digital/book#0fd365"
+    "url": "http://pirateriamusicale.rism.digital/book#e79566"
   },
   {
-    "id": "50bcbb",
+    "id": "e79566",
     "string": "Pozzi.petizioni.85",
-    "url": "http://pirateriamusicale.rism.digital/book#50bcbb"
+    "url": "http://pirateriamusicale.rism.digital/book#e79566"
   },
   {
-    "id": "de4a37",
+    "id": "38f7bf",
+    "string": "Pozzi.petizioni.85",
+    "url": "http://pirateriamusicale.rism.digital/book#38f7bf"
+  },
+  {
+    "id": "38f7bf",
+    "string": "Pozzi.petizioni.85",
+    "url": "http://pirateriamusicale.rism.digital/book#38f7bf"
+  },
+  {
+    "id": "8cb8fa",
     "string": "Pozzi.petizioni.76",
-    "url": "http://pirateriamusicale.rism.digital/book#de4a37"
+    "url": "http://pirateriamusicale.rism.digital/book#8cb8fa"
   },
   {
-    "id": "63e99b",
+    "id": "8cb8fa",
+    "string": "Pozzi.petizioni.76",
+    "url": "http://pirateriamusicale.rism.digital/book#8cb8fa"
+  },
+  {
+    "id": "4ec90a",
     "string": "Pozzi.petizioni.72",
-    "url": "http://pirateriamusicale.rism.digital/book#63e99b"
+    "url": "http://pirateriamusicale.rism.digital/book#4ec90a"
   },
   {
-    "id": "71fb35",
+    "id": "4ec90a",
+    "string": "Pozzi.petizioni.72",
+    "url": "http://pirateriamusicale.rism.digital/book#4ec90a"
+  },
+  {
+    "id": "0bddc2",
     "string": "Pozzi.petizioni.70",
-    "url": "http://pirateriamusicale.rism.digital/book#71fb35"
+    "url": "http://pirateriamusicale.rism.digital/book#0bddc2"
   },
   {
-    "id": "9307cc",
+    "id": "0bddc2",
+    "string": "Pozzi.petizioni.70",
+    "url": "http://pirateriamusicale.rism.digital/book#0bddc2"
+  },
+  {
+    "id": "db4909",
     "string": "Pozzi.petizioni.74",
-    "url": "http://pirateriamusicale.rism.digital/book#9307cc"
+    "url": "http://pirateriamusicale.rism.digital/book#db4909"
   },
   {
-    "id": "9307cc",
-    "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#9307cc"
-  },
-  {
-    "id": "e50a8f",
+    "id": "db4909",
     "string": "Pozzi.petizioni.74",
-    "url": "http://pirateriamusicale.rism.digital/book#e50a8f"
+    "url": "http://pirateriamusicale.rism.digital/book#db4909"
   },
   {
-    "id": "e50a8f",
+    "id": "db4909",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#e50a8f"
+    "url": "http://pirateriamusicale.rism.digital/book#db4909"
   },
   {
-    "id": "6efe2c",
+    "id": "db4909",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#db4909"
+  },
+  {
+    "id": "3e0140",
+    "string": "Pozzi.petizioni.74",
+    "url": "http://pirateriamusicale.rism.digital/book#3e0140"
+  },
+  {
+    "id": "3e0140",
+    "string": "Pozzi.petizioni.74",
+    "url": "http://pirateriamusicale.rism.digital/book#3e0140"
+  },
+  {
+    "id": "3e0140",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#3e0140"
+  },
+  {
+    "id": "3e0140",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#3e0140"
+  },
+  {
+    "id": "b39e15",
     "string": "Pozzi.petizioni.73",
-    "url": "http://pirateriamusicale.rism.digital/book#6efe2c"
+    "url": "http://pirateriamusicale.rism.digital/book#b39e15"
   },
   {
-    "id": "6efe2c",
+    "id": "b39e15",
+    "string": "Pozzi.petizioni.73",
+    "url": "http://pirateriamusicale.rism.digital/book#b39e15"
+  },
+  {
+    "id": "b39e15",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#6efe2c"
+    "url": "http://pirateriamusicale.rism.digital/book#b39e15"
   },
   {
-    "id": "2f4fcd",
+    "id": "b39e15",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#b39e15"
+  },
+  {
+    "id": "bf2124",
     "string": "Pozzi.petizioni.71",
-    "url": "http://pirateriamusicale.rism.digital/book#2f4fcd"
+    "url": "http://pirateriamusicale.rism.digital/book#bf2124"
   },
   {
-    "id": "c31b55",
+    "id": "bf2124",
+    "string": "Pozzi.petizioni.71",
+    "url": "http://pirateriamusicale.rism.digital/book#bf2124"
+  },
+  {
+    "id": "771e1a",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#c31b55"
+    "url": "http://pirateriamusicale.rism.digital/book#771e1a"
   },
   {
-    "id": "e4df0e",
+    "id": "771e1a",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#e4df0e"
+    "url": "http://pirateriamusicale.rism.digital/book#771e1a"
   },
   {
-    "id": "60b62a",
+    "id": "a4ed81",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#60b62a"
+    "url": "http://pirateriamusicale.rism.digital/book#a4ed81"
   },
   {
-    "id": "b960b5",
+    "id": "a4ed81",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#b960b5"
+    "url": "http://pirateriamusicale.rism.digital/book#a4ed81"
   },
   {
-    "id": "ce409d",
+    "id": "8d11d6",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#8d11d6"
+  },
+  {
+    "id": "8d11d6",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#8d11d6"
+  },
+  {
+    "id": "9f5091",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#9f5091"
+  },
+  {
+    "id": "9f5091",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#9f5091"
+  },
+  {
+    "id": "ddcfee",
     "string": "Pozzi.petizioni.74",
-    "url": "http://pirateriamusicale.rism.digital/book#ce409d"
+    "url": "http://pirateriamusicale.rism.digital/book#ddcfee"
   },
   {
-    "id": "ce409d",
+    "id": "ddcfee",
+    "string": "Pozzi.petizioni.74",
+    "url": "http://pirateriamusicale.rism.digital/book#ddcfee"
+  },
+  {
+    "id": "ddcfee",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#ce409d"
+    "url": "http://pirateriamusicale.rism.digital/book#ddcfee"
   },
   {
-    "id": "a4aa39",
+    "id": "ddcfee",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#ddcfee"
+  },
+  {
+    "id": "f1f886",
     "string": "Pozzi.petizioni.73",
-    "url": "http://pirateriamusicale.rism.digital/book#a4aa39"
+    "url": "http://pirateriamusicale.rism.digital/book#f1f886"
   },
   {
-    "id": "a4aa39",
+    "id": "f1f886",
+    "string": "Pozzi.petizioni.73",
+    "url": "http://pirateriamusicale.rism.digital/book#f1f886"
+  },
+  {
+    "id": "f1f886",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#a4aa39"
+    "url": "http://pirateriamusicale.rism.digital/book#f1f886"
   },
   {
-    "id": "3d15f1",
+    "id": "f1f886",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#f1f886"
+  },
+  {
+    "id": "2f3922",
     "string": "Pozzi.petizioni.74",
-    "url": "http://pirateriamusicale.rism.digital/book#3d15f1"
+    "url": "http://pirateriamusicale.rism.digital/book#2f3922"
   },
   {
-    "id": "3d15f1",
+    "id": "2f3922",
+    "string": "Pozzi.petizioni.74",
+    "url": "http://pirateriamusicale.rism.digital/book#2f3922"
+  },
+  {
+    "id": "2f3922",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#3d15f1"
+    "url": "http://pirateriamusicale.rism.digital/book#2f3922"
   },
   {
-    "id": "dfc645",
+    "id": "2f3922",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#dfc645"
+    "url": "http://pirateriamusicale.rism.digital/book#2f3922"
   },
   {
-    "id": "dfc645",
+    "id": "117d83",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#117d83"
+  },
+  {
+    "id": "117d83",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#117d83"
+  },
+  {
+    "id": "117d83",
     "string": "Pozzi.petizioni.76",
-    "url": "http://pirateriamusicale.rism.digital/book#dfc645"
+    "url": "http://pirateriamusicale.rism.digital/book#117d83"
   },
   {
-    "id": "b5a5e1",
+    "id": "117d83",
+    "string": "Pozzi.petizioni.76",
+    "url": "http://pirateriamusicale.rism.digital/book#117d83"
+  },
+  {
+    "id": "63f318",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#b5a5e1"
+    "url": "http://pirateriamusicale.rism.digital/book#63f318"
   },
   {
-    "id": "4b9f98",
+    "id": "63f318",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#4b9f98"
+    "url": "http://pirateriamusicale.rism.digital/book#63f318"
   },
   {
-    "id": "29c922",
+    "id": "b06fde",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#29c922"
+    "url": "http://pirateriamusicale.rism.digital/book#b06fde"
   },
   {
-    "id": "ad9f98",
+    "id": "b06fde",
     "string": "Pozzi.petizioni.75",
-    "url": "http://pirateriamusicale.rism.digital/book#ad9f98"
+    "url": "http://pirateriamusicale.rism.digital/book#b06fde"
   },
   {
-    "id": "2a139b",
+    "id": "272d22",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#272d22"
+  },
+  {
+    "id": "272d22",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#272d22"
+  },
+  {
+    "id": "0df4b4",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#0df4b4"
+  },
+  {
+    "id": "0df4b4",
+    "string": "Pozzi.petizioni.75",
+    "url": "http://pirateriamusicale.rism.digital/book#0df4b4"
+  },
+  {
+    "id": "fcdc73",
     "string": "Pozzi.petizioni.70",
-    "url": "http://pirateriamusicale.rism.digital/book#2a139b"
+    "url": "http://pirateriamusicale.rism.digital/book#fcdc73"
   },
   {
-    "id": "7c92bd",
+    "id": "fcdc73",
+    "string": "Pozzi.petizioni.70",
+    "url": "http://pirateriamusicale.rism.digital/book#fcdc73"
+  },
+  {
+    "id": "2e58d6",
     "string": "Pozzi.petizioni.13",
-    "url": "http://pirateriamusicale.rism.digital/book#7c92bd"
+    "url": "http://pirateriamusicale.rism.digital/book#2e58d6"
   },
   {
-    "id": "ded810",
+    "id": "2e58d6",
+    "string": "Pozzi.petizioni.13",
+    "url": "http://pirateriamusicale.rism.digital/book#2e58d6"
+  },
+  {
+    "id": "bcc73d",
     "string": "Pozzi.petizioni.15",
-    "url": "http://pirateriamusicale.rism.digital/book#ded810"
+    "url": "http://pirateriamusicale.rism.digital/book#bcc73d"
   },
   {
-    "id": "4b35de",
+    "id": "bcc73d",
+    "string": "Pozzi.petizioni.15",
+    "url": "http://pirateriamusicale.rism.digital/book#bcc73d"
+  },
+  {
+    "id": "9a09f9",
     "string": "Pozzi.petizioni.23",
-    "url": "http://pirateriamusicale.rism.digital/book#4b35de"
+    "url": "http://pirateriamusicale.rism.digital/book#9a09f9"
+  },
+  {
+    "id": "9a09f9",
+    "string": "Pozzi.petizioni.23",
+    "url": "http://pirateriamusicale.rism.digital/book#9a09f9"
   }
 ]
