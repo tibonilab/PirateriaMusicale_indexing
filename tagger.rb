@@ -29,7 +29,7 @@ for i in 0..11
         replace = "0" + replace
       end
 
-      img[:src] = img[:src].gsub("media/", "((REPLACE_WITH_MEDIA_ENDPOINT))/chapter-#{replace}-")
+      img[:src] = img[:src].gsub("media/", "((REPLACE_WITH_MEDIA_ENDPOINT))/chapter-#{replace}-").gsub('.png', '.jpg').gsub('.jpeg', '.jpg')
 
     else
       # remove not valid img nodes
