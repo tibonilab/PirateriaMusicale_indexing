@@ -1,80 +1,5 @@
 [
   {
-    "id": "95abc8",
-    "string": "Illustrazione 4a-b",
-    "url": "http://pirateriamusicale.rism.digital/book#95abc8"
-  },
-  {
-    "id": "95abc8",
-    "string": "Illustrazione 4a-b",
-    "url": "http://pirateriamusicale.rism.digital/book#95abc8"
-  },
-  {
-    "id": "7459af",
-    "string": "Figura 1a-c",
-    "url": "http://pirateriamusicale.rism.digital/book#7459af"
-  },
-  {
-    "id": "7459af",
-    "string": "Figura 1a-c",
-    "url": "http://pirateriamusicale.rism.digital/book#7459af"
-  },
-  {
-    "id": "075e8d",
-    "string": "Figura 3, 4, 5",
-    "url": "http://pirateriamusicale.rism.digital/book#075e8d"
-  },
-  {
-    "id": "075e8d",
-    "string": "Figura 3, 4, 5",
-    "url": "http://pirateriamusicale.rism.digital/book#075e8d"
-  },
-  {
-    "id": "f56647",
-    "string": "Illustrazione 11",
-    "url": "http://pirateriamusicale.rism.digital/book#f56647"
-  },
-  {
-    "id": "f56647",
-    "string": "Illustrazione 11",
-    "url": "http://pirateriamusicale.rism.digital/book#f56647"
-  },
-  {
-    "id": "d9ca4c",
-    "string": "Figura 10 e 11",
-    "url": "http://pirateriamusicale.rism.digital/book#d9ca4c"
-  },
-  {
-    "id": "d9ca4c",
-    "string": "Figura 10 e 11",
-    "url": "http://pirateriamusicale.rism.digital/book#d9ca4c"
-  },
-  {
-    "id": "2c7d46",
-    "string": "Pozzi.avvisi.1837.1–4",
-    "url": "http://pirateriamusicale.rism.digital/book#2c7d46"
-  },
-  {
-    "id": "4142c7",
-    "string": "Illustrazione 25e",
-    "url": "http://pirateriamusicale.rism.digital/book#4142c7"
-  },
-  {
-    "id": "41dc4a",
-    "string": "Henri Herz",
-    "url": "http://pirateriamusicale.rism.digital/book#41dc4a"
-  },
-  {
-    "id": "8d2238",
-    "string": "MENDRISIO",
-    "url": "http://pirateriamusicale.rism.digital/book#8d2238"
-  },
-  {
-    "id": "8d2238",
-    "string": "CARLO POZZI",
-    "url": "http://pirateriamusicale.rism.digital/book#8d2238"
-  },
-  {
     "id": "0751c9",
     "string": "Pozzi.petizioni.85",
     "url": "http://pirateriamusicale.rism.digital/book#0751c9"
@@ -423,10 +348,5 @@
     "id": "04eefd",
     "string": "Pozzi.petizioni.23",
     "url": "http://pirateriamusicale.rism.digital/book#04eefd"
-  },
-  {
-    "id": "76487d",
-    "string": "19294",
-    "url": "http://pirateriamusicale.rism.digital/book#76487d"
   }
 ]
