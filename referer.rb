@@ -42,10 +42,8 @@ def try_matching_extracted(extracted, headers, child, doc, found, node, search)
 
         return true;
     else
-        if extracted[-1] == '.' || extracted[-1] == ' ' || extracted[-1] == ' '
-            puts 'TRAILING FOUND'
-            ap extracted
-            extracted = extracted[0...-1]
+        if extracted.include?('Figura') || extracted.include?('Illustrazione')
+            extracted = extracted.gsub(' ', ' ')
             return try_matching_extracted(extracted, headers, child, doc, found, node, search)
         end
     end
@@ -74,17 +72,11 @@ def try_matching(node, child, headers, found, missing, doc)
         # here are managed all the peculiar matching logic
         matched = false;
 
-        # search for "STRING.YEAR.N[-M]" pattern
-        if !matched &&  /\w+.\d+.\d+/.match?(search)
-            extracted = search.match(/\w+.\d+.\d+/)[0].to_s;
+        # strict matching to care about
+        if !matched &&  search == "Pozzi.avvisi.1837.1–4"
+            extracted = "Pozzi.avvisi.1837.1"
             matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
 
-        # search for "STRING.STRING.YEAR.N[-M]" pattern
-        elsif !matched &&  /\w+.\w+.\d+.\d+/.match?(search)
-            extracted = search.match(/\w+.\w+.\d+.\d+/)[0].to_s;
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
-
-        # peculiar strings to care about
         elsif !matched &&  search == "Carteggio"
             extracted = "4. Carteggio"
             matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
@@ -193,15 +185,51 @@ def try_matching(node, child, headers, found, missing, doc)
             extracted = "9. Documenti vari"
             matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
 
-        # serach for trailing chars
-        elsif !matched && search[-1] == '.' || search[-1] == ' ' || search[-1] == ' '
-            extracted = search[0...-1]
+        elsif !matched &&  search == "Illustrazione 4a-b"
+            extracted = "Illustrazione 4a"
             matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
 
+        elsif !matched &&  search == "Figura 1a-c"
+            extracted = "Figura 1a"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif !matched &&  search == "Figura 3, 4, 5"
+            extracted = "Figura 3a-b"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif !matched &&  search == "Illustrazione 11"
+            extracted = "Illustrazione 10a-b"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif !matched &&  search == "Figura 10 e 11"
+            extracted = "Figura 10a"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        elsif !matched &&  search == "Illustrazione 25e"
+            extracted = "Illustrazione 25d-e"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        # the following ones are general matching logic 
+
+        # search for "STRING.YEAR.N[-M]" pattern
+        elsif !matched &&  /\w+.\d+.\d+/.match?(search)
+            extracted = search.match(/\w+.\d+.\d+/)[0].to_s;
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        # search for "STRING.STRING.YEAR.N[-M]" pattern
+        elsif !matched &&  /\w+.\w+.\d+.\d+/.match?(search)
+            extracted = search.match(/\w+.\w+.\d+.\d+/)[0].to_s;
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        end
+
+        # serach for trailing chars
+        if !matched && search[-1] == '.' || search[-1] == ' ' || search[-1] == ' '
+            extracted = search[0...-1]
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
         end
         
         # search for "1843.2" references before or after
-        if /^\d+\.\d+/.match?(search)
+        if !matched && /^\d+\.\d+/.match?(search)
 
             regexp = /\w[-a-zA-Z]+\.?\w[a-z\.]+/
             # check previous siblings
@@ -225,14 +253,48 @@ def try_matching(node, child, headers, found, missing, doc)
                 end
 
             end
+        end 
+
+        if !matched && /^\d/.match(search.strip.gsub(' ', ''))
+            regexp = /\w[a-zA-Z]+\.\w+\.\d+\./;
+
+            # search references looping previous siblings
+            previous = child.previous_sibling
+
+            if previous
+                while previous && !regexp.match?(previous.text)
+                    previous = previous.previous_sibling
+                end
+
+                if (previous) 
+                    extracted = previous.text.strip.gsub(' ', '').match(regexp)[0].to_s + child.text.strip.gsub(' ', '')
+                    matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+                end
+            end
+        end
+
+        if !matched && /^\d/.match(search.strip.gsub(' ', ''))
+            regexp = /([a-zA-Z]+)/
+
+            previous = child.previous_sibling
+
+            if previous
+                while previous && !(previous.text.include?('Figura') || previous.text.include?('Illustrazione'))
+                    previous = previous.previous_sibling
+                end
+
+                if previous
+                    extracted = previous.text.strip.gsub(' ', '').match(regexp)[0].to_s + " " +child.text.strip.gsub(' ', '')
+                    matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+                end
+            end
         end
     
-        if !matched && !(node[:class] && node[:class].include?('heading'))
+        if !matched && !(node[:class] && node[:class].include?('heading')) && !found.any? { |m| m[:id] == node[:id]}
             # && !search.include?('Pozzi.petizioni') 
-            
-            # puts 'NOT FOUND'
+            puts 'NOT FOUND'
             ap search
-            # ap node[:id]
+            ap node[:id]
             add_missing(missing, node, search)
         end 
     end
@@ -350,26 +412,31 @@ doc.search('p').each do |node|
         node.children.each do |child|
 
             # try matching inside content body
-            if !node[:class] && child[:style] == 'font-size:11pt;font-weight:bold' && child.text.strip.length > 3 && child.text.strip =~ /\d/
+            if !node[:class] && child[:style] == 'font-size:11pt;font-weight:bold'  && child.text.strip =~ /\d/
+                # && child.text.strip.length > 3
                 try_matching(node, child, headers, found, missing, doc)
             end
 
-            if !node[:class] && child[:style] == 'font-size:11pt;font-weight:bold' && child.text.strip.length > 3
+            if !node[:class] && child[:style] == 'font-size:11pt;font-weight:bold' 
+                #&& child.text.strip.length > 3
                 try_matching(node, child, headers, found, missing, doc)
             end
 
             # Carteggio
-            if child[:style] == 'font-size:10pt;font-weight:bold' && child.text.strip.length > 3 && child.text.strip =~ /\d/
+            if child[:style] == 'font-size:10pt;font-weight:bold' && child.text.strip =~ /\d/
+                # && child.text.strip.length > 3
                 try_matching(node, child, headers, found, missing, doc)
             end
 
             # Heading Depositi
-            if child_count > 0 && node[:class] && node[:class] == 'heading6' && child[:style] == 'font-size:11pt;font-weight:bold' && child.text.strip.length > 3 && child.text.strip =~ /\d/
+            if child_count > 0 && node[:class] && node[:class] == 'heading6' && child[:style] == 'font-size:11pt;font-weight:bold' && child.text.strip =~ /\d/
+                # && child.text.strip.length > 3
                 try_matching(node, child, headers, found, missing, doc)
             end
 
             # try matching inside notes
-            if node.parent[:class] && node.parent[:class] == 'noteBody' && child[:style] == 'font-size:10pt;font-weight:bold' && child.text.strip.length > 3
+            if node.parent[:class] && node.parent[:class] == 'noteBody' && child[:style] == 'font-size:10pt;font-weight:bold' 
+                # && child.text.strip.length > 3
                 try_matching(node, child, headers, found, missing, doc)
             end
 
@@ -378,7 +445,8 @@ doc.search('p').each do |node|
     else 
         if node.parent[:class] && node.parent[:class] == 'noteBody'
             # try matching inside notes --single childs
-            if node.child[:style] == 'font-size:10pt;font-weight:bold' && node.child.text.strip.length > 3
+            if node.child[:style] == 'font-size:10pt;font-weight:bold'
+                # && node.child.text.strip.length > 3
                 try_matching(node, node.child, headers, found, missing, doc)
             end
         end
