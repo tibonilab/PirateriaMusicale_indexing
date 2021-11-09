@@ -11,8 +11,8 @@ h1 = [];
 
 doc.search('p').each do |node|
     
-    ap node
-    ap node.child
+    # ap node
+    # ap node.child
 
     if node.child[:style] == 'font-size:14pt;font-weight:bold'
 
@@ -68,7 +68,13 @@ doc.search('p').each do |node|
 
 
     if node.child[:style] == 'font-size:10pt;font-weight:bold;color:44546A'
-        node[:class] = 'heading6'
+        if node.children[1]
+            if node.children[1].inner_html != 'Federico Ricci'
+            node[:class] = 'heading6'
+            end
+        else
+            node[:class] = 'heading6'
+        end
 
         # ap node.child
     end
@@ -80,10 +86,11 @@ doc.search('p').each do |node|
     end
 
     node.children.each do |child|
-        if node.child.text.include?('*')
+        if node.child.text.start_with?('*')
+            
             if child[:style] == 'font-size:11pt;font-weight:bold'
                 node[:class] = 'heading6'
-        
+
                 # ap child.text
             end
         end
