@@ -11,6 +11,9 @@ h1 = [];
 
 doc.search('p').each do |node|
     
+    ap node
+    ap node.child
+
     if node.child[:style] == 'font-size:14pt;font-weight:bold'
 
         if !h1.any? { |s| node.child.text.strip.include?(s) }

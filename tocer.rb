@@ -387,7 +387,7 @@ doc.search('span').each do |s|
     end
   end
   
-  if s[:style] == "font-size:10pt;font-weight:bold"
+  if s[:style] == "font-size:10pt;font-weight:bold" && s.text.include?('Illustrazione')
     chapter10[:link] << {label: s.text.strip, target: s.parent.[]('id'), chapter: "10"}
   end
 
@@ -441,7 +441,7 @@ toc = [
         link: [
             {
                 label: "Introduzione", 
-                target: "616cac"
+                target: "04f014"
             }
         ]
     },
