@@ -29,7 +29,16 @@ def wrap_chapter(chapter, doc, index)
   chapter.wrap(wrapper.to_html);
 end
 
+class String
+  def is_numeric?
+      self.to_i.to_s == self
+  end
+end
 
+
+should_create_inline_row = false;
+from_index = 0
+stop_index = 0
 
 
 for i in 0..11
@@ -164,6 +173,144 @@ for i in 0..11
             e.remove
         end
 
+    end
+  end
+
+  if i == 5
+    doc.search('p').each_with_index do |e, index|
+
+      # search for heading
+      if e.child[:style] == 'font-size:10pt;font-weight:bold;text-decoration:underline;color:44546A'
+          e[:class] = 'heading7'
+      end
+  
+      # search for rows to be tranformed to inline-tab
+      if (e.children[0].text.strip.is_numeric? || e.children[0].text.gsub('[', '').gsub(']', '').strip.is_numeric?) && e.children[0][:style] == 'font-size:10pt;color:44546A'
+        number = e.children[0]
+        note = false
+
+        # check if the number has a note appended
+        if e.children[1] && e.children[1][:id]
+            note = e.children[1]
+
+            e.children[1].remove
+        end
+
+        e.children[0].remove
+
+        # generate scaffolding
+        div = Nokogiri::XML::Node.new('span', doc)
+        div[:class] = 'numeric-value'
+
+        e.children[0].add_previous_sibling(div)
+        div.add_child(number);
+
+        if note
+            div.add_child(note)
+        end 
+
+        e[:class] = 'inline-tab'
+
+      # test otherwise if there is a single <span /> to be splitted into 2 chunks 
+      # <span>NNNN</span><span>TEXT TEXT TEXT</span>
+      # OR <span>[NNNN]</span><span>TEXT TEXT TEXT</span>
+      elsif (/\d/.match(e.children[0].text[0]) || e.children[0].text[0] == '[' && /\d/.match(e.children[0].text[1])) && e.children[0][:style] == 'font-size:10pt;color:44546A'
+        splitted = e.children[0].text.split
+        style = e.children[0][:style];
+
+        # generate scaffolding
+        div = Nokogiri::XML::Node.new('span', doc)
+        div[:class] = 'numeric-value'
+
+        e.children[0].add_previous_sibling(div)
+        e.children[1].remove
+        
+        first_span = Nokogiri::XML::Node.new('span', doc)
+        first_span.inner_html = splitted[0]
+        first_span[:style] = style
+
+        splitted.delete_at(0);
+
+        second_span = Nokogiri::XML::Node.new('span', doc);
+        second_span.inner_html = splitted.join(' ');
+        second_span[:style] = style
+
+        div.add_child(first_span)
+        e.children[0].after(second_span)
+
+        e[:class] = 'inline-tab'
+
+      end
+
+      if e.children[0][:style] == 'font-size:11pt;font-weight:bold;text-decoration:underline'
+        e[:class] = 'inline-table'
+        
+        k = 1;
+        while e.children[k]
+            if e.children[k].text.include?('rid.')
+
+                e.children[k].inner_html = 'rid. per pf.'
+
+                pf = Nokogiri::XML::Node.new('span', doc);
+                solo = Nokogiri::XML::Node.new('span', doc);
+                altro = Nokogiri::XML::Node.new('span', doc);
+
+                pf.inner_html = 'pf.'
+                solo.inner_html = 'solo'
+                altro.inner_html = 'altro'
+
+                pf[:style] = e.children[k][:style]
+                solo[:style] = e.children[k][:style]
+                altro[:style] = e.children[k][:style]
+
+                e.add_child(pf)
+                e.add_child(solo)
+                e.add_child(altro)
+
+                break
+            end
+
+            if e.children[k].text.include?('profano')
+
+                splitted = e.children[k].text.strip.split
+
+                e.children[k].inner_html = splitted[0];
+
+                splitted.delete_at(0);
+
+                splitted.each do |chunk|
+                    span = Nokogiri::XML::Node.new('span', doc);
+                    span[:style] = e.children[k][:style];
+
+                    span.inner_html = chunk
+
+                    e.add_child(span)
+                end
+
+            end
+
+            k = k + 1;
+        end
+
+        should_create_inline_row = true
+        from_index = index
+
+        if e.children[0].text.strip.start_with?('totale')
+            stop_index = index + 1
+        end
+    end
+
+    if should_create_inline_row && index > from_index
+
+        if index == stop_index
+            should_create_inline_row = false
+        end
+
+        # ap e
+
+        e[:class] = 'inline-table-row';
+
+    end
     end
   end
 
