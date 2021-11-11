@@ -247,47 +247,47 @@ for i in 0..11
         
         k = 1;
         while e.children[k]
-            if e.children[k].text.include?('rid.')
+          if e.children[k].text.include?('rid.')
 
-                e.children[k].inner_html = 'rid. per pf.'
+              e.children[k].inner_html = 'rid. per pf.'
 
-                pf = Nokogiri::XML::Node.new('span', doc);
-                solo = Nokogiri::XML::Node.new('span', doc);
-                altro = Nokogiri::XML::Node.new('span', doc);
+              pf = Nokogiri::XML::Node.new('span', doc);
+              solo = Nokogiri::XML::Node.new('span', doc);
+              altro = Nokogiri::XML::Node.new('span', doc);
 
-                pf.inner_html = 'pf.'
-                solo.inner_html = 'solo'
-                altro.inner_html = 'altro'
+              pf.inner_html = 'pf.'
+              solo.inner_html = 'solo'
+              altro.inner_html = 'altro'
 
-                pf[:style] = e.children[k][:style]
-                solo[:style] = e.children[k][:style]
-                altro[:style] = e.children[k][:style]
+              pf[:style] = e.children[k][:style]
+              solo[:style] = e.children[k][:style]
+              altro[:style] = e.children[k][:style]
 
-                e.add_child(pf)
-                e.add_child(solo)
-                e.add_child(altro)
+              e.add_child(pf)
+              e.add_child(solo)
+              e.add_child(altro)
 
-                break
-            end
+              break
+          end
 
-            if e.children[k].text.include?('profano')
+          if e.children[k].text.include?('profano')
 
-                splitted = e.children[k].text.strip.split
+              splitted = e.children[k].text.strip.split
 
-                e.children[k].inner_html = splitted[0];
+              e.children[k].inner_html = splitted[0];
 
-                splitted.delete_at(0);
+              splitted.delete_at(0);
 
-                splitted.each do |chunk|
-                    span = Nokogiri::XML::Node.new('span', doc);
-                    span[:style] = e.children[k][:style];
+              splitted.each do |chunk|
+                  span = Nokogiri::XML::Node.new('span', doc);
+                  span[:style] = e.children[k][:style];
 
-                    span.inner_html = chunk
+                  span.inner_html = chunk
 
-                    e.add_child(span)
-                end
+                  e.add_child(span)
+              end
 
-            end
+          end
 
             k = k + 1;
         end
@@ -298,22 +298,164 @@ for i in 0..11
         if e.children[0].text.strip.start_with?('totale')
             stop_index = index + 1
         end
-    end
+      end
 
-    if should_create_inline_row && index > from_index
+      if should_create_inline_row && index > from_index
 
-        if index == stop_index
-            should_create_inline_row = false
-        end
+          if index == stop_index
+              should_create_inline_row = false
+          end
 
-        # ap e
+          # ap e
 
-        e[:class] = 'inline-table-row';
+          e[:class] = 'inline-table-row';
 
-    end
+      end
     end
   end
 
+
+  if i == 6 
+
+    doc.search('p').each_with_index do |e, index|
+    
+      if e.children[0][:style] == 'font-size:10pt;color:44546A' || e.children[0][:style] == 'font-size:10pt;font-style:italic;font-weight:bold;color:44546A'
+  
+        e[:class] = 'inline-columns'
+
+        # clean up the elements if ar note nodes
+        e.children.each_with_index do |element, index|
+          if !element.is_a?(Nokogiri::XML::Element)
+            element.remove
+          end
+        end
+
+        # test if we already have the numeric value wrapped into its <span> element ...
+        if e.children[0].text.gsub('°', '').strip.is_numeric?
+
+          # if it is so we just add the .numeric-value class to the <span>
+          e.children[0][:class] = 'numeric-value'
+
+          # check for related notes to keep into the .numeric-value wrapper
+          if e.children[1] && e.children[1][:id]
+              notelink = e.children[1];
+              e.children[1].remove
+              e.children[0].add_child(notelink)
+          end
+          
+        # otherwise the numeric value is not single wrapped into its <span>
+        # we are going to manage that on the following lines
+        else
+          # check how many span are there...
+          if e.children.count == 1
+            # split the text in order to check if there are numeric chunks in the first places
+            splitted = e.children[0].text.strip.gsub(' ', ' ').split;
+
+            # test for "NNN [MMM]" type of caption into second chunk
+            if splitted[1] && splitted[1][0] == '[' && splitted[1][splitted[1].length - 1] == ']'
+
+              span = Nokogiri::XML::Node.new('span', doc);
+              span[:style] = e.children[0][:style]
+              span[:class] = 'numeric-value';
+              span.inner_html = splitted[0] + ' ' + splitted[1];
+
+              splitted.delete_at(0);
+              splitted.delete_at(0);
+
+              text = Nokogiri::XML::Node.new('span', doc);
+              text[:style] = e.children[0][:style]
+              text.inner_html = splitted.join(' ')
+
+              e.add_child(span)
+              e.add_child(text)
+
+              e.children[0].remove
+            
+            # else if the first chunk is numeric we want to wrap it into a .numeric-value <span>
+            elsif splitted[0].is_numeric? || splitted[0][0] == '°'
+              span = Nokogiri::XML::Node.new('span', doc);
+              span[:style] = e.children[0][:style]
+              span[:class] = 'numeric-value';
+              span.inner_html = splitted[0];
+
+              splitted.delete_at(0);
+
+              text = Nokogiri::XML::Node.new('span', doc);
+              text[:style] = e.children[0][:style]
+              text.inner_html = splitted.join(' ')
+
+              e.add_child(span)
+              e.add_child(text)
+
+              e.children[0].remove
+            end
+
+          # manage here a collection of <span>
+          else
+
+            # search for "NNN [MMM]" type of caption
+            if e.children[0].text.strip.gsub(' ', '').gsub(' ', '').gsub('[', '').gsub(']', '').is_numeric?
+
+              # if it is so we just add the .numeric-value class to the <span>
+              e.children[0][:class] = 'numeric-value'
+
+              # check for related notes to keep into the .numeric-value wrapper
+              if e.children[1] && e.children[1][:id]
+                  notelink = e.children[1];
+                  e.children[1].remove
+                  e.children[0].add_child(notelink)
+              end
+
+            else
+
+              # split the text in order to check the content
+              splitted = e.children[0].text.strip.gsub(' ', ' ').split;
+
+              # test for "NNN [MMM]" type of caption into second chunk
+              if splitted[1] && splitted[1][0] == '[' && splitted[1][splitted[1].length - 1] == ']'
+
+                span = Nokogiri::XML::Node.new('span', doc);
+                span[:style] = e.children[0][:style]
+                span[:class] = 'numeric-value';
+                span.inner_html = splitted[0] + ' ' + splitted[1];
+
+                splitted.delete_at(0);
+                splitted.delete_at(0);
+
+                text = Nokogiri::XML::Node.new('span', doc);
+                text[:style] = e.children[0][:style]
+                text.inner_html = splitted.join(' ')
+
+                e.children[0].remove
+
+                e.children[0].add_previous_sibling(text)
+                e.children[0].add_previous_sibling(span)
+              
+              # else if the first chunk is numeric we want to wrap it into a .numeric-value <span>
+              elsif splitted[0].is_numeric? || splitted[0][0] == '°' || splitted[0].gsub('-','').is_numeric? || splitted[0].gsub('/','').is_numeric?
+                span = Nokogiri::XML::Node.new('span', doc);
+                span[:style] = e.children[0][:style]
+                span[:class] = 'numeric-value';
+                span.inner_html = splitted[0];
+
+                splitted.delete_at(0);
+
+                text = Nokogiri::XML::Node.new('span', doc);
+                text[:style] = e.children[0][:style]
+                text.inner_html = splitted.join(' ')
+                
+                e.children[0].remove
+
+                e.children[0].add_previous_sibling(text)
+                e.children[0].add_previous_sibling(span)
+
+              end
+            end
+          end
+        end
+      end
+    end
+  end
 
   # generate a tagged file for each chapter
   File.write("./output/output-tagged-#{i}.html", doc.to_html);
