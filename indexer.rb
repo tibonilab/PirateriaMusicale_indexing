@@ -247,7 +247,7 @@ composers2 = []
 index.each do |name, pages|
 
   normalized_name = name_map2[name]
-  
+
   composer = {}
   composer[:name] = normalized_name
   

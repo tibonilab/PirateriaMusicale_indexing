@@ -292,9 +292,9 @@ def try_matching(node, child, headers, found, missing, doc)
     
         if !matched && !(node[:class] && node[:class].include?('heading')) && !found.any? { |m| m[:id] == node[:id]}
             # && !search.include?('Pozzi.petizioni') 
-            puts 'NOT FOUND'
-            ap search
-            ap node[:id]
+            # puts 'NOT FOUND'
+            # ap search
+            # ap node[:id]
             add_missing(missing, node, search)
         end 
     end
