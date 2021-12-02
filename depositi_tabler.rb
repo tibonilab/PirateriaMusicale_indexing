@@ -89,19 +89,19 @@ doc.search('p').each_with_index do |e, index|
             e.children[k].inner_html = 'rid. per pf.'
 
             pf = Nokogiri::XML::Node.new('span', doc);
-            solo = Nokogiri::XML::Node.new('span', doc);
+            # solo = Nokogiri::XML::Node.new('span', doc);
             altro = Nokogiri::XML::Node.new('span', doc);
 
-            pf.inner_html = 'pf.'
-            solo.inner_html = 'solo'
+            pf.inner_html = 'pf. solo'
+            # solo.inner_html = 'solo'
             altro.inner_html = 'altro'
 
             pf[:style] = e.children[k][:style]
-            solo[:style] = e.children[k][:style]
+            # solo[:style] = e.children[k][:style]
             altro[:style] = e.children[k][:style]
 
             e.add_child(pf)
-            e.add_child(solo)
+            # e.add_child(solo)
             e.add_child(altro)
 
             break
@@ -172,18 +172,6 @@ doc.search('p').each_with_index do |e, index|
         e[:rowId] = rowId;
         e[:class] = 'table-row'
         
-        # e.search('span').each_with_index do |span, col_index|
-        #     if span[:ref_col]
-        #         col = span[:ref_col].to_i
-        #     else
-        #         col = col_index;
-        #     end
-            
-        #     value = span.text
-
-        #     tables[currentTableId][rowId] << [col, value];
-        # end
-
         rowId = rowId + 1;
     end
 
@@ -195,30 +183,14 @@ doc.search('p').each_with_index do |e, index|
 
         souldAddNextElementAsRow = true;
 
-        if e.child.text.include?('totale')
-            shouldIncrementTableId = true
-            souldAddNextElementAsRow = false;
-        end
-
-        # ap currentTableId;
-
-        # e.search('span').each_with_index do |span, col_index|
-        #     if span[:ref_col]
-        #         col = span[:ref_col]
-        #     else
-        #         col = col_index;
-        #     end
-            
-        #     value = span.text
-
-        #     tables[currentTableId][rowId] << [col, value];
-        # end
-
         rowId = rowId + 1;
 
     end
 
-
+    if e.children[0][:style] == 'font-size:10pt;font-weight:bold;color:0000FF'
+        shouldIncrementTableId = true
+        souldAddNextElementAsRow = false;
+    end
 
 end
 
@@ -253,54 +225,37 @@ doc.search('p').each_with_index do |e, index|
         col = 0
         while col < max_cols
             td = Nokogiri::XML::Node.new('td', doc);
-            
-            
+                        
             e.search('span').each_with_index do |segment, segmentId|
-                if !segment[:ref_col]
-                    if segmentId == col
-                        td.inner_html = segment.text
+                if segment[:id].nil?
+
+                    if !segment[:ref_col]
+                        if segmentId == col
+                            td.inner_html = segment.text
+
+                            if segment.next_element && segment.next_element[:id]
+                                td.inner_html = td.inner_html + segment.next_element.to_html
+                            end
+                        end
+                    else
+                        if segment[:ref_col].to_i == col + 1
+                            td.inner_html = segment.text
+
+                            if segment.next_element && segment.next_element[:id]
+                                td.inner_html = td.inner_html + segment.next_element.to_html
+                            end
+                        end
                     end
-                else
-                    if segment[:ref_col].to_i == col + 1
-                        td.inner_html = segment.text
-                    end
+
                 end
-
-                # if segment[:class]
-                #     td[:class] = segment[:class]
-                # end
             end
-            
-            # if col < 3
-            #     ap spans[col-1]
-            #     td.inner_html = spans[col - 1].text
-            # else
-                
-            #     value = '';
-
-            #     spans.each do |find|
-            #         if find[:ref_col] == col
-            #             value = find.text
-            #         end
-            #     end
-
-            #     td.inner_html = value
-
-            # end
-            
 
             tr.add_child(td)
 
             col = col + 1
         end
 
-
-        
-
         tables[e[:tableId].to_i].add_child(tr)
-
-
-        ap e[:tableId] + ' ' + e[:rowId];
 
         e.remove
     end
