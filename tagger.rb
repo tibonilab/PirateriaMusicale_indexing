@@ -574,6 +574,48 @@ for i in 0..11
     end
   end
 
+  if [7,8,9].include?(i)
+
+    doc.search('p').each_with_index do |e, index|
+
+      if e.children[0] && e.children[0][:style] == 'font-size:11pt;font-weight:bold'
+
+        elements = [];
+
+        next_el = e.next_element;
+
+        while next_el && next_el[:style] == 'text-align:right;'
+
+          elements << next_el
+
+          next_el = next_el.next_element
+        end
+
+        if elements.count > 0
+          
+          wrapper = Nokogiri::XML::Node.new('div', doc)
+          wrapper[:class] = 'small-right-caption'
+
+          elements.each do |paragraph|
+            wrapper.add_child(paragraph.to_html)
+
+            # ap paragraph
+
+            paragraph.remove
+          end
+
+          # ap wrapper
+          e.add_next_sibling(wrapper)
+
+        end
+
+
+      end
+
+    end
+    
+  end
+
   # generate a tagged file for each chapter
   File.write("./output/output-tagged-#{i}.html", doc.to_html);
 
