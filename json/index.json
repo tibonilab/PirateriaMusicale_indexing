@@ -10,7 +10,7 @@
             "link": [
               {
                 "label": "Introduzione",
-                "target": "5bd6fd"
+                "target": "b74749"
               }
             ]
           },
@@ -2375,6 +2375,16 @@
               {
                 "label": "2 novembre 1842",
                 "target": "08c4d5",
+                "chapter": "05"
+              }
+            ]
+          },
+          {
+            "name": "du Locle, Camillo (1832–1903)",
+            "link": [
+              {
+                "label": "23 aprile 1867",
+                "target": "53b4f5",
                 "chapter": "05"
               }
             ]
@@ -5603,22 +5613,27 @@
                 "chapter": "05"
               }
             ]
-          },
-          {
-            "name": "du Locle, Camillo (1832–1903)",
-            "link": [
-              {
-                "label": "23 aprile 1867",
-                "target": "53b4f5",
-                "chapter": "05"
-              }
-            ]
           }
         ]
       },
       {
         "name": "Composers6",
         "group": [
+          {
+            "name": "[senza indicazione di autore]",
+            "link": [
+              {
+                "label": "514",
+                "target": "e8ebdb",
+                "chapter": "06"
+              },
+              {
+                "label": "514140",
+                "target": "ca3901",
+                "chapter": "06"
+              }
+            ]
+          },
           {
             "name": "Adam, Adolphe Charles (1803–1856)",
             "link": [
@@ -6020,6 +6035,21 @@
               {
                 "label": "°[nnn] [2690]",
                 "target": "e51693",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
+            "name": "[N. N.] Bellinzaghi",
+            "link": [
+              {
+                "label": "°827",
+                "target": "f81723",
+                "chapter": "06"
+              },
+              {
+                "label": "°827",
+                "target": "2dfb27",
                 "chapter": "06"
               }
             ]
@@ -8925,6 +8955,21 @@
             ]
           },
           {
+            "name": "[N. N.] Lepont",
+            "link": [
+              {
+                "label": "°810",
+                "target": "2c5733",
+                "chapter": "06"
+              },
+              {
+                "label": "°810",
+                "target": "977b2a",
+                "chapter": "06"
+              }
+            ]
+          },
+          {
             "name": "Le Carpentier, Adolphe (1809–1869)",
             "link": [
               {
@@ -10370,51 +10415,6 @@
               {
                 "label": "51",
                 "target": "ee4d3a",
-                "chapter": "06"
-              }
-            ]
-          },
-          {
-            "name": "[N. N.] Bellinzaghi",
-            "link": [
-              {
-                "label": "°827",
-                "target": "f81723",
-                "chapter": "06"
-              },
-              {
-                "label": "°827",
-                "target": "2dfb27",
-                "chapter": "06"
-              }
-            ]
-          },
-          {
-            "name": "[N. N.] Lepont",
-            "link": [
-              {
-                "label": "°810",
-                "target": "2c5733",
-                "chapter": "06"
-              },
-              {
-                "label": "°810",
-                "target": "977b2a",
-                "chapter": "06"
-              }
-            ]
-          },
-          {
-            "name": "[senza indicazione di autore]",
-            "link": [
-              {
-                "label": "514",
-                "target": "e8ebdb",
-                "chapter": "06"
-              },
-              {
-                "label": "514140",
-                "target": "ca3901",
                 "chapter": "06"
               }
             ]
