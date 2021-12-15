@@ -52,18 +52,18 @@ doc.search('span').each do |s|
     chapter3 = {
         name: chapterName,
         subtitle: s.parent.next_element.children.text,
-        link: []
+        link: s.parent[:id]
     }
     
   end
 
-  # matching paragraphs
-  if s[:style] == "font-size:11pt;font-weight:bold"
-    prev = s.parent
-    if prev.children.count == 1
-        chapter3[:link] << {label: s.text, target: prev.[]('id'), chapter: "03" }
-    end
-  end
+  # # matching paragraphs
+  # if s[:style] == "font-size:11pt;font-weight:bold"
+  #   prev = s.parent
+  #   if prev.children.count == 1
+  #       chapter3[:link] << {label: s.text, target: prev.[]('id'), chapter: "03" }
+  #   end
+  # end
 
 end
 

@@ -126,7 +126,9 @@ index.each do |name, pages|
   composers << composer
 end
 
-composers = composers.sort_by { |c| c[:name] }
+# ap composers;
+
+composers = composers.sort_by { |c| c[:name].gsub('[N. N.] ', '').downcase }
 
 
 
@@ -261,7 +263,7 @@ index.each do |name, pages|
   composers2 << composer
 end
 
-composers2 = composers2.sort_by { |c| c[:name] }
+composers2 = composers2.sort_by { |c| c[:name].gsub('[N. N.] ', '').downcase }
 
 
 
