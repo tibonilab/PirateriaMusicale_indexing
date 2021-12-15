@@ -5,7 +5,7 @@
         "name": "Toc",
         "group": [
           {
-            "name": "1. Introduzione",
+            "name": "1. Introduzione",
             "subtitle": "Ambientazione tematica",
             "link": [
               {
@@ -15,7 +15,7 @@
             ]
           },
           {
-            "name": "2. Studio generale",
+            "name": "2. Studio generale",
             "subtitle": "Vicende storiche dell’editoria musicale ticinese durante il\n                  Risorgimento: un sommario\n            ",
             "link": [
               {
@@ -66,12 +66,12 @@
             ]
           },
           {
-            "name": "3. Cronologia",
+            "name": "3. Cronologia",
             "subtitle": "Sunto cronologico dei principali avvenimenti legati alla storia e allo sviluppo dell’editoria\n            musicale ticinese durante il Risorgimento e oltre (1808–1902)",
             "link": "af46d6"
           },
           {
-            "name": "4. Carteggio",
+            "name": "4. Carteggio",
             "subtitle": "Lettere di corrispondenza di vari attori legati agli eventi\n                  (1826–1863): trascrizione con commento critico",
             "link": [
               {
@@ -447,25 +447,25 @@
             ]
           },
           {
-            "name": "5. Depositi",
+            "name": "5. Depositi",
             "subtitle": "Elenco dei prodotti depositati ufficialmente presso il Consiglio di\n                  Stato ticinese\n            ",
             "group": [
               {
-                "name": "5. Depositi - Carlo Pozzi (1836–1855)",
+                "name": "5. Depositi - Carlo Pozzi (1836–1855)",
                 "target": "7537bd",
                 "link": [
                   {
-                    "label": "a) sintesi cronologica",
+                    "label": "a) sintesi cronologica",
                     "target": "1e92a3",
                     "chapter": "05"
                   },
                   {
-                    "label": "b) sintesi quantitativa e per tipologie",
+                    "label": "b) sintesi quantitativa e per tipologie",
                     "target": "c62daa",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  riassuntiva)",
+                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  riassuntiva)",
                     "target": "2887da",
                     "chapter": "05"
                   },
@@ -482,73 +482,73 @@
                 ]
               },
               {
-                "name": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)",
+                "name": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)",
                 "target": "ae8c3c",
                 "link": [
                   {
-                    "label": "a) sintesi cronologica",
+                    "label": "a) sintesi cronologica",
                     "target": "6d2d7f",
                     "chapter": "05"
                   },
                   {
-                    "label": "b) sintesi quantitativa e per tipologie",
+                    "label": "b) sintesi quantitativa e per tipologie",
                     "target": "60384d",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi quantitativa dei materiali documentati (forma ridotta)",
+                    "label": "> sintesi quantitativa dei materiali documentati (forma ridotta)",
                     "target": "91ace7",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  completa)",
+                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  completa)",
                     "target": "5c8a6d",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi dei materiali documentati per tipologie",
+                    "label": "> sintesi dei materiali documentati per tipologie",
                     "target": "fd78c8",
                     "chapter": "05"
                   }
                 ]
               },
               {
-                "name": "5. Depositi - Achille Bustelli-Rossi (1857–1867)",
+                "name": "5. Depositi - Achille Bustelli-Rossi (1857–1867)",
                 "target": "1285f6",
                 "link": [
                   {
-                    "label": "a) sintesi cronologica",
+                    "label": "a) sintesi cronologica",
                     "target": "ada4b9",
                     "chapter": "05"
                   },
                   {
-                    "label": "b) sintesi quantitativa e per tipologie",
+                    "label": "b) sintesi quantitativa e per tipologie",
                     "target": "65636d",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  riassuntiva)",
+                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  riassuntiva)",
                     "target": "10eefb",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  completa)",
+                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  completa)",
                     "target": "504bae",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi dei materiali documentati per tipologie",
+                    "label": "> sintesi dei materiali documentati per tipologie",
                     "target": "c95d59",
                     "chapter": "05"
                   }
                 ]
               },
               {
-                "name": "5. Depositi - Francesco Veladini (1860–1866)",
+                "name": "5. Depositi - Francesco Veladini (1860–1866)",
                 "target": "a34ab7",
                 "link": [
                   {
-                    "label": "> sintesi cronologica",
+                    "label": "> sintesi cronologica",
                     "target": "4d26b9",
                     "chapter": "05"
                   }
@@ -557,67 +557,67 @@
             ]
           },
           {
-            "name": "6. Cataloghi",
+            "name": "6. Cataloghi",
             "subtitle": "Elenco dei prodotti realizzati dai protagonisti dell’editoria\n                  musicale ticinese, non\n                  depositati ",
             "group": [
               {
-                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Carlo Pozzi",
+                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Carlo Pozzi",
                 "target": "4248d2",
                 "link": [
                   {
-                    "label": "a) in ordine numerico",
+                    "label": "a) in ordine numerico",
                     "target": "952661",
                     "chapter": "06"
                   },
                   {
-                    "label": "> elenco numerico",
+                    "label": "> elenco numerico",
                     "target": "16a925",
                     "chapter": "06"
                   },
                   {
-                    "label": "b) in ordine tematico",
+                    "label": "b) in ordine tematico",
                     "target": "3d3a67",
                     "chapter": "06"
                   }
                 ]
               },
               {
-                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Euterpe Ticinese",
+                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Euterpe Ticinese",
                 "target": "0953d4",
                 "link": [
                   {
-                    "label": "a) in ordine numerico",
+                    "label": "a) in ordine numerico",
                     "target": "d954d8",
                     "chapter": "06"
                   },
                   {
-                    "label": "> elenco numerico",
+                    "label": "> elenco numerico",
                     "target": "3e97c3",
                     "chapter": "06"
                   },
                   {
-                    "label": "b) in ordine tematico",
+                    "label": "b) in ordine tematico",
                     "target": "a0a3ab",
                     "chapter": "06"
                   }
                 ]
               },
               {
-                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Achille Bustelli-Rossi",
+                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Achille Bustelli-Rossi",
                 "target": "bb952a",
                 "link": [
                   {
-                    "label": "a) in ordine numerico",
+                    "label": "a) in ordine numerico",
                     "target": "1809ef",
                     "chapter": "06"
                   },
                   {
-                    "label": "> elenco numerico",
+                    "label": "> elenco numerico",
                     "target": "bdcdfc",
                     "chapter": "06"
                   },
                   {
-                    "label": "b) in ordine tematico",
+                    "label": "b) in ordine tematico",
                     "target": "d6d8f2",
                     "chapter": "06"
                   }
@@ -626,49 +626,49 @@
             ]
           },
           {
-            "name": "7. Petizioni",
-            "subtitle": "Raccolta delle petizioni presentate al Consiglio di Stato ticinese per ottenere il\n            beneficio giusta la legge 20 maggio 1835 sulla protezione della proprietà letteraria (in ordine\n            cronologico) ",
+            "name": "7. Petizioni",
+            "subtitle": "Raccolta delle petizioni presentate al Consiglio di Stato ticinese per ottenere il\n            beneficio giusta la legge 20 maggio 1835 sulla protezione della proprietà letteraria (in ordine\n            cronologico) ",
             "link": [
               {
-                "label": "7. Petizioni - Pozzi (1839–1855)",
+                "label": "7. Petizioni - Pozzi (1839–1855)",
                 "target": "341d49",
                 "chapter": "07"
               },
               {
-                "label": "7. Petizioni - Spinelli / Euterpe Ticinese (1840–1854)",
+                "label": "7. Petizioni - Spinelli / Euterpe Ticinese (1840–1854)",
                 "target": "7b4fa1",
                 "chapter": "07"
               },
               {
-                "label": "7. Petizioni - Bustelli-Rossi (1859–1867)",
+                "label": "7. Petizioni - Bustelli-Rossi (1859–1867)",
                 "target": "2fb1b4",
                 "chapter": "07"
               }
             ]
           },
           {
-            "name": "8. Avvisi musicali",
+            "name": "8. Avvisi musicali",
             "subtitle": "Raccolta degli annunci lanciati dagli editori musicali ticinesi sui\n                  principali organi\n                  ufficiali e di stampa per diffidare la ristampa dei prodotti depositati (in ordine cronologico)\n      ",
             "link": [
               {
-                "label": "8. Avvisi musicali pubblicati da Carlo Pozzi",
+                "label": "8. Avvisi musicali pubblicati da Carlo Pozzi",
                 "target": "b68688",
                 "chapter": "08"
               },
               {
-                "label": "8. Avvisi musicali pubblicati da Gioachino Spinelli (Euterpe Ticinese)",
+                "label": "8. Avvisi musicali pubblicati da Gioachino Spinelli (Euterpe Ticinese)",
                 "target": "dffe3a",
                 "chapter": "08"
               },
               {
-                "label": "8. Avvisi musicali pubblicati da Achille Bustelli-Rossi",
+                "label": "8. Avvisi musicali pubblicati da Achille Bustelli-Rossi",
                 "target": "b402da",
                 "chapter": "08"
               }
             ]
           },
           {
-            "name": "9. Documenti vari",
+            "name": "9. Documenti vari",
             "subtitle": "Avvisi pubblici, testi di legge, documenti governativi (1815–1900):\n                  materiali non compresi nelle precedenti rubriche (in ordine cronologico) ",
             "link": [
               {
@@ -794,85 +794,85 @@
             ]
           },
           {
-            "name": "10. Illustrazioni",
+            "name": "10. Illustrazioni",
             "link": [
               {
-                "label": "Illustrazione 1",
+                "label": "Illustrazione 1",
                 "target": "da72f0",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 2",
+                "label": "Illustrazione 2",
                 "target": "e32f70",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 3",
+                "label": "Illustrazione 3",
                 "target": "7acb3a",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 4a",
+                "label": "Illustrazione 4a",
                 "target": "1db00a",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 4b",
+                "label": "Illustrazione 4b",
                 "target": "ad692d",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 5a",
+                "label": "Illustrazione 5a",
                 "target": "4f8a8c",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 5b",
+                "label": "Illustrazione 5b",
                 "target": "136ae6",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 6a-b",
+                "label": "Illustrazione 6a-b",
                 "target": "0d7e50",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 6c-d",
+                "label": "Illustrazione 6c-d",
                 "target": "a7a686",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 7a",
+                "label": "Illustrazione 7a",
                 "target": "668663",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 7b",
+                "label": "Illustrazione 7b",
                 "target": "6a5c0a",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 8a",
+                "label": "Illustrazione 8a",
                 "target": "4d7bd8",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 8b",
+                "label": "Illustrazione 8b",
                 "target": "48cb9e",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 8c-d",
+                "label": "Illustrazione 8c-d",
                 "target": "0d003d",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 9",
+                "label": "Illustrazione 9",
                 "target": "58224f",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 10a-b",
+                "label": "Illustrazione 10a-b",
                 "target": "decd6c",
                 "chapter": "10"
               },
@@ -882,32 +882,32 @@
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 12a-c",
+                "label": "Illustrazione 12a-c",
                 "target": "5f42ab",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 13",
+                "label": "Illustrazione 13",
                 "target": "b0e0ef",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 14",
+                "label": "Illustrazione 14",
                 "target": "0760ce",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 15a-b",
+                "label": "Illustrazione 15a-b",
                 "target": "a7a1c5",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 16",
+                "label": "Illustrazione 16",
                 "target": "84d486",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 17",
+                "label": "Illustrazione 17",
                 "target": "c0bc1c",
                 "chapter": "10"
               },
@@ -917,152 +917,152 @@
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 18c",
+                "label": "Illustrazione 18c",
                 "target": "47fbe8",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 19a-b",
+                "label": "Illustrazione 19a-b",
                 "target": "633d7b",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 19c-d",
+                "label": "Illustrazione 19c-d",
                 "target": "8995e8",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 19e",
+                "label": "Illustrazione 19e",
                 "target": "ad53ff",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 20a-c",
+                "label": "Illustrazione 20a-c",
                 "target": "a21bb0",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 21",
+                "label": "Illustrazione 21",
                 "target": "ede32f",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 22",
+                "label": "Illustrazione 22",
                 "target": "8d58ed",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 23",
+                "label": "Illustrazione 23",
                 "target": "d25b8b",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 24",
+                "label": "Illustrazione 24",
                 "target": "50c35f",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 25a-c",
+                "label": "Illustrazione 25a-c",
                 "target": "85b312",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 25d-e",
+                "label": "Illustrazione 25d-e",
                 "target": "604ce8",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 26a",
+                "label": "Illustrazione 26a",
                 "target": "3d0b59",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 26b",
+                "label": "Illustrazione 26b",
                 "target": "dc2f03",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 26c",
+                "label": "Illustrazione 26c",
                 "target": "e3cafb",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 24",
+                "label": "Illustrazione 24",
                 "target": "8079b7",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 26d",
+                "label": "Illustrazione 26d",
                 "target": "bb371c",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 27",
+                "label": "Illustrazione 27",
                 "target": "de6d2a",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 28a-b",
+                "label": "Illustrazione 28a-b",
                 "target": "2ebb63",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 29a-b",
+                "label": "Illustrazione 29a-b",
                 "target": "7cbed1",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 30a-b",
+                "label": "Illustrazione 30a-b",
                 "target": "28d320",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 31",
+                "label": "Illustrazione 31",
                 "target": "2b7098",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 32",
+                "label": "Illustrazione 32",
                 "target": "88d246",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 33",
+                "label": "Illustrazione 33",
                 "target": "4baecd",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 34",
+                "label": "Illustrazione 34",
                 "target": "72ef41",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 35",
+                "label": "Illustrazione 35",
                 "target": "a24615",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 36a-c",
+                "label": "Illustrazione 36a-c",
                 "target": "87add8",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 37a-b",
+                "label": "Illustrazione 37a-b",
                 "target": "f8fbc2",
                 "chapter": "10"
               }
             ]
           },
           {
-            "name": "11. Abbreviazioni  -  Bibliografia",
+            "name": "11. Abbreviazioni  -  Bibliografia",
             "link": [
               {
-                "label": "Archivi e biblioteche",
+                "label": "Archivi e biblioteche",
                 "target": "57967f",
                 "chapter": "11"
               },
               {
-                "label": "Fonti ufficiali a stampa",
+                "label": "Fonti ufficiali a stampa",
                 "target": "b6453e",
                 "chapter": "11"
               },
@@ -1072,7 +1072,7 @@
                 "chapter": "11"
               },
               {
-                "label": "Riferimenti bibliografici",
+                "label": "Riferimenti bibliografici",
                 "target": "e420e9",
                 "chapter": "11"
               }
