@@ -442,6 +442,10 @@ toc = [
             {
                 label: "Introduzione", 
                 target: "b74749"
+            },
+            {
+                label: "Dramatis personae", 
+                target: "b74749"
             }
         ]
     },
