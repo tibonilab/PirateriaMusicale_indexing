@@ -1,5597 +1,5587 @@
 [
   {
-    "id": "2187f0",
+    "id": "55448f",
     "string": "Studio generale",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "46b3f5",
+    "id": "447380",
     "string": "Cronologia",
-    "target": "af46d6"
+    "target": "ce94c7"
   },
   {
-    "id": "18292c",
+    "id": "47e1d7",
     "string": "Carteggio",
-    "target": "7d947b"
+    "target": "492765"
   },
   {
-    "id": "7b562f",
+    "id": "9a1629",
     "string": "Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "7b562f",
+    "id": "9a1629",
     "string": "Cataloghi",
-    "target": "267379"
+    "target": "a94eea"
   },
   {
-    "id": "ac5f89",
+    "id": "d6eb34",
     "string": "Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "ac5f89",
+    "id": "d6eb34",
     "string": "Cataloghi",
-    "target": "267379"
+    "target": "a94eea"
   },
   {
-    "id": "ac5f89",
+    "id": "d6eb34",
     "string": "Petizioni",
-    "target": "ee45e2"
+    "target": "992da5"
   },
   {
-    "id": "ac5f89",
+    "id": "d6eb34",
     "string": "Avvisi musicali",
-    "target": "b96991"
+    "target": "efad38"
   },
   {
-    "id": "ac5f89",
+    "id": "d6eb34",
     "string": "Documenti vari",
-    "target": "fb5d65"
+    "target": "88c891"
   },
   {
-    "id": "ac5f89",
+    "id": "d6eb34",
     "string": "Illustrazioni",
-    "target": "54f009"
+    "target": "dcd98e"
   },
   {
-    "id": "cc1c72",
+    "id": "8354c7",
     "string": "Illustrazione 4a-b",
-    "target": "1db00a"
+    "target": "14d871"
   },
   {
-    "id": "cc1c72",
+    "id": "8354c7",
     "string": "Illustrazione 4a-b",
-    "target": "1db00a"
+    "target": "14d871"
   },
   {
-    "id": "a61fa8",
+    "id": "a6c411",
     "string": "Figura 1a-c",
-    "target": "0dc851"
+    "target": "61233e"
   },
   {
-    "id": "a61fa8",
+    "id": "a6c411",
     "string": "Figura 1a-c",
-    "target": "0dc851"
+    "target": "61233e"
   },
   {
-    "id": "6d4963",
+    "id": "518a4e",
     "string": "Figura 3, 4, 5",
-    "target": "201b0e"
+    "target": "614945"
   },
   {
-    "id": "6d4963",
+    "id": "518a4e",
     "string": "Figura 3, 4, 5",
-    "target": "201b0e"
+    "target": "614945"
   },
   {
-    "id": "896a79",
+    "id": "719f41",
     "string": "Spinelli.petizioni.1840.1",
-    "target": "b329c8"
+    "target": "b2228f"
   },
   {
-    "id": "896a79",
+    "id": "719f41",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "187939",
+    "id": "1ff26b",
     "string": "Spinelli.avvisi.1840.1",
-    "target": "f7a44e"
+    "target": "c2d54c"
   },
   {
-    "id": "01030e",
+    "id": "5634ea",
     "string": "Illustrazione 36",
-    "target": "87add8"
+    "target": "37b8e4"
   },
   {
-    "id": "01030e",
+    "id": "5634ea",
     "string": "Illustrazione 36",
-    "target": "87add8"
+    "target": "37b8e4"
   },
   {
-    "id": "08c19f",
+    "id": "ceab7d",
     "string": "Cronologia",
-    "target": "af46d6"
+    "target": "ce94c7"
   },
   {
-    "id": "08c19f",
+    "id": "ceab7d",
     "string": "Carteggio",
-    "target": "7d947b"
+    "target": "492765"
   },
   {
-    "id": "b485ca",
+    "id": "fcf9ba",
     "string": "Documenti.vari.1816.1",
-    "target": "2729e4"
+    "target": "02daba"
   },
   {
-    "id": "67b0ff",
+    "id": "a5e1cc",
     "string": "Documenti.vari.1815.1",
-    "target": "12efb8"
+    "target": "793619"
   },
   {
-    "id": "ea1439",
+    "id": "482b90",
     "string": "Carteggio.1828.1",
-    "target": "0a1140"
+    "target": "d15959"
   },
   {
-    "id": "431a91",
+    "id": "0ce45f",
     "string": "Documenti.vari.1831.1",
-    "target": "b007e4"
+    "target": "0fba55"
   },
   {
-    "id": "f08c16",
+    "id": "a676a0",
     "string": "Carteggio.1831.2",
-    "target": "79cac4"
+    "target": "ff08c7"
   },
   {
-    "id": "ba99b2",
+    "id": "8d3d7a",
     "string": "Carteggio.1833.1",
-    "target": "3d4f35"
+    "target": "5cb9bc"
   },
   {
-    "id": "e3bdcf",
+    "id": "d7fa10",
     "string": "Documenti.vari.1833.1",
-    "target": "fd3d39"
+    "target": "3b2ca5"
   },
   {
-    "id": "e3bdcf",
+    "id": "d7fa10",
     "string": "Documenti.vari.1833.1",
-    "target": "fd3d39"
+    "target": "3b2ca5"
   },
   {
-    "id": "e3bdcf",
+    "id": "d7fa10",
     "string": "Illustrazione 21",
-    "target": "ede32f"
+    "target": "85fbb9"
   },
   {
-    "id": "e3bdcf",
+    "id": "d7fa10",
     "string": "Illustrazione 21",
-    "target": "ede32f"
+    "target": "85fbb9"
   },
   {
-    "id": "193882",
+    "id": "00128a",
     "string": "Carteggio.1833.2",
-    "target": "aa7787"
+    "target": "ba7c6a"
   },
   {
-    "id": "193882",
+    "id": "00128a",
     "string": "Carteggio.1833.2",
-    "target": "aa7787"
+    "target": "ba7c6a"
   },
   {
-    "id": "4a5bd7",
+    "id": "a44c30",
     "string": "Carteggio.1835.2",
-    "target": "3fd0fd"
+    "target": "32b8df"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": "Spinelli.avvisi.1838.2",
-    "target": "371ce6"
+    "target": "2024dc"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": "Spinelli.avvisi.1838.2",
-    "target": "371ce6"
+    "target": "2024dc"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": "5. Depositi - Spinelli",
-    "target": "ae8c3c"
+    "target": "596d28"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": "5. Depositi - Spinelli",
-    "target": "ae8c3c"
+    "target": "596d28"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": "Spinelli.avvisi.1838.1",
-    "target": "d47c44"
+    "target": "777b5e"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": "Spinelli.avvisi.1838.1",
-    "target": "d47c44"
+    "target": "777b5e"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": "5. Depositi - Spinelli",
-    "target": "ae8c3c"
+    "target": "596d28"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": "5. Depositi - Spinelli",
-    "target": "ae8c3c"
+    "target": "596d28"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": "Illustrazione 2",
-    "target": "e32f70"
+    "target": "96823f"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": "Illustrazione 2",
-    "target": "e32f70"
+    "target": "96823f"
   },
   {
-    "id": "79929a",
+    "id": "0042d2",
     "string": " 3",
-    "target": "7acb3a"
+    "target": "2df120"
   },
   {
-    "id": "6bd007",
+    "id": "fd79f4",
     "string": "Carteggio.1835.1",
-    "target": "e95ad0"
+    "target": "877011"
   },
   {
-    "id": "184ed5",
+    "id": "9ca87d",
     "string": "Carteggio.1835.1",
-    "target": "e95ad0"
+    "target": "877011"
   },
   {
-    "id": "17b2f6",
+    "id": "9b4a33",
     "string": "Documenti.vari.1835.1",
-    "target": "f9d466"
+    "target": "dd2655"
   },
   {
-    "id": "59b3be",
+    "id": "020f7e",
     "string": "Carteggio.1837.2",
-    "target": "1caf8b"
+    "target": "7426c5"
   },
   {
-    "id": "59b3be",
+    "id": "020f7e",
     "string": "Carteggio.1837.2",
-    "target": "1caf8b"
+    "target": "7426c5"
   },
   {
-    "id": "c87488",
+    "id": "2de81c",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "c87488",
+    "id": "2de81c",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "a6e4b6",
+    "id": "663c8f",
     "string": "Carteggio.1850.2b",
-    "target": "dc7dc5"
+    "target": "97a841"
   },
   {
-    "id": "a6e4b6",
+    "id": "663c8f",
     "string": "Carteggio.1850.2b",
-    "target": "dc7dc5"
+    "target": "97a841"
   },
   {
-    "id": "a6e4b6",
+    "id": "663c8f",
     "string": "Illustrazione 6",
-    "target": "0d7e50"
+    "target": "48d6e4"
   },
   {
-    "id": "a6e4b6",
+    "id": "663c8f",
     "string": "Illustrazione 6",
-    "target": "0d7e50"
+    "target": "48d6e4"
   },
   {
-    "id": "a6e4b6",
+    "id": "663c8f",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "a6e4b6",
+    "id": "663c8f",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "a6e4b6",
+    "id": "663c8f",
     "string": "Carteggio.1837.1",
-    "target": "d1be04"
+    "target": "8764b5"
   },
   {
-    "id": "a6e4b6",
+    "id": "663c8f",
     "string": "Carteggio.1837.1",
-    "target": "d1be04"
+    "target": "8764b5"
   },
   {
-    "id": "a6e4b6",
+    "id": "663c8f",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "a6e4b6",
+    "id": "663c8f",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "58e445",
+    "id": "8d1ddc",
     "string": "6. Cataloghi",
-    "target": "267379"
+    "target": "a94eea"
   },
   {
-    "id": "58e445",
+    "id": "8d1ddc",
     "string": "6. Cataloghi",
-    "target": "267379"
+    "target": "a94eea"
   },
   {
-    "id": "5ea320",
+    "id": "879181",
     "string": "Carteggio.1842.3",
-    "target": "4260c0"
+    "target": "f032a1"
   },
   {
-    "id": "83f41b",
+    "id": "a03c20",
     "string": "Carteggio.1835.1",
-    "target": "e95ad0"
+    "target": "877011"
   },
   {
-    "id": "83f41b",
+    "id": "a03c20",
     "string": "Carteggio.1835.1",
-    "target": "e95ad0"
+    "target": "877011"
   },
   {
-    "id": "57a839",
+    "id": "f39df5",
     "string": "Cataloghi",
-    "target": "267379"
+    "target": "a94eea"
   },
   {
-    "id": "9462df",
+    "id": "4185b7",
     "string": "Illustrazione 10",
-    "target": "decd6c"
+    "target": "d9429b"
   },
   {
-    "id": "9462df",
+    "id": "4185b7",
     "string": "Illustrazione 10",
-    "target": "decd6c"
+    "target": "d9429b"
   },
   {
-    "id": "f493b5",
+    "id": "0ee86b",
     "string": "Catalogo Euterpe Ticinese",
-    "target": "0953d4"
+    "target": "ad4179"
   },
   {
-    "id": "1f8f2c",
+    "id": "b3c5e5",
     "string": "Illustrazione 11",
-    "target": "decd6c"
+    "target": "d9429b"
   },
   {
-    "id": "1f8f2c",
+    "id": "b3c5e5",
     "string": "Illustrazione 11",
-    "target": "decd6c"
+    "target": "d9429b"
   },
   {
-    "id": "7906b3",
+    "id": "c435ae",
     "string": "Figura 10 e 11",
-    "target": "d3884e"
+    "target": "983f2d"
   },
   {
-    "id": "7906b3",
+    "id": "c435ae",
     "string": "Figura 10 e 11",
-    "target": "d3884e"
+    "target": "983f2d"
   },
   {
-    "id": "396482",
+    "id": "4befb6",
     "string": "Euterpe Ticinese - Catalogo",
-    "target": "0953d4"
+    "target": "ad4179"
   },
   {
-    "id": "8967a0",
+    "id": "d15cf2",
     "string": "Documenti.vari.1840.1",
-    "target": "2404b3"
+    "target": "d87400"
   },
   {
-    "id": "9adc9b",
+    "id": "bc5c00",
     "string": "Documenti.vari.1841.1",
-    "target": "a167e8"
+    "target": "302ac1"
   },
   {
-    "id": "9adc9b",
+    "id": "bc5c00",
     "string": "Documenti.vari.1841.1",
-    "target": "a167e8"
+    "target": "302ac1"
   },
   {
-    "id": "f3d31c",
+    "id": "5cca49",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "ba4815",
+    "id": "e27345",
     "string": "Illustrazione 12",
-    "target": "5f42ab"
+    "target": "17f1b5"
   },
   {
-    "id": "ba4815",
+    "id": "e27345",
     "string": "Illustrazione 12",
-    "target": "5f42ab"
+    "target": "17f1b5"
   },
   {
-    "id": "338cb5",
+    "id": "bb4926",
     "string": "Documenti.vari.1886.1",
-    "target": "3b140e"
+    "target": "014a56"
   },
   {
-    "id": "7d5476",
+    "id": "946bc4",
     "string": "Carteggio.1855.1",
-    "target": "9271f1"
+    "target": "edddc4"
   },
   {
-    "id": "7d5476",
+    "id": "946bc4",
     "string": "Carteggio.1855.1",
-    "target": "9271f1"
+    "target": "edddc4"
   },
   {
-    "id": "5067fb",
+    "id": "c996dc",
     "string": "Carteggio",
-    "target": "7d947b"
+    "target": "492765"
   },
   {
-    "id": "8c14eb",
+    "id": "007429",
     "string": "Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "885e64",
+    "id": "aa2389",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "885e64",
+    "id": "aa2389",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "885e64",
+    "id": "aa2389",
     "string": "Documenti.vari.1870.2",
-    "target": "76fc82"
+    "target": "3020c2"
   },
   {
-    "id": "885e64",
+    "id": "aa2389",
     "string": "Documenti.vari.1870.2",
-    "target": "76fc82"
+    "target": "3020c2"
   },
   {
-    "id": "885e64",
+    "id": "aa2389",
     "string": "Illustrazione 13",
-    "target": "b0e0ef"
+    "target": "35c0f8"
   },
   {
-    "id": "885e64",
+    "id": "aa2389",
     "string": "Illustrazione 13",
-    "target": "b0e0ef"
+    "target": "35c0f8"
   },
   {
-    "id": "eef1a1",
+    "id": "640bb7",
     "string": "6. Cataloghi",
-    "target": "267379"
+    "target": "a94eea"
   },
   {
-    "id": "eef1a1",
+    "id": "640bb7",
     "string": "6. Cataloghi",
-    "target": "267379"
+    "target": "a94eea"
   },
   {
-    "id": "fb4726",
+    "id": "0e379b",
     "string": "Carteggio.1836.8",
-    "target": "b95fb0"
+    "target": "226ac1"
   },
   {
-    "id": "fb4726",
+    "id": "0e379b",
     "string": "Carteggio.1836.8",
-    "target": "b95fb0"
+    "target": "226ac1"
   },
   {
-    "id": "fb4726",
+    "id": "0e379b",
     "string": "Carteggio.1842.3",
-    "target": "4260c0"
+    "target": "f032a1"
   },
   {
-    "id": "fb4726",
+    "id": "0e379b",
     "string": "Carteggio.1842.3",
-    "target": "4260c0"
+    "target": "f032a1"
   },
   {
-    "id": "2452aa",
+    "id": "36b4fd",
     "string": "Documenti.vari.1863.1",
-    "target": "56a490"
+    "target": "599daf"
   },
   {
-    "id": "0d9f22",
+    "id": "1a56f6",
     "string": "Documenti.vari.1815.1",
-    "target": "12efb8"
+    "target": "793619"
   },
   {
-    "id": "0d9f22",
+    "id": "1a56f6",
     "string": "Documenti.vari.1815.1",
-    "target": "12efb8"
+    "target": "793619"
   },
   {
-    "id": "7efe25",
+    "id": "5118e5",
     "string": "Documenti.vari.1816.1",
-    "target": "2729e4"
+    "target": "02daba"
   },
   {
-    "id": "7efe25",
+    "id": "5118e5",
     "string": "Documenti.vari.1816.1",
-    "target": "2729e4"
+    "target": "02daba"
   },
   {
-    "id": "6c9f21",
+    "id": "5ed8cd",
     "string": "Carteggio.1826.1",
-    "target": "7d947b"
+    "target": "492765"
   },
   {
-    "id": "6c9f21",
+    "id": "5ed8cd",
     "string": "Carteggio.1826.1",
-    "target": "7d947b"
+    "target": "492765"
   },
   {
-    "id": "dcc73c",
+    "id": "86cd20",
     "string": "Carteggio.1828.1",
-    "target": "0a1140"
+    "target": "d15959"
   },
   {
-    "id": "dcc73c",
+    "id": "86cd20",
     "string": "Carteggio.1828.1",
-    "target": "0a1140"
+    "target": "d15959"
   },
   {
-    "id": "7752c6",
+    "id": "d73637",
     "string": "Documenti.vari.1831.1",
-    "target": "b007e4"
+    "target": "0fba55"
   },
   {
-    "id": "7752c6",
+    "id": "d73637",
     "string": "Documenti.vari.1831.1",
-    "target": "b007e4"
+    "target": "0fba55"
   },
   {
-    "id": "7752c6",
+    "id": "d73637",
     "string": "3",
-    "target": "af46d6"
+    "target": "ce94c7"
   },
   {
-    "id": "7752c6",
+    "id": "d73637",
     "string": "3",
-    "target": "af46d6"
+    "target": "ce94c7"
   },
   {
-    "id": "cade22",
+    "id": "8e2c3e",
     "string": "Documenti.vari.1831.2",
-    "target": "3fe2a1"
+    "target": "8b6403"
   },
   {
-    "id": "cade22",
+    "id": "8e2c3e",
     "string": "Documenti.vari.1831.2",
-    "target": "3fe2a1"
+    "target": "8b6403"
   },
   {
-    "id": "2452cc",
+    "id": "a57695",
     "string": "Documenti.vari.1831.4",
-    "target": "6eecfa"
+    "target": "7ff8c7"
   },
   {
-    "id": "2452cc",
+    "id": "a57695",
     "string": "Documenti.vari.1831.4",
-    "target": "6eecfa"
+    "target": "7ff8c7"
   },
   {
-    "id": "2452cc",
+    "id": "a57695",
     "string": "Documenti.vari.1850.2",
-    "target": "39d5b5"
+    "target": "c75bf7"
   },
   {
-    "id": "2452cc",
+    "id": "a57695",
     "string": "Documenti.vari.1850.2",
-    "target": "39d5b5"
+    "target": "c75bf7"
   },
   {
-    "id": "a84c7c",
+    "id": "cf7091",
     "string": "Carteggio.1831.1",
-    "target": "2e6b7d"
+    "target": "72ed8b"
   },
   {
-    "id": "a84c7c",
+    "id": "cf7091",
     "string": "Carteggio.1831.1",
-    "target": "2e6b7d"
+    "target": "72ed8b"
   },
   {
-    "id": "1557aa",
+    "id": "520d0f",
     "string": "Carteggio.1831.2",
-    "target": "79cac4"
+    "target": "ff08c7"
   },
   {
-    "id": "1557aa",
+    "id": "520d0f",
     "string": "Carteggio.1831.2",
-    "target": "79cac4"
+    "target": "ff08c7"
   },
   {
-    "id": "e7c842",
+    "id": "18e386",
     "string": "Carteggio.1832.1",
-    "target": "fb69d2"
+    "target": "6ff689"
   },
   {
-    "id": "e7c842",
+    "id": "18e386",
     "string": "Carteggio.1832.1",
-    "target": "fb69d2"
+    "target": "6ff689"
   },
   {
-    "id": "e7c842",
+    "id": "18e386",
     "string": "Carteggio.1835.2",
-    "target": "3fd0fd"
+    "target": "32b8df"
   },
   {
-    "id": "e7c842",
+    "id": "18e386",
     "string": "Carteggio.1835.2",
-    "target": "3fd0fd"
+    "target": "32b8df"
   },
   {
-    "id": "e7c842",
+    "id": "18e386",
     "string": "Carteggio.1842.2",
-    "target": "8618e1"
+    "target": "261db3"
   },
   {
-    "id": "e7c842",
+    "id": "18e386",
     "string": "Carteggio.1842.2",
-    "target": "8618e1"
+    "target": "261db3"
   },
   {
-    "id": "667838",
+    "id": "97cd01",
     "string": "Carteggio.1832.2",
-    "target": "d1fc2f"
+    "target": "05745c"
   },
   {
-    "id": "667838",
+    "id": "97cd01",
     "string": "Carteggio.1832.2",
-    "target": "d1fc2f"
+    "target": "05745c"
   },
   {
-    "id": "667838",
+    "id": "97cd01",
     "string": "Carteggio.1835.2",
-    "target": "3fd0fd"
+    "target": "32b8df"
   },
   {
-    "id": "667838",
+    "id": "97cd01",
     "string": "Carteggio.1835.2",
-    "target": "3fd0fd"
+    "target": "32b8df"
   },
   {
-    "id": "667838",
+    "id": "97cd01",
     "string": "Carteggio.1836.1",
-    "target": "21c456"
+    "target": "5c8686"
   },
   {
-    "id": "667838",
+    "id": "97cd01",
     "string": "Carteggio.1836.1",
-    "target": "21c456"
+    "target": "5c8686"
   },
   {
-    "id": "eb889b",
+    "id": "dfd81c",
     "string": "Carteggio.1833.1",
-    "target": "3d4f35"
+    "target": "5cb9bc"
   },
   {
-    "id": "eb889b",
+    "id": "dfd81c",
     "string": "Carteggio.1833.1",
-    "target": "3d4f35"
+    "target": "5cb9bc"
   },
   {
-    "id": "ae660d",
+    "id": "bcd610",
     "string": "Documenti.vari.1833.1",
-    "target": "fd3d39"
+    "target": "3b2ca5"
   },
   {
-    "id": "ae660d",
+    "id": "bcd610",
     "string": "Documenti.vari.1833.1",
-    "target": "fd3d39"
+    "target": "3b2ca5"
   },
   {
-    "id": "6eaa11",
+    "id": "303545",
     "string": "Carteggio.1833.2",
-    "target": "aa7787"
+    "target": "ba7c6a"
   },
   {
-    "id": "6eaa11",
+    "id": "303545",
     "string": "Carteggio.1833.2",
-    "target": "aa7787"
+    "target": "ba7c6a"
   },
   {
-    "id": "ca1072",
+    "id": "e2d8e0",
     "string": "Carteggio.1835.1",
-    "target": "e95ad0"
+    "target": "877011"
   },
   {
-    "id": "ca1072",
+    "id": "e2d8e0",
     "string": "Carteggio.1835.1",
-    "target": "e95ad0"
+    "target": "877011"
   },
   {
-    "id": "5daf36",
+    "id": "fef7ac",
     "string": "Carteggio.1835.2",
-    "target": "3fd0fd"
+    "target": "32b8df"
   },
   {
-    "id": "5daf36",
+    "id": "fef7ac",
     "string": "Carteggio.1835.2",
-    "target": "3fd0fd"
+    "target": "32b8df"
   },
   {
-    "id": "595033",
+    "id": "af90af",
     "string": "Documenti.vari.1835.1",
-    "target": "f9d466"
+    "target": "dd2655"
   },
   {
-    "id": "595033",
+    "id": "af90af",
     "string": "Documenti.vari.1835.1",
-    "target": "f9d466"
+    "target": "dd2655"
   },
   {
-    "id": "9eb6db",
+    "id": "d62464",
     "string": "Illustrazione 4",
-    "target": "1db00a"
+    "target": "14d871"
   },
   {
-    "id": "9eb6db",
+    "id": "d62464",
     "string": "Illustrazione 4",
-    "target": "1db00a"
+    "target": "14d871"
   },
   {
-    "id": "8b09f2",
+    "id": "1c6caa",
     "string": "Documenti.vari.1835.1",
-    "target": "f9d466"
+    "target": "dd2655"
   },
   {
-    "id": "8b09f2",
+    "id": "1c6caa",
     "string": "Documenti.vari.1835.1",
-    "target": "f9d466"
+    "target": "dd2655"
   },
   {
-    "id": "8b09f2",
+    "id": "1c6caa",
     "string": "Carteggio.1836.2",
-    "target": "361f1f"
+    "target": "6c2c30"
   },
   {
-    "id": "8b09f2",
+    "id": "1c6caa",
     "string": "Carteggio.1836.2",
-    "target": "361f1f"
+    "target": "6c2c30"
   },
   {
-    "id": "8b09f2",
+    "id": "1c6caa",
     "string": "Carteggio.1836.6",
-    "target": "49dc4c"
+    "target": "d426e9"
   },
   {
-    "id": "8b09f2",
+    "id": "1c6caa",
     "string": "Carteggio.1836.6",
-    "target": "49dc4c"
+    "target": "d426e9"
   },
   {
-    "id": "b3d6f7",
+    "id": "43db0d",
     "string": "5. Depositi - Pozzi",
-    "target": "7537bd"
+    "target": "837bc8"
   },
   {
-    "id": "b3d6f7",
+    "id": "43db0d",
     "string": "5. Depositi - Pozzi",
-    "target": "7537bd"
+    "target": "837bc8"
   },
   {
-    "id": "b3d6f7",
+    "id": "43db0d",
     "string": "Pozzi.petizioni.1839.1",
-    "target": "eee435"
+    "target": "9c8f6e"
   },
   {
-    "id": "b3d6f7",
+    "id": "43db0d",
     "string": "Pozzi.petizioni.1839.1",
-    "target": "eee435"
+    "target": "9c8f6e"
   },
   {
-    "id": "93b352",
+    "id": "7799f9",
     "string": "Illustrazione 6c-d",
-    "target": "a7a686"
+    "target": "a8ed0e"
   },
   {
-    "id": "93b352",
+    "id": "7799f9",
     "string": "Illustrazione 6c-d",
-    "target": "a7a686"
+    "target": "a8ed0e"
   },
   {
-    "id": "58825f",
+    "id": "1b22d4",
     "string": "Carteggio.1836.8",
-    "target": "b95fb0"
+    "target": "226ac1"
   },
   {
-    "id": "58825f",
+    "id": "1b22d4",
     "string": "Carteggio.1836.8",
-    "target": "b95fb0"
+    "target": "226ac1"
   },
   {
-    "id": "f30eb3",
+    "id": "ae580a",
     "string": "Carteggio.1836.9",
-    "target": "f700fe"
+    "target": "f71b8d"
   },
   {
-    "id": "f30eb3",
+    "id": "ae580a",
     "string": "Carteggio.1836.9",
-    "target": "f700fe"
+    "target": "f71b8d"
   },
   {
-    "id": "f30eb3",
+    "id": "ae580a",
     "string": "10",
-    "target": "0e67dd"
+    "target": "1fd339"
   },
   {
-    "id": "f30eb3",
+    "id": "ae580a",
     "string": "10",
-    "target": "0e67dd"
+    "target": "1fd339"
   },
   {
-    "id": "769af1",
+    "id": "dd114a",
     "string": "Pozzi.avvisi.1837.1",
-    "target": "1f878a"
+    "target": "6a39f9"
   },
   {
-    "id": "769af1",
+    "id": "dd114a",
     "string": "Pozzi.avvisi.1837.1",
-    "target": "1f878a"
+    "target": "6a39f9"
   },
   {
-    "id": "8a72b1",
+    "id": "626613",
     "string": "Pozzi.avvisi.1837.4",
-    "target": "afc0b3"
+    "target": "ce0742"
   },
   {
-    "id": "8a72b1",
+    "id": "626613",
     "string": "Pozzi.avvisi.1837.4",
-    "target": "afc0b3"
+    "target": "ce0742"
   },
   {
-    "id": "26a93f",
+    "id": "e89a0f",
     "string": "Carteggio.1837.1",
-    "target": "d1be04"
+    "target": "8764b5"
   },
   {
-    "id": "26a93f",
+    "id": "e89a0f",
     "string": "Carteggio.1837.1",
-    "target": "d1be04"
+    "target": "8764b5"
   },
   {
-    "id": "26a93f",
+    "id": "e89a0f",
     "string": "Pozzi.avvisi.1837.4",
-    "target": "afc0b3"
+    "target": "ce0742"
   },
   {
-    "id": "26a93f",
+    "id": "e89a0f",
     "string": "Pozzi.avvisi.1837.4",
-    "target": "afc0b3"
+    "target": "ce0742"
   },
   {
-    "id": "14ad0d",
+    "id": "6e2a2a",
     "string": "Pozzi.avvisi.1837.4",
-    "target": "afc0b3"
+    "target": "ce0742"
   },
   {
-    "id": "14ad0d",
+    "id": "6e2a2a",
     "string": "Pozzi.avvisi.1837.4",
-    "target": "afc0b3"
+    "target": "ce0742"
   },
   {
-    "id": "14ad0d",
+    "id": "6e2a2a",
     "string": "Pozzi.avvisi.1841.1",
-    "target": "f7f397"
+    "target": "3cb715"
   },
   {
-    "id": "14ad0d",
+    "id": "6e2a2a",
     "string": "Pozzi.avvisi.1841.1",
-    "target": "f7f397"
+    "target": "3cb715"
   },
   {
-    "id": "3d92af",
+    "id": "df6b30",
     "string": "Carteggio.1837.2",
-    "target": "1caf8b"
+    "target": "7426c5"
   },
   {
-    "id": "3d92af",
+    "id": "df6b30",
     "string": "Carteggio.1837.2",
-    "target": "1caf8b"
+    "target": "7426c5"
   },
   {
-    "id": "2a69db",
+    "id": "7b1685",
     "string": "Pozzi.petizioni.1842.22",
-    "target": "bceab7"
+    "target": "452e8b"
   },
   {
-    "id": "2a69db",
+    "id": "7b1685",
     "string": "Pozzi.petizioni.1842.22",
-    "target": "bceab7"
+    "target": "452e8b"
   },
   {
-    "id": "2a69db",
+    "id": "7b1685",
     "string": "Carteggio.1841.1",
-    "target": "c0a8b0"
+    "target": "2ae70b"
   },
   {
-    "id": "2a69db",
+    "id": "7b1685",
     "string": "Carteggio.1841.1",
-    "target": "c0a8b0"
+    "target": "2ae70b"
   },
   {
-    "id": "2a69db",
+    "id": "7b1685",
     "string": "1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "8f5dea",
+    "id": "d4a96b",
     "string": "Spinelli.avvisi.1838.1",
-    "target": "d47c44"
+    "target": "777b5e"
   },
   {
-    "id": "8f5dea",
+    "id": "d4a96b",
     "string": "Spinelli.avvisi.1838.1",
-    "target": "d47c44"
+    "target": "777b5e"
   },
   {
-    "id": "7c44ea",
+    "id": "61b4b1",
     "string": "Pozzi.avvisi.1837.1",
-    "target": "1f878a"
+    "target": "6a39f9"
   },
   {
-    "id": "7c44ea",
+    "id": "61b4b1",
     "string": "Pozzi.avvisi.1837.1",
-    "target": "1f878a"
+    "target": "6a39f9"
   },
   {
-    "id": "acb095",
+    "id": "6c9a61",
     "string": "Spinelli.avvisi.1853.1",
-    "target": "0c50a2"
+    "target": "dfa5ff"
   },
   {
-    "id": "acb095",
+    "id": "6c9a61",
     "string": "Spinelli.avvisi.1853.1",
-    "target": "0c50a2"
+    "target": "dfa5ff"
   },
   {
-    "id": "a409c2",
+    "id": "cdcfd1",
     "string": "Spinelli.petizioni.1840.1",
-    "target": "b329c8"
+    "target": "b2228f"
   },
   {
-    "id": "a409c2",
+    "id": "cdcfd1",
     "string": "Spinelli.petizioni.1840.1",
-    "target": "b329c8"
+    "target": "b2228f"
   },
   {
-    "id": "a409c2",
+    "id": "cdcfd1",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "a409c2",
+    "id": "cdcfd1",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "a409c2",
+    "id": "cdcfd1",
     "string": "Spinelli.avvisi.1840.1",
-    "target": "f7a44e"
+    "target": "c2d54c"
   },
   {
-    "id": "a409c2",
+    "id": "cdcfd1",
     "string": "Spinelli.avvisi.1840.1",
-    "target": "f7a44e"
+    "target": "c2d54c"
   },
   {
-    "id": "21ea60",
+    "id": "d4766e",
     "string": "Documenti.vari.1840.1",
-    "target": "2404b3"
+    "target": "d87400"
   },
   {
-    "id": "21ea60",
+    "id": "d4766e",
     "string": "Documenti.vari.1840.1",
-    "target": "2404b3"
+    "target": "d87400"
   },
   {
-    "id": "9ca3f6",
+    "id": "6e7990",
     "string": "Carteggio.1841.3",
-    "target": "88bff8"
+    "target": "cabc11"
   },
   {
-    "id": "9ca3f6",
+    "id": "6e7990",
     "string": "Carteggio.1841.3",
-    "target": "88bff8"
+    "target": "cabc11"
   },
   {
-    "id": "ce6b47",
+    "id": "f140f2",
     "string": "Documenti.vari.1842.1",
-    "target": "090da9"
+    "target": "428c0a"
   },
   {
-    "id": "ce6b47",
+    "id": "f140f2",
     "string": "Documenti.vari.1842.1",
-    "target": "090da9"
+    "target": "428c0a"
   },
   {
-    "id": "add508",
+    "id": "26b8f1",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "add508",
+    "id": "26b8f1",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "add508",
+    "id": "26b8f1",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "add508",
+    "id": "26b8f1",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "05fb61",
+    "id": "c5a116",
     "string": "Carteggio.1842.3",
-    "target": "4260c0"
+    "target": "f032a1"
   },
   {
-    "id": "05fb61",
+    "id": "c5a116",
     "string": "Carteggio.1842.3",
-    "target": "4260c0"
+    "target": "f032a1"
   },
   {
-    "id": "85a427",
+    "id": "2f969d",
     "string": "Catalogo Pozzi",
-    "target": "4248d2"
+    "target": "97d0ac"
   },
   {
-    "id": "87ecfe",
+    "id": "361c30",
     "string": "Carteggio.1843.1",
-    "target": "f8fa4f"
+    "target": "b6f284"
   },
   {
-    "id": "87ecfe",
+    "id": "361c30",
     "string": "Carteggio.1843.1",
-    "target": "f8fa4f"
+    "target": "b6f284"
   },
   {
-    "id": "87ecfe",
+    "id": "361c30",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "87ecfe",
+    "id": "361c30",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "217df0",
+    "id": "c692fe",
     "string": "Carteggio.1843.2",
-    "target": "36b39e"
+    "target": "da5ea2"
   },
   {
-    "id": "217df0",
+    "id": "c692fe",
     "string": "Carteggio.1843.2",
-    "target": "36b39e"
+    "target": "da5ea2"
   },
   {
-    "id": "c9fe17",
+    "id": "7fd6b6",
     "string": "Carteggio.1844.2",
-    "target": "652b5b"
+    "target": "48756a"
   },
   {
-    "id": "c9fe17",
+    "id": "7fd6b6",
     "string": "Carteggio.1844.2",
-    "target": "652b5b"
+    "target": "48756a"
   },
   {
-    "id": "5b3745",
+    "id": "c9d5e5",
     "string": "Carteggio.1844.4",
-    "target": "90de9e"
+    "target": "f3f322"
   },
   {
-    "id": "5b3745",
+    "id": "c9d5e5",
     "string": "Carteggio.1844.4",
-    "target": "90de9e"
+    "target": "f3f322"
   },
   {
-    "id": "5b3745",
+    "id": "c9d5e5",
     "string": "5",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "5b3745",
+    "id": "c9d5e5",
     "string": "5",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "5b3745",
+    "id": "c9d5e5",
     "string": "Carteggio.1847.1",
-    "target": "5038e7"
+    "target": "aaf5a8"
   },
   {
-    "id": "5b3745",
+    "id": "c9d5e5",
     "string": "Carteggio.1847.1",
-    "target": "5038e7"
+    "target": "aaf5a8"
   },
   {
-    "id": "97a5f3",
+    "id": "df628b",
     "string": "Illustrazione 14",
-    "target": "0760ce"
+    "target": "1c82a4"
   },
   {
-    "id": "97a5f3",
+    "id": "df628b",
     "string": "Illustrazione 14",
-    "target": "0760ce"
+    "target": "1c82a4"
   },
   {
-    "id": "a4b9e8",
+    "id": "b6e4e9",
     "string": "Carteggio.1849.2",
-    "target": "1e4fe3"
+    "target": "f4f1b3"
   },
   {
-    "id": "a4b9e8",
+    "id": "b6e4e9",
     "string": "Carteggio.1849.2",
-    "target": "1e4fe3"
+    "target": "f4f1b3"
   },
   {
-    "id": "80453e",
+    "id": "4095cb",
     "string": "Carteggio.1849.4",
-    "target": "7205ca"
+    "target": "8587b3"
   },
   {
-    "id": "80453e",
+    "id": "4095cb",
     "string": "Carteggio.1849.4",
-    "target": "7205ca"
+    "target": "8587b3"
   },
   {
-    "id": "80453e",
+    "id": "4095cb",
     "string": "Carteggio.1849.1",
-    "target": "676e8f"
+    "target": "0b5447"
   },
   {
-    "id": "80453e",
+    "id": "4095cb",
     "string": "Carteggio.1849.1",
-    "target": "676e8f"
+    "target": "0b5447"
   },
   {
-    "id": "a700e4",
+    "id": "76818a",
     "string": "Carteggio.1849.5",
-    "target": "468966"
+    "target": "1ae9fc"
   },
   {
-    "id": "a700e4",
+    "id": "76818a",
     "string": "Carteggio.1849.5",
-    "target": "468966"
+    "target": "1ae9fc"
   },
   {
-    "id": "a700e4",
+    "id": "76818a",
     "string": "Documenti.vari.1842.1",
-    "target": "090da9"
+    "target": "428c0a"
   },
   {
-    "id": "a700e4",
+    "id": "76818a",
     "string": "Documenti.vari.1842.1",
-    "target": "090da9"
+    "target": "428c0a"
   },
   {
-    "id": "122f72",
+    "id": "3ae2cd",
     "string": "Documenti.vari.1850.1",
-    "target": "835104"
+    "target": "fdaff2"
   },
   {
-    "id": "122f72",
+    "id": "3ae2cd",
     "string": "Documenti.vari.1850.1",
-    "target": "835104"
+    "target": "fdaff2"
   },
   {
-    "id": "122f72",
+    "id": "3ae2cd",
     "string": "Carteggio",
-    "target": "7d947b"
+    "target": "492765"
   },
   {
-    "id": "4fbc54",
+    "id": "7c19e4",
     "string": "Illustrazione 14",
-    "target": "0760ce"
+    "target": "1c82a4"
   },
   {
-    "id": "4fbc54",
+    "id": "7c19e4",
     "string": "Illustrazione 14",
-    "target": "0760ce"
+    "target": "1c82a4"
   },
   {
-    "id": "4fbc54",
+    "id": "7c19e4",
     "string": "Documenti.vari.1850.2",
-    "target": "39d5b5"
+    "target": "c75bf7"
   },
   {
-    "id": "4fbc54",
+    "id": "7c19e4",
     "string": "Documenti.vari.1850.2",
-    "target": "39d5b5"
+    "target": "c75bf7"
   },
   {
-    "id": "4fbc54",
+    "id": "7c19e4",
     "string": "1831.4",
-    "target": "6eecfa"
+    "target": "7ff8c7"
   },
   {
-    "id": "30a619",
+    "id": "9b79b6",
     "string": "Carteggio.1850.1",
-    "target": "260516"
+    "target": "4c6a88"
   },
   {
-    "id": "30a619",
+    "id": "9b79b6",
     "string": "Carteggio.1850.1",
-    "target": "260516"
+    "target": "4c6a88"
   },
   {
-    "id": "f07df7",
+    "id": "6c22f0",
     "string": "Carteggio.1858.1",
-    "target": "663740"
+    "target": "fa23ee"
   },
   {
-    "id": "f07df7",
+    "id": "6c22f0",
     "string": "Carteggio.1858.1",
-    "target": "663740"
+    "target": "fa23ee"
   },
   {
-    "id": "f07df7",
+    "id": "6c22f0",
     "string": "Carteggio.1863.1",
-    "target": "95f186"
+    "target": "9216b5"
   },
   {
-    "id": "f07df7",
+    "id": "6c22f0",
     "string": "Carteggio.1863.1",
-    "target": "95f186"
+    "target": "9216b5"
   },
   {
-    "id": "f07df7",
+    "id": "6c22f0",
     "string": "Carteggio.1849.1",
-    "target": "676e8f"
+    "target": "0b5447"
   },
   {
-    "id": "f07df7",
+    "id": "6c22f0",
     "string": "Carteggio.1849.1",
-    "target": "676e8f"
+    "target": "0b5447"
   },
   {
-    "id": "f07df7",
+    "id": "6c22f0",
     "string": "1855.1",
-    "target": "9271f1"
+    "target": "edddc4"
   },
   {
-    "id": "da30c1",
+    "id": "8a8394",
     "string": "Carteggio.1855.4",
-    "target": "ffb01d"
+    "target": "a385ef"
   },
   {
-    "id": "da30c1",
+    "id": "8a8394",
     "string": "Carteggio.1855.4",
-    "target": "ffb01d"
+    "target": "a385ef"
   },
   {
-    "id": "b268b2",
+    "id": "61524b",
     "string": "Carteggio.1850.2b",
-    "target": "dc7dc5"
+    "target": "97a841"
   },
   {
-    "id": "b268b2",
+    "id": "61524b",
     "string": "Carteggio.1850.2b",
-    "target": "dc7dc5"
+    "target": "97a841"
   },
   {
-    "id": "b268b2",
+    "id": "61524b",
     "string": "5. Depositi - Pozzi",
-    "target": "7537bd"
+    "target": "837bc8"
   },
   {
-    "id": "b268b2",
+    "id": "61524b",
     "string": "5. Depositi - Pozzi",
-    "target": "7537bd"
+    "target": "837bc8"
   },
   {
-    "id": "1b33a5",
+    "id": "ee37f9",
     "string": "Carteggio.1854.1–2",
-    "target": "fc1c3f"
+    "target": "666577"
   },
   {
-    "id": "1b33a5",
+    "id": "ee37f9",
     "string": "Carteggio.1854.1–2",
-    "target": "fc1c3f"
+    "target": "666577"
   },
   {
-    "id": "1b33a5",
+    "id": "ee37f9",
     "string": "Pozzi.petizioni.1855.1",
-    "target": "1d6e3e"
+    "target": "4939c9"
   },
   {
-    "id": "1b33a5",
+    "id": "ee37f9",
     "string": "Pozzi.petizioni.1855.1",
-    "target": "1d6e3e"
+    "target": "4939c9"
   },
   {
-    "id": "e0e809",
+    "id": "ac6433",
     "string": "Carteggio.1852.1",
-    "target": "af650f"
+    "target": "a60b2e"
   },
   {
-    "id": "e0e809",
+    "id": "ac6433",
     "string": "Carteggio.1852.1",
-    "target": "af650f"
+    "target": "a60b2e"
   },
   {
-    "id": "e0e809",
+    "id": "ac6433",
     "string": "Carteggio.1853.2–5",
-    "target": "8552ad"
+    "target": "2e17e4"
   },
   {
-    "id": "e0e809",
+    "id": "ac6433",
     "string": "Carteggio.1853.2–5",
-    "target": "8552ad"
+    "target": "2e17e4"
   },
   {
-    "id": "1e1769",
+    "id": "fad4f9",
     "string": "Carteggio.1852.2–6",
-    "target": "6683f5"
+    "target": "e94750"
   },
   {
-    "id": "1e1769",
+    "id": "fad4f9",
     "string": "Carteggio.1852.2–6",
-    "target": "6683f5"
+    "target": "e94750"
   },
   {
-    "id": "1e1769",
+    "id": "fad4f9",
     "string": "Carteggio.1852.5",
-    "target": "9f2f5c"
+    "target": "3ec738"
   },
   {
-    "id": "1e1769",
+    "id": "fad4f9",
     "string": "Carteggio.1852.5",
-    "target": "9f2f5c"
+    "target": "3ec738"
   },
   {
-    "id": "2ad851",
+    "id": "d58774",
     "string": "Carteggio.1852.6",
-    "target": "eeba74"
+    "target": "54d76b"
   },
   {
-    "id": "2ad851",
+    "id": "d58774",
     "string": "Carteggio.1852.6",
-    "target": "eeba74"
+    "target": "54d76b"
   },
   {
-    "id": "52b3df",
+    "id": "6a0821",
     "string": "Documenti.vari.1853.1",
-    "target": "e08169"
+    "target": "7a7731"
   },
   {
-    "id": "52b3df",
+    "id": "6a0821",
     "string": "Documenti.vari.1853.1",
-    "target": "e08169"
+    "target": "7a7731"
   },
   {
-    "id": "c42135",
+    "id": "b23d92",
     "string": "Spinelli.avvisi.1853.1",
-    "target": "0c50a2"
+    "target": "dfa5ff"
   },
   {
-    "id": "c42135",
+    "id": "b23d92",
     "string": "Spinelli.avvisi.1853.1",
-    "target": "0c50a2"
+    "target": "dfa5ff"
   },
   {
-    "id": "c42135",
+    "id": "b23d92",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "c42135",
+    "id": "b23d92",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "d794a1",
+    "id": "6ccee3",
     "string": "Carteggio.1853.2–5",
-    "target": "8552ad"
+    "target": "2e17e4"
   },
   {
-    "id": "d794a1",
+    "id": "6ccee3",
     "string": "Carteggio.1853.2–5",
-    "target": "8552ad"
+    "target": "2e17e4"
   },
   {
-    "id": "73e8ff",
+    "id": "74c474",
     "string": "Carteggio.1853.5",
-    "target": "1f4cfe"
+    "target": "7a17e2"
   },
   {
-    "id": "73e8ff",
+    "id": "74c474",
     "string": "Carteggio.1853.5",
-    "target": "1f4cfe"
+    "target": "7a17e2"
   },
   {
-    "id": "f8a1a8",
+    "id": "e8619f",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "f8a1a8",
+    "id": "e8619f",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "f8a1a8",
+    "id": "e8619f",
     "string": "Carteggio.1855.1",
-    "target": "9271f1"
+    "target": "edddc4"
   },
   {
-    "id": "f8a1a8",
+    "id": "e8619f",
     "string": "Carteggio.1855.1",
-    "target": "9271f1"
+    "target": "edddc4"
   },
   {
-    "id": "239880",
+    "id": "4edb4e",
     "string": "Carteggio.1855.1",
-    "target": "9271f1"
+    "target": "edddc4"
   },
   {
-    "id": "239880",
+    "id": "4edb4e",
     "string": "Carteggio.1855.1",
-    "target": "9271f1"
+    "target": "edddc4"
   },
   {
-    "id": "48ebee",
+    "id": "c883c7",
     "string": "Carteggio.1831.2",
-    "target": "79cac4"
+    "target": "ff08c7"
   },
   {
-    "id": "48ebee",
+    "id": "c883c7",
     "string": "Carteggio.1831.2",
-    "target": "79cac4"
+    "target": "ff08c7"
   },
   {
-    "id": "48ebee",
+    "id": "c883c7",
     "string": "Carteggio.1833.1",
-    "target": "3d4f35"
+    "target": "5cb9bc"
   },
   {
-    "id": "48ebee",
+    "id": "c883c7",
     "string": "Carteggio.1833.1",
-    "target": "3d4f35"
+    "target": "5cb9bc"
   },
   {
-    "id": "66d6f6",
+    "id": "25e1bb",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "66d6f6",
+    "id": "25e1bb",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "69c1b8",
+    "id": "fd239b",
     "string": "Carteggio.1855.2",
-    "target": "c07df7"
+    "target": "ae5b34"
   },
   {
-    "id": "69c1b8",
+    "id": "fd239b",
     "string": "Carteggio.1855.2",
-    "target": "c07df7"
+    "target": "ae5b34"
   },
   {
-    "id": "df650c",
+    "id": "9190f9",
     "string": "Carteggio.1855.4",
-    "target": "ffb01d"
+    "target": "a385ef"
   },
   {
-    "id": "df650c",
+    "id": "9190f9",
     "string": "Carteggio.1855.4",
-    "target": "ffb01d"
+    "target": "a385ef"
   },
   {
-    "id": "df650c",
+    "id": "9190f9",
     "string": "Carteggio.1853.1",
-    "target": "41ad5a"
+    "target": "1211cb"
   },
   {
-    "id": "df650c",
+    "id": "9190f9",
     "string": "Carteggio.1853.1",
-    "target": "41ad5a"
+    "target": "1211cb"
   },
   {
-    "id": "337c27",
+    "id": "1cecab",
     "string": "Bustelli-Rossi.avvisi.1857.1",
-    "target": "198d82"
+    "target": "4ab4c2"
   },
   {
-    "id": "337c27",
+    "id": "1cecab",
     "string": "Bustelli-Rossi.avvisi.1857.1",
-    "target": "198d82"
+    "target": "4ab4c2"
   },
   {
-    "id": "005d9d",
+    "id": "eb49ec",
     "string": "Bustelli-Rossi.petizioni.1859.1",
-    "target": "40052a"
+    "target": "6f3248"
   },
   {
-    "id": "005d9d",
+    "id": "eb49ec",
     "string": "Bustelli-Rossi.petizioni.1859.1",
-    "target": "40052a"
+    "target": "6f3248"
   },
   {
-    "id": "005d9d",
+    "id": "eb49ec",
     "string": "Bustelli-Rossi.avvisi.1859.1",
-    "target": "9b9db3"
+    "target": "ecfbd3"
   },
   {
-    "id": "005d9d",
+    "id": "eb49ec",
     "string": "Bustelli-Rossi.avvisi.1859.1",
-    "target": "9b9db3"
+    "target": "ecfbd3"
   },
   {
-    "id": "005d9d",
+    "id": "eb49ec",
     "string": "Illustrazione 15",
-    "target": "a7a1c5"
+    "target": "fb7b13"
   },
   {
-    "id": "005d9d",
+    "id": "eb49ec",
     "string": "Illustrazione 15",
-    "target": "a7a1c5"
+    "target": "fb7b13"
   },
   {
-    "id": "9c1368",
+    "id": "167180",
     "string": "Catalogo Bustelli-Rossi",
-    "target": "bb952a"
+    "target": "ae57cf"
   },
   {
-    "id": "77f9f8",
+    "id": "3cc12a",
     "string": "Illustrazione 16",
-    "target": "84d486"
+    "target": "f3779d"
   },
   {
-    "id": "77f9f8",
+    "id": "3cc12a",
     "string": "Illustrazione 16",
-    "target": "84d486"
+    "target": "f3779d"
   },
   {
-    "id": "7d85df",
+    "id": "eede9b",
     "string": "Documenti.vari.1858.1",
-    "target": "492024"
+    "target": "d8d4f0"
   },
   {
-    "id": "7d85df",
+    "id": "eede9b",
     "string": "Documenti.vari.1858.1",
-    "target": "492024"
+    "target": "d8d4f0"
   },
   {
-    "id": "50bf45",
+    "id": "a74da3",
     "string": "Carteggio.1858.1",
-    "target": "663740"
+    "target": "fa23ee"
   },
   {
-    "id": "50bf45",
+    "id": "a74da3",
     "string": "Carteggio.1858.1",
-    "target": "663740"
+    "target": "fa23ee"
   },
   {
-    "id": "50bf45",
+    "id": "a74da3",
     "string": "Carteggio.1863.1",
-    "target": "95f186"
+    "target": "9216b5"
   },
   {
-    "id": "50bf45",
+    "id": "a74da3",
     "string": "Carteggio.1863.1",
-    "target": "95f186"
+    "target": "9216b5"
   },
   {
-    "id": "f4e4e6",
+    "id": "96ce73",
     "string": "5. Depositi - Veladini",
-    "target": "a34ab7"
+    "target": "e16ac8"
   },
   {
-    "id": "f4e4e6",
+    "id": "96ce73",
     "string": "5. Depositi - Veladini",
-    "target": "a34ab7"
+    "target": "e16ac8"
   },
   {
-    "id": "d42f12",
+    "id": "3169c0",
     "string": "Documenti.vari.1863.1",
-    "target": "56a490"
+    "target": "599daf"
   },
   {
-    "id": "d42f12",
+    "id": "3169c0",
     "string": "Documenti.vari.1863.1",
-    "target": "56a490"
+    "target": "599daf"
   },
   {
-    "id": "68e0dd",
+    "id": "7f8a55",
     "string": "Bustelli-Rossi.petizioni.1867.3",
-    "target": "ac8201"
+    "target": "4fa3ac"
   },
   {
-    "id": "68e0dd",
+    "id": "7f8a55",
     "string": "Bustelli-Rossi.petizioni.1867.3",
-    "target": "ac8201"
+    "target": "4fa3ac"
   },
   {
-    "id": "8d5911",
+    "id": "a92ba1",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "8d5911",
+    "id": "a92ba1",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "3826f4",
+    "id": "0a9c88",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "3826f4",
+    "id": "0a9c88",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "36244a",
+    "id": "e48c12",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "36244a",
+    "id": "e48c12",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "961d0e",
+    "id": "96334f",
     "string": "Documenti.vari.1883.1",
-    "target": "382fa1"
+    "target": "bc0549"
   },
   {
-    "id": "961d0e",
+    "id": "96334f",
     "string": "Documenti.vari.1883.1",
-    "target": "382fa1"
+    "target": "bc0549"
   },
   {
-    "id": "493a19",
+    "id": "48d247",
     "string": "Documenti.vari.1886.1",
-    "target": "3b140e"
+    "target": "014a56"
   },
   {
-    "id": "493a19",
+    "id": "48d247",
     "string": "Documenti.vari.1886.1",
-    "target": "3b140e"
+    "target": "014a56"
   },
   {
-    "id": "f4ed0c",
+    "id": "0e305c",
     "string": "Documenti.vari.1900.1",
-    "target": "0a1a7b"
+    "target": "d5cca9"
   },
   {
-    "id": "f4ed0c",
+    "id": "0e305c",
     "string": "Documenti.vari.1900.1",
-    "target": "0a1a7b"
+    "target": "d5cca9"
   },
   {
-    "id": "379b4b",
+    "id": "b853b7",
     "string": "Illustrazione 37",
-    "target": "f8fbc2"
+    "target": "cbb4a1"
   },
   {
-    "id": "379b4b",
+    "id": "b853b7",
     "string": "Illustrazione 37",
-    "target": "f8fbc2"
+    "target": "cbb4a1"
   },
   {
-    "id": "379b4b",
+    "id": "b853b7",
     "string": "5. Depositi - Veladini",
-    "target": "a34ab7"
+    "target": "e16ac8"
   },
   {
-    "id": "379b4b",
+    "id": "b853b7",
     "string": "5. Depositi - Veladini",
-    "target": "a34ab7"
+    "target": "e16ac8"
   },
   {
-    "id": "dcd9f0",
+    "id": "a1e583",
     "string": "Carteggio.1844.1",
-    "target": "582b42"
+    "target": "18e9dd"
   },
   {
-    "id": "dcd9f0",
+    "id": "a1e583",
     "string": "Carteggio.1844.1",
-    "target": "582b42"
+    "target": "18e9dd"
   },
   {
-    "id": "692dd5",
+    "id": "dde57c",
     "string": "Illustrazione 10",
-    "target": "decd6c"
+    "target": "d9429b"
   },
   {
-    "id": "692dd5",
+    "id": "dde57c",
     "string": "Illustrazione 10",
-    "target": "decd6c"
+    "target": "d9429b"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1842.22",
-    "target": "bceab7"
+    "target": "452e8b"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1842.22",
-    "target": "bceab7"
+    "target": "452e8b"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1842.1",
-    "target": "010126"
+    "target": "078e4e"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1842.1",
-    "target": "010126"
+    "target": "078e4e"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1842.7",
-    "target": "2df528"
+    "target": "51b256"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1842.7",
-    "target": "2df528"
+    "target": "51b256"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1844.7",
-    "target": "25ea6a"
+    "target": "d56b5a"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1844.7",
-    "target": "25ea6a"
+    "target": "d56b5a"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1849.1",
-    "target": "477144"
+    "target": "16a785"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1849.1",
-    "target": "477144"
+    "target": "16a785"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1850.7",
-    "target": "2e3e5b"
+    "target": "0e945a"
   },
   {
-    "id": "3506ae",
+    "id": "c5d265",
     "string": "Pozzi.petizioni.1850.7",
-    "target": "2e3e5b"
+    "target": "0e945a"
   },
   {
-    "id": "0ce427",
+    "id": "04db83",
     "string": "Spinelli.avvisi.1838.2",
-    "target": "371ce6"
+    "target": "2024dc"
   },
   {
-    "id": "0ce427",
+    "id": "04db83",
     "string": "Spinelli.avvisi.1838.2",
-    "target": "371ce6"
+    "target": "2024dc"
   },
   {
-    "id": "434e3e",
+    "id": "c8e5f4",
     "string": "Spinelli.avvisi.1846.2",
-    "target": "b6b37a"
+    "target": "36d072"
   },
   {
-    "id": "434e3e",
+    "id": "c8e5f4",
     "string": "Spinelli.avvisi.1846.2",
-    "target": "b6b37a"
+    "target": "36d072"
   },
   {
-    "id": "434e3e",
+    "id": "c8e5f4",
     "string": "Spinelli.avvisi.1851.4",
-    "target": "f201fa"
+    "target": "c97634"
   },
   {
-    "id": "434e3e",
+    "id": "c8e5f4",
     "string": "Spinelli.avvisi.1851.4",
-    "target": "f201fa"
+    "target": "c97634"
   },
   {
-    "id": "4e9c3d",
+    "id": "7d6b5b",
     "string": "Documenti.vari.1841.1",
-    "target": "a167e8"
+    "target": "302ac1"
   },
   {
-    "id": "4e9c3d",
+    "id": "7d6b5b",
     "string": "Documenti.vari.1841.1",
-    "target": "a167e8"
+    "target": "302ac1"
   },
   {
-    "id": "a98834",
+    "id": "14406c",
     "string": "Pozzi.petizioni.1850.3",
-    "target": "e4a7aa"
+    "target": "036627"
   },
   {
-    "id": "a98834",
+    "id": "14406c",
     "string": "Pozzi.petizioni.1850.3",
-    "target": "e4a7aa"
+    "target": "036627"
   },
   {
-    "id": "887982",
+    "id": "3f1c0d",
     "string": "Pozzi.petizioni.1842.3",
-    "target": "56f629"
+    "target": "6a4f8e"
   },
   {
-    "id": "887982",
+    "id": "3f1c0d",
     "string": "Pozzi.petizioni.1842.3",
-    "target": "56f629"
+    "target": "6a4f8e"
   },
   {
-    "id": "887b50",
+    "id": "e0ca0c",
     "string": "Pozzi.avvisi.1837.1",
-    "target": "1f878a"
+    "target": "6a39f9"
   },
   {
-    "id": "887b50",
+    "id": "e0ca0c",
     "string": "Pozzi.avvisi.1837.1",
-    "target": "1f878a"
+    "target": "6a39f9"
   },
   {
-    "id": "d3ae92",
+    "id": "2a340e",
     "string": "Documenti.vari.1841.1",
-    "target": "a167e8"
+    "target": "302ac1"
   },
   {
-    "id": "d3ae92",
+    "id": "2a340e",
     "string": "Documenti.vari.1841.1",
-    "target": "a167e8"
+    "target": "302ac1"
   },
   {
-    "id": "a0a35d",
+    "id": "599f5a",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "a0a35d",
+    "id": "599f5a",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "995bcf",
+    "id": "6e54ee",
     "string": "Illustrazione 17",
-    "target": "c0bc1c"
+    "target": "3a5460"
   },
   {
-    "id": "995bcf",
+    "id": "6e54ee",
     "string": "Illustrazione 17",
-    "target": "c0bc1c"
+    "target": "3a5460"
   },
   {
-    "id": "52f871",
+    "id": "f9f32a",
     "string": "Illustrazione 18",
-    "target": "47fbe8"
+    "target": "61518b"
   },
   {
-    "id": "52f871",
+    "id": "f9f32a",
     "string": "Illustrazione 18",
-    "target": "47fbe8"
+    "target": "61518b"
   },
   {
-    "id": "870459",
+    "id": "72af63",
     "string": "6. Cataloghi - Catalogo Euterpe Ticinese",
-    "target": "0953d4"
+    "target": "ad4179"
   },
   {
-    "id": "870459",
+    "id": "72af63",
     "string": "6. Cataloghi - Catalogo Euterpe Ticinese",
-    "target": "0953d4"
+    "target": "ad4179"
   },
   {
-    "id": "ac2374",
+    "id": "877213",
     "string": "Documenti.vari.1869.1",
-    "target": "c655ea"
+    "target": "510cd6"
   },
   {
-    "id": "ac2374",
+    "id": "877213",
     "string": "Documenti.vari.1869.1",
-    "target": "c655ea"
+    "target": "510cd6"
   },
   {
-    "id": "dd9394",
+    "id": "86f8e9",
     "string": "Illustrazione 13",
-    "target": "b0e0ef"
+    "target": "35c0f8"
   },
   {
-    "id": "dd9394",
+    "id": "86f8e9",
     "string": "Illustrazione 13",
-    "target": "b0e0ef"
+    "target": "35c0f8"
   },
   {
-    "id": "60e9eb",
+    "id": "f106d5",
     "string": "Documenti.vari.1869.1",
-    "target": "c655ea"
+    "target": "510cd6"
   },
   {
-    "id": "60e9eb",
+    "id": "f106d5",
     "string": "Documenti.vari.1869.1",
-    "target": "c655ea"
+    "target": "510cd6"
   },
   {
-    "id": "821199",
+    "id": "5bd9ec",
     "string": "Documenti.vari.1870.2",
-    "target": "76fc82"
+    "target": "3020c2"
   },
   {
-    "id": "821199",
+    "id": "5bd9ec",
     "string": "Documenti.vari.1870.2",
-    "target": "76fc82"
+    "target": "3020c2"
   },
   {
-    "id": "821199",
+    "id": "5bd9ec",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "821199",
+    "id": "5bd9ec",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "867a6d",
+    "id": "c88639",
     "string": "Illustrazione 19",
-    "target": "633d7b"
+    "target": "fe8290"
   },
   {
-    "id": "867a6d",
+    "id": "c88639",
     "string": "Illustrazione 19",
-    "target": "633d7b"
+    "target": "fe8290"
   },
   {
-    "id": "62326c",
+    "id": "e1fe43",
     "string": "Illustrazione 20",
-    "target": "a21bb0"
+    "target": "731a31"
   },
   {
-    "id": "62326c",
+    "id": "e1fe43",
     "string": "Illustrazione 20",
-    "target": "a21bb0"
+    "target": "731a31"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "Studio generale",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "Cronologia",
-    "target": "af46d6"
+    "target": "ce94c7"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "Carteggio",
-    "target": "7d947b"
+    "target": "492765"
   },
   {
-    "id": "76ee86",
-    "string": "Studio generale",
-    "target": "24c46a"
-  },
-  {
-    "id": "76ee86",
-    "string": "Cronologia",
-    "target": "af46d6"
-  },
-  {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "6. Cataloghi",
-    "target": "267379"
+    "target": "a94eea"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "6. Cataloghi",
-    "target": "267379"
+    "target": "a94eea"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "7. Petizioni",
-    "target": "ee45e2"
+    "target": "992da5"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "7. Petizioni",
-    "target": "ee45e2"
+    "target": "992da5"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "8. Avvisi musicali",
-    "target": "b96991"
+    "target": "efad38"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "8. Avvisi musicali",
-    "target": "b96991"
+    "target": "efad38"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "9. Documenti vari",
-    "target": "fb5d65"
+    "target": "88c891"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "9. Documenti vari",
-    "target": "fb5d65"
+    "target": "88c891"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "10. Illustrazioni",
-    "target": "54f009"
+    "target": "dcd98e"
   },
   {
-    "id": "76ee86",
+    "id": "2693f8",
     "string": "10. Illustrazioni",
-    "target": "54f009"
+    "target": "dcd98e"
   },
   {
-    "id": "74bf07",
+    "id": "a2ee59",
     "string": "Carteggio.1826.2",
-    "target": "c826af"
+    "target": "50330e"
   },
   {
-    "id": "79b294",
+    "id": "b9081c",
     "string": "Illustrazione 31",
-    "target": "2b7098"
+    "target": "d16ae7"
   },
   {
-    "id": "521376",
+    "id": "da943f",
     "string": "Carteggio.1826.2",
-    "target": "c826af"
+    "target": "50330e"
   },
   {
-    "id": "90c535",
+    "id": "c1ec78",
     "string": "Carteggio.1832.2",
-    "target": "d1fc2f"
+    "target": "05745c"
   },
   {
-    "id": "90c535",
+    "id": "c1ec78",
     "string": "Documenti.vari.1831.2",
-    "target": "3fe2a1"
+    "target": "8b6403"
   },
   {
-    "id": "1adaf4",
+    "id": "1c17b8",
     "string": "Documenti.vari.1831.4",
-    "target": "6eecfa"
+    "target": "7ff8c7"
   },
   {
-    "id": "ece7fc",
+    "id": "40a65e",
     "string": "Carteggio.1831.2",
-    "target": "79cac4"
+    "target": "ff08c7"
   },
   {
-    "id": "cb2618",
+    "id": "c877a2",
     "string": "Documenti.vari.1833.1",
-    "target": "fd3d39"
+    "target": "3b2ca5"
   },
   {
-    "id": "cb2618",
+    "id": "c877a2",
     "string": "Illustrazione 21",
-    "target": "ede32f"
+    "target": "85fbb9"
   },
   {
-    "id": "cb2618",
+    "id": "c877a2",
     "string": "Illustrazione 32",
-    "target": "88d246"
+    "target": "08fab7"
   },
   {
-    "id": "02d2ec",
+    "id": "013d68",
     "string": "Documenti.vari.1833.1",
-    "target": "fd3d39"
+    "target": "3b2ca5"
   },
   {
-    "id": "4c78c5",
+    "id": "7167ff",
     "string": "Carteggio.1835.3",
-    "target": "191bf3"
+    "target": "e80cff"
   },
   {
-    "id": "f0b585",
+    "id": "f9d62d",
     "string": "Carteggio.1831.2",
-    "target": "79cac4"
+    "target": "ff08c7"
   },
   {
-    "id": "47e864",
+    "id": "fcdbfa",
     "string": "Carteggio.1833.1",
-    "target": "3d4f35"
+    "target": "5cb9bc"
   },
   {
-    "id": "47e864",
+    "id": "fcdbfa",
     "string": "Carteggio.1833.2",
-    "target": "aa7787"
+    "target": "ba7c6a"
   },
   {
-    "id": "f6b21b",
+    "id": "5f3c30",
     "string": "Carteggio.1836.1",
-    "target": "21c456"
+    "target": "5c8686"
   },
   {
-    "id": "b1542d",
+    "id": "b9ad72",
     "string": "Documenti.vari.1833.1",
-    "target": "fd3d39"
+    "target": "3b2ca5"
   },
   {
-    "id": "fba839",
+    "id": "5b0c32",
     "string": "Documenti.vari.1840.1",
-    "target": "2404b3"
+    "target": "d87400"
   },
   {
-    "id": "fc2454",
+    "id": "0a4887",
     "string": "Documenti.vari.1835.1",
-    "target": "f9d466"
+    "target": "dd2655"
   },
   {
-    "id": "320681",
+    "id": "aead1f",
     "string": "5. Depositi - Pozzi",
-    "target": "7537bd"
+    "target": "837bc8"
   },
   {
-    "id": "2abdb3",
+    "id": "ae8e11",
     "string": "Documenti.vari.1842.1",
-    "target": "090da9"
+    "target": "428c0a"
   },
   {
-    "id": "ec214c",
+    "id": "f233d6",
     "string": "7. Petizioni - Pozzi",
-    "target": "341d49"
+    "target": "74f716"
   },
   {
-    "id": "4f2eda",
+    "id": "4d87d2",
     "string": "Carteggio.1836.5",
-    "target": "7efd7e"
+    "target": "ca4055"
   },
   {
-    "id": "8b01b2",
+    "id": "6ac230",
     "string": "Pozzi.avvisi.1837.1–4",
-    "target": "1f878a"
+    "target": "6a39f9"
   },
   {
-    "id": "8b01b2",
+    "id": "6ac230",
     "string": "7. Petizioni - Pozzi",
-    "target": "341d49"
+    "target": "74f716"
   },
   {
-    "id": "33a83e",
+    "id": "9fe083",
     "string": "Carteggio.1838.1",
-    "target": "f83e55"
+    "target": "2ff894"
   },
   {
-    "id": "33a83e",
+    "id": "9fe083",
     "string": "Carteggio.1842.2",
-    "target": "8618e1"
+    "target": "261db3"
   },
   {
-    "id": "2af71b",
+    "id": "607a67",
     "string": "Pozzi.avvisi.1837.2",
-    "target": "73e34b"
+    "target": "c8d54f"
   },
   {
-    "id": "51b7a7",
+    "id": "0a25c1",
     "string": "Pozzi.petizioni.1842.14",
-    "target": "a5155d"
+    "target": "9abd48"
   },
   {
-    "id": "585dc6",
+    "id": "211c7c",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "104e62",
+    "id": "142f79",
     "string": "Pozzi.avvisi.1837.1",
-    "target": "1f878a"
+    "target": "6a39f9"
   },
   {
-    "id": "104e62",
+    "id": "142f79",
     "string": "Pozzi.avvisi.1837.4",
-    "target": "afc0b3"
+    "target": "ce0742"
   },
   {
-    "id": "104e62",
+    "id": "142f79",
     "string": "Pozzi.avvisi.1841.1",
-    "target": "f7f397"
+    "target": "3cb715"
   },
   {
-    "id": "e94ac3",
+    "id": "6bb5be",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "3d2074",
+    "id": "c0c48f",
     "string": "5. Depositi - Pozzi",
-    "target": "7537bd"
+    "target": "837bc8"
   },
   {
-    "id": "6bc4b4",
+    "id": "d6816c",
     "string": "Illustrazione 6",
-    "target": "0d7e50"
+    "target": "48d6e4"
   },
   {
-    "id": "6bc4b4",
+    "id": "d6816c",
     "string": "Pozzi.avvisi.1841.1",
-    "target": "f7f397"
+    "target": "3cb715"
   },
   {
-    "id": "7e9592",
+    "id": "82991a",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "c7d46f",
+    "id": "dfb6b7",
     "string": "Documenti.vari.1841.1",
-    "target": "a167e8"
+    "target": "302ac1"
   },
   {
-    "id": "6317e0",
+    "id": "b14bb6",
     "string": "Pozzi.petizioni.1842.1",
-    "target": "010126"
+    "target": "078e4e"
   },
   {
-    "id": "19ad14",
+    "id": "bdb836",
     "string": "Pozzi.petizioni.1842.1",
-    "target": "010126"
+    "target": "078e4e"
   },
   {
-    "id": "cb8f3d",
+    "id": "a35357",
     "string": "Illustrazione 6",
-    "target": "0d7e50"
+    "target": "48d6e4"
   },
   {
-    "id": "cb8f3d",
+    "id": "a35357",
     "string": "Illustrazione 23",
-    "target": "d25b8b"
+    "target": "3b69cf"
   },
   {
-    "id": "ea30f2",
+    "id": "c6d3ca",
     "string": "Carteggio.1841.1",
-    "target": "c0a8b0"
+    "target": "2ae70b"
   },
   {
-    "id": "24b87b",
+    "id": "5040b1",
     "string": "Carteggio.1842.3",
-    "target": "4260c0"
+    "target": "f032a1"
   },
   {
-    "id": "24b87b",
+    "id": "5040b1",
     "string": "1843.1",
-    "target": "f8fa4f"
+    "target": "b6f284"
   },
   {
-    "id": "24b87b",
+    "id": "5040b1",
     "string": "1844.1",
-    "target": "582b42"
+    "target": "18e9dd"
   },
   {
-    "id": "24b87b",
+    "id": "5040b1",
     "string": "Carteggio.1828.1",
-    "target": "0a1140"
+    "target": "d15959"
   },
   {
-    "id": "b01a94",
+    "id": "fb036e",
     "string": "Pozzi.petizioni.1842.13",
-    "target": "e4dc48"
+    "target": "9b17da"
   },
   {
-    "id": "b01a94",
+    "id": "fb036e",
     "string": "14",
-    "target": "830609"
+    "target": "9ccb8c"
   },
   {
-    "id": "b01a94",
+    "id": "fb036e",
     "string": "15",
-    "target": "386ee0"
+    "target": "97e1e0"
   },
   {
-    "id": "b01a94",
+    "id": "fb036e",
     "string": "16",
-    "target": "9d2d46"
+    "target": "85057e"
   },
   {
-    "id": "b01a94",
+    "id": "fb036e",
     "string": " 18",
-    "target": "b34739"
+    "target": "b791f4"
   },
   {
-    "id": "53db38",
+    "id": "b0ab8d",
     "string": "Illustrazione 33",
-    "target": "4baecd"
+    "target": "536b14"
   },
   {
-    "id": "68c3e6",
+    "id": "29f961",
     "string": "Carteggio.1842.3",
-    "target": "4260c0"
+    "target": "f032a1"
   },
   {
-    "id": "68c3e6",
+    "id": "29f961",
     "string": "Carteggio.1844.2",
-    "target": "652b5b"
+    "target": "48756a"
   },
   {
-    "id": "9209ee",
+    "id": "765543",
     "string": "Pozzi.avvisi.1837.1",
-    "target": "1f878a"
+    "target": "6a39f9"
   },
   {
-    "id": "9209ee",
+    "id": "765543",
     "string": " 2",
-    "target": "73e34b"
+    "target": "c8d54f"
   },
   {
-    "id": "9209ee",
+    "id": "765543",
     "string": " 3",
-    "target": "aa6e19"
+    "target": "f5bbf8"
   },
   {
-    "id": "9209ee",
+    "id": "765543",
     "string": "Pozzi.avvisi.1837.4",
-    "target": "afc0b3"
+    "target": "ce0742"
   },
   {
-    "id": "9209ee",
+    "id": "765543",
     "string": "Pozzi.avvisi.1841.1",
-    "target": "f7f397"
+    "target": "3cb715"
   },
   {
-    "id": "0f1213",
+    "id": "602305",
     "string": "Carteggio.1828.1",
-    "target": "0a1140"
+    "target": "d15959"
   },
   {
-    "id": "24332f",
+    "id": "206680",
     "string": "Carteggio.1843.3",
-    "target": "25f98a"
+    "target": "6c0ea9"
   },
   {
-    "id": "24332f",
+    "id": "206680",
     "string": "Carteggio.1831.1",
-    "target": "2e6b7d"
+    "target": "72ed8b"
   },
   {
-    "id": "2482f6",
+    "id": "aa95b5",
     "string": "Carteggio.1844.1",
-    "target": "582b42"
+    "target": "18e9dd"
   },
   {
-    "id": "813e2b",
+    "id": "f52b3e",
     "string": "Carteggio.1844.2",
-    "target": "652b5b"
+    "target": "48756a"
   },
   {
-    "id": "c188b9",
+    "id": "8a59b3",
     "string": "Carteggio.1844.5",
-    "target": "102a5d"
+    "target": "c6b554"
   },
   {
-    "id": "9ca704",
+    "id": "35cde8",
     "string": "Carteggio.1844.4",
-    "target": "90de9e"
+    "target": "f3f322"
   },
   {
-    "id": "d64b3a",
+    "id": "e28e95",
     "string": "5. Depositi - Pozzi",
-    "target": "7537bd"
+    "target": "837bc8"
   },
   {
-    "id": "0165d2",
+    "id": "3e5a0f",
     "string": "Carteggio.1852.2–6",
-    "target": "6683f5"
+    "target": "e94750"
   },
   {
-    "id": "9a31d1",
+    "id": "6d0f7a",
     "string": "Carteggio.1849.4",
-    "target": "7205ca"
+    "target": "8587b3"
   },
   {
-    "id": "dcbcd1",
+    "id": "c1f8ef",
     "string": "Carteggio.1850.2a-b",
-    "target": "55472f"
+    "target": "e6689a"
   },
   {
-    "id": "c80bc0",
+    "id": "d3b270",
     "string": "Pozzi.petizioni.1849.1",
-    "target": "477144"
+    "target": "16a785"
   },
   {
-    "id": "c80bc0",
+    "id": "d3b270",
     "string": "Pozzi.petizioni.1849.2",
-    "target": "8dd3bb"
+    "target": "22beb8"
   },
   {
-    "id": "c80bc0",
+    "id": "d3b270",
     "string": "Pozzi.petizioni.1850.8",
-    "target": "4aadc0"
+    "target": "5580ab"
   },
   {
-    "id": "f79ed3",
+    "id": "d853e4",
     "string": "Illustrazione 25a-c",
-    "target": "85b312"
+    "target": "28536b"
   },
   {
-    "id": "935e0e",
+    "id": "79b1c9",
     "string": "Pozzi.petizioni.1849.1",
-    "target": "477144"
+    "target": "16a785"
   },
   {
-    "id": "935e0e",
+    "id": "79b1c9",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "935e0e",
+    "id": "79b1c9",
     "string": "Carteggio.1844.2",
-    "target": "652b5b"
+    "target": "48756a"
   },
   {
-    "id": "41d7d9",
+    "id": "f87cc6",
     "string": "Carteggio.1848.1",
-    "target": "3ebab4"
+    "target": "0591d7"
   },
   {
-    "id": "cda253",
+    "id": "4e6add",
     "string": "Pozzi.petizioni.1849.1",
-    "target": "477144"
+    "target": "16a785"
   },
   {
-    "id": "a28b10",
+    "id": "d6f1f2",
     "string": "Documenti.vari.1850.2",
-    "target": "39d5b5"
+    "target": "c75bf7"
   },
   {
-    "id": "e4c74e",
+    "id": "b97634",
     "string": "Carteggio.1850.2b",
-    "target": "dc7dc5"
+    "target": "97a841"
   },
   {
-    "id": "e4c74e",
+    "id": "b97634",
     "string": "Illustrazione 25d",
-    "target": "604ce8"
+    "target": "c2d8be"
   },
   {
-    "id": "05fd4d",
+    "id": "88423f",
     "string": "Carteggio.1855.3",
-    "target": "e3e325"
+    "target": "1d54a4"
   },
   {
-    "id": "129c29",
+    "id": "3d1776",
     "string": "Carteggio.1844.2",
-    "target": "652b5b"
+    "target": "48756a"
   },
   {
-    "id": "f920f7",
+    "id": "30aafb",
     "string": "Illustrazione 25e",
-    "target": "604ce8"
+    "target": "c2d8be"
   },
   {
-    "id": "834d2f",
+    "id": "7d0e45",
     "string": "Pozzi.petizioni.1850.8",
-    "target": "4aadc0"
+    "target": "5580ab"
   },
   {
-    "id": "a53a76",
+    "id": "fe4f4f",
     "string": "Illustrazione 25",
-    "target": "85b312"
+    "target": "28536b"
   },
   {
-    "id": "bb19a4",
+    "id": "fe9ca3",
     "string": "Pozzi.petizioni.1850.8",
-    "target": "4aadc0"
+    "target": "5580ab"
   },
   {
-    "id": "aa061d",
+    "id": "f94829",
     "string": "Documenti.vari.1850.2",
-    "target": "39d5b5"
+    "target": "c75bf7"
   },
   {
-    "id": "a07fee",
+    "id": "337e2a",
     "string": "Carteggio.1849.2",
-    "target": "1e4fe3"
+    "target": "f4f1b3"
   },
   {
-    "id": "a07fee",
+    "id": "337e2a",
     "string": "Documenti.vari.1850.1",
-    "target": "835104"
+    "target": "fdaff2"
   },
   {
-    "id": "bfd8ab",
+    "id": "bd8d59",
     "string": "Documenti.vari.1858.1",
-    "target": "492024"
+    "target": "d8d4f0"
   },
   {
-    "id": "dc6635",
+    "id": "20e6f5",
     "string": "Carteggio.1852.5",
-    "target": "9f2f5c"
+    "target": "3ec738"
   },
   {
-    "id": "25e107",
+    "id": "409ea2",
     "string": "Carteggio.1849.1; Carteggio.1849.3",
-    "target": "676e8f"
+    "target": "0b5447"
   },
   {
-    "id": "73b460",
+    "id": "2dca9c",
     "string": "Carteggio.1836.8",
-    "target": "b95fb0"
+    "target": "226ac1"
   },
   {
-    "id": "2ecc88",
+    "id": "5cc832",
     "string": "Carteggio.1852.4",
-    "target": "538947"
+    "target": "e59392"
   },
   {
-    "id": "646682",
+    "id": "4bc514",
     "string": "Carteggio.1843.2",
-    "target": "36b39e"
+    "target": "da5ea2"
   },
   {
-    "id": "87c9c0",
+    "id": "5581c1",
     "string": "Carteggio.1855.4",
-    "target": "ffb01d"
+    "target": "a385ef"
   },
   {
-    "id": "007cc3",
+    "id": "c94153",
     "string": "Carteggio.1853.5",
-    "target": "1f4cfe"
+    "target": "7a17e2"
   },
   {
-    "id": "ce538b",
+    "id": "a99a92",
     "string": "Carteggio.1852.1",
-    "target": "af650f"
+    "target": "a60b2e"
   },
   {
-    "id": "a5df4a",
+    "id": "baa641",
     "string": "Illustrazione 34",
-    "target": "72ef41"
+    "target": "639eeb"
   },
   {
-    "id": "0111a3",
+    "id": "e1e0c5",
     "string": "Carteggio.1852.1",
-    "target": "af650f"
+    "target": "a60b2e"
   },
   {
-    "id": "0111a3",
+    "id": "e1e0c5",
     "string": "Documenti.vari.1853.1",
-    "target": "e08169"
+    "target": "7a7731"
   },
   {
-    "id": "4ff0ff",
+    "id": "ecfdad",
     "string": "Documenti.vari.1870.1",
-    "target": "b21fe3"
+    "target": "19727f"
   },
   {
-    "id": "9d19ba",
+    "id": "9a886b",
     "string": "Carteggio.1835.2",
-    "target": "3fd0fd"
+    "target": "32b8df"
   },
   {
-    "id": "9d7f3f",
+    "id": "fd3a70",
     "string": "5. Depositi - Pozzi",
-    "target": "7537bd"
+    "target": "837bc8"
   },
   {
-    "id": "681b5e",
+    "id": "a555fb",
     "string": "Carteggio.1855.4",
-    "target": "ffb01d"
+    "target": "a385ef"
   },
   {
-    "id": "85cdee",
+    "id": "55f7f7",
     "string": "Carteggio.1831.2",
-    "target": "79cac4"
+    "target": "ff08c7"
   },
   {
-    "id": "85cdee",
+    "id": "55f7f7",
     "string": "Carteggio.1833.1",
-    "target": "3d4f35"
+    "target": "5cb9bc"
   },
   {
-    "id": "a7c721",
+    "id": "c2dd4d",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "a6f737",
+    "id": "4204eb",
     "string": "Illustrazione 35",
-    "target": "a24615"
+    "target": "2fb2a3"
   },
   {
-    "id": "0dd98e",
+    "id": "6ce52c",
     "string": "Carteggio.1855.1",
-    "target": "9271f1"
+    "target": "edddc4"
   },
   {
-    "id": "56c509",
+    "id": "0376c7",
     "string": "Carteggio.1831.1",
-    "target": "2e6b7d"
+    "target": "72ed8b"
   },
   {
-    "id": "56c509",
+    "id": "0376c7",
     "string": "Carteggio.1831.1",
-    "target": "2e6b7d"
+    "target": "72ed8b"
   },
   {
-    "id": "56c509",
+    "id": "0376c7",
     "string": "Carteggio.1831.2",
-    "target": "79cac4"
+    "target": "ff08c7"
   },
   {
-    "id": "56c509",
+    "id": "0376c7",
     "string": "Carteggio.1831.2",
-    "target": "79cac4"
+    "target": "ff08c7"
   },
   {
-    "id": "5f657b",
+    "id": "f6db6c",
     "string": "Documenti.vari.1842.1",
-    "target": "090da9"
+    "target": "428c0a"
   },
   {
-    "id": "5f657b",
+    "id": "f6db6c",
     "string": "Documenti.vari.1842.1",
-    "target": "090da9"
+    "target": "428c0a"
   },
   {
-    "id": "685f9a",
+    "id": "f9abaf",
     "string": "Carteggio.1853.2",
-    "target": "8552ad"
+    "target": "2e17e4"
   },
   {
-    "id": "685f9a",
+    "id": "f9abaf",
     "string": "Carteggio.1853.2",
-    "target": "8552ad"
+    "target": "2e17e4"
   },
   {
-    "id": "2ca50d",
+    "id": "68293c",
     "string": "Illustrazione 22",
-    "target": "8d58ed"
+    "target": "33e540"
   },
   {
-    "id": "2ca50d",
+    "id": "68293c",
     "string": "Illustrazione 22",
-    "target": "8d58ed"
+    "target": "33e540"
   },
   {
-    "id": "daea90",
+    "id": "133ef6",
     "string": "Carteggio.1836.2–6",
-    "target": "361f1f"
+    "target": "6c2c30"
   },
   {
-    "id": "daea90",
+    "id": "133ef6",
     "string": "Carteggio.1836.2–6",
-    "target": "361f1f"
+    "target": "6c2c30"
   },
   {
-    "id": "69a098",
+    "id": "ef8c16",
     "string": "Pozzi.petizioni.1842.14",
-    "target": "a5155d"
+    "target": "9abd48"
   },
   {
-    "id": "69a098",
+    "id": "ef8c16",
     "string": "Pozzi.petizioni.1842.14",
-    "target": "a5155d"
+    "target": "9abd48"
   },
   {
-    "id": "4b40b4",
+    "id": "47c84c",
     "string": "Pozzi.petizioni.1844.4",
-    "target": "11aedb"
+    "target": "584ca4"
   },
   {
-    "id": "4b40b4",
+    "id": "47c84c",
     "string": "Pozzi.petizioni.1844.4",
-    "target": "11aedb"
+    "target": "584ca4"
   },
   {
-    "id": "246a89",
+    "id": "b84fdb",
     "string": "5. Depositi - Pozzi",
-    "target": "7537bd"
+    "target": "837bc8"
   },
   {
-    "id": "246a89",
+    "id": "b84fdb",
     "string": "5. Depositi - Pozzi",
-    "target": "7537bd"
+    "target": "837bc8"
   },
   {
-    "id": "246a89",
+    "id": "b84fdb",
     "string": "Carteggio.1843.3",
-    "target": "25f98a"
+    "target": "6c0ea9"
   },
   {
-    "id": "246a89",
+    "id": "b84fdb",
     "string": "Carteggio.1843.3",
-    "target": "25f98a"
+    "target": "6c0ea9"
   },
   {
-    "id": "fcbce6",
+    "id": "bafc9f",
     "string": "Carteggio.1848.2",
-    "target": "4ee788"
+    "target": "78c992"
   },
   {
-    "id": "fcbce6",
+    "id": "bafc9f",
     "string": "Carteggio.1848.2",
-    "target": "4ee788"
+    "target": "78c992"
   },
   {
-    "id": "fcbce6",
+    "id": "bafc9f",
     "string": "Carteggio.1849.4",
-    "target": "7205ca"
+    "target": "8587b3"
   },
   {
-    "id": "fcbce6",
+    "id": "bafc9f",
     "string": "Carteggio.1849.4",
-    "target": "7205ca"
+    "target": "8587b3"
   },
   {
-    "id": "852a03",
+    "id": "349363",
     "string": "Pozzi.petizioni.1849.1",
-    "target": "477144"
+    "target": "16a785"
   },
   {
-    "id": "852a03",
+    "id": "349363",
     "string": "Pozzi.petizioni.1849.1",
-    "target": "477144"
+    "target": "16a785"
   },
   {
-    "id": "852a03",
+    "id": "349363",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "852a03",
+    "id": "349363",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "6da895",
+    "id": "fe603b",
     "string": "Pozzi.petizioni.1849.3",
-    "target": "0bcd64"
+    "target": "40b30e"
   },
   {
-    "id": "6da895",
+    "id": "fe603b",
     "string": "Pozzi.petizioni.1849.3",
-    "target": "0bcd64"
+    "target": "40b30e"
   },
   {
-    "id": "f94b10",
+    "id": "5ffa08",
     "string": "Carteggio.1844.2",
-    "target": "652b5b"
+    "target": "48756a"
   },
   {
-    "id": "f94b10",
+    "id": "5ffa08",
     "string": "Carteggio.1844.2",
-    "target": "652b5b"
+    "target": "48756a"
   },
   {
-    "id": "f94b10",
+    "id": "5ffa08",
     "string": "Pozzi.petizioni.1850.3",
-    "target": "e4a7aa"
+    "target": "036627"
   },
   {
-    "id": "f94b10",
+    "id": "5ffa08",
     "string": "Pozzi.petizioni.1850.3",
-    "target": "e4a7aa"
+    "target": "036627"
   },
   {
-    "id": "494ed0",
+    "id": "3b98b3",
     "string": "Carteggio.1836.1",
-    "target": "21c456"
+    "target": "5c8686"
   },
   {
-    "id": "494ed0",
+    "id": "3b98b3",
     "string": "Carteggio.1836.1",
-    "target": "21c456"
+    "target": "5c8686"
   },
   {
-    "id": "e62a7c",
+    "id": "4f2dc0",
     "string": "Documenti.vari.1850.2",
-    "target": "39d5b5"
+    "target": "c75bf7"
   },
   {
-    "id": "e62a7c",
+    "id": "4f2dc0",
     "string": "Documenti.vari.1850.2",
-    "target": "39d5b5"
+    "target": "c75bf7"
   },
   {
-    "id": "e62a7c",
+    "id": "4f2dc0",
     "string": "Carteggio.1850.1",
-    "target": "260516"
+    "target": "4c6a88"
   },
   {
-    "id": "e62a7c",
+    "id": "4f2dc0",
     "string": "Carteggio.1850.1",
-    "target": "260516"
+    "target": "4c6a88"
   },
   {
-    "id": "22a7d8",
+    "id": "81e6d8",
     "string": "Carteggio.1843.3",
-    "target": "25f98a"
+    "target": "6c0ea9"
   },
   {
-    "id": "22a7d8",
+    "id": "81e6d8",
     "string": "Carteggio.1843.3",
-    "target": "25f98a"
+    "target": "6c0ea9"
   },
   {
-    "id": "daf87c",
+    "id": "149f44",
     "string": "7. Petizioni - Pozzi",
-    "target": "341d49"
+    "target": "74f716"
   },
   {
-    "id": "daf87c",
+    "id": "149f44",
     "string": "7. Petizioni - Pozzi",
-    "target": "341d49"
+    "target": "74f716"
   },
   {
-    "id": "f8cce1",
+    "id": "fe302e",
     "string": "Illustrazione 6",
-    "target": "0d7e50"
+    "target": "48d6e4"
   },
   {
-    "id": "f8cce1",
+    "id": "fe302e",
     "string": "Illustrazione 6",
-    "target": "0d7e50"
+    "target": "48d6e4"
   },
   {
-    "id": "f8cce1",
+    "id": "fe302e",
     "string": " 25",
-    "target": "85b312"
+    "target": "28536b"
   },
   {
-    "id": "122db5",
+    "id": "a4bf7d",
     "string": "Illustrazione 6",
-    "target": "0d7e50"
+    "target": "48d6e4"
   },
   {
-    "id": "122db5",
+    "id": "a4bf7d",
     "string": "Illustrazione 6",
-    "target": "0d7e50"
+    "target": "48d6e4"
   },
   {
-    "id": "122db5",
+    "id": "a4bf7d",
     "string": " 24",
-    "target": "50c35f"
+    "target": "011578"
   },
   {
-    "id": "eccff6",
+    "id": "4ac13e",
     "string": "Illustrazione 26",
-    "target": "3d0b59"
+    "target": "8f1ef3"
   },
   {
-    "id": "eccff6",
+    "id": "4ac13e",
     "string": "Illustrazione 26",
-    "target": "3d0b59"
+    "target": "8f1ef3"
   },
   {
-    "id": "7e714e",
+    "id": "0f8177",
     "string": "8. Avvisi musicali - Pozzi",
-    "target": "b68688"
+    "target": "e4f433"
   },
   {
-    "id": "7e714e",
+    "id": "0f8177",
     "string": "8. Avvisi musicali - Pozzi",
-    "target": "b68688"
+    "target": "e4f433"
   },
   {
-    "id": "7a0c80",
+    "id": "1ca641",
     "string": "Pozzi.avvisi.1837.1",
-    "target": "1f878a"
+    "target": "6a39f9"
   },
   {
-    "id": "8448e1",
+    "id": "6a7a21",
     "string": "Pozzi.avvisi.1837.2",
-    "target": "73e34b"
+    "target": "c8d54f"
   },
   {
-    "id": "4679a2",
+    "id": "b2c1c2",
     "string": "Pozzi.avvisi.1837.3",
-    "target": "aa6e19"
+    "target": "f5bbf8"
   },
   {
-    "id": "e51e94",
+    "id": "933d92",
     "string": "Pozzi.avvisi.1837.4",
-    "target": "afc0b3"
+    "target": "ce0742"
   },
   {
-    "id": "9d2d46",
+    "id": "85057e",
     "string": "Pozzi.petizioni.1839.1",
-    "target": "eee435"
+    "target": "9c8f6e"
   },
   {
-    "id": "2a486d",
+    "id": "5b50bb",
     "string": "Pozzi.petizioni.1840.1",
-    "target": "9eb09d"
+    "target": "12ce05"
   },
   {
-    "id": "0cfdfd",
+    "id": "0faf2a",
     "string": "Pozzi.avvisi.1841.1",
-    "target": "f7f397"
+    "target": "3cb715"
   },
   {
-    "id": "ce66be",
+    "id": "c4ec23",
     "string": "Pozzi.petizioni.1841.1",
-    "target": "567c07"
+    "target": "8a85ed"
   },
   {
-    "id": "cf8323",
+    "id": "8f6ec6",
     "string": "Pozzi.petizioni.1842.1",
-    "target": "010126"
+    "target": "078e4e"
   },
   {
-    "id": "b891eb",
+    "id": "6d689d",
     "string": "Pozzi.petizioni.1842.2",
-    "target": "527913"
+    "target": "8be403"
   },
   {
-    "id": "83e7c0",
+    "id": "3ec0df",
     "string": "Pozzi.petizioni.1842.3",
-    "target": "56f629"
+    "target": "6a4f8e"
   },
   {
-    "id": "3af998",
+    "id": "d4727e",
     "string": "Pozzi.petizioni.1842.4",
-    "target": "4cf9e4"
+    "target": "a73b1c"
   },
   {
-    "id": "349c23",
+    "id": "9bf9ef",
     "string": "Pozzi.petizioni.1842.5",
-    "target": "64df7c"
+    "target": "172905"
   },
   {
-    "id": "bd1806",
+    "id": "30418e",
     "string": "Pozzi.petizioni.1842.6",
-    "target": "72bd28"
+    "target": "dc567f"
   },
   {
-    "id": "8cf44a",
+    "id": "bcb4da",
     "string": "Pozzi.petizioni.1842.7",
-    "target": "2df528"
+    "target": "51b256"
   },
   {
-    "id": "2ee3be",
+    "id": "cf58be",
     "string": "Pozzi.petizioni.1842.8",
-    "target": "4520a5"
+    "target": "42cf15"
   },
   {
-    "id": "c7422f",
+    "id": "d7df56",
     "string": "Pozzi.petizioni.1842.9",
-    "target": "6f64e8"
+    "target": "6e0b37"
   },
   {
-    "id": "7ce0d2",
+    "id": "a913f3",
     "string": "Pozzi.petizioni.1842.10",
-    "target": "2caf82"
+    "target": "a32b30"
   },
   {
-    "id": "eb425a",
+    "id": "bf16fc",
     "string": "Pozzi.petizioni.1842.11",
-    "target": "87ad0a"
+    "target": "aec948"
   },
   {
-    "id": "f52612",
+    "id": "e56d7e",
     "string": "Pozzi.petizioni.1842.12",
-    "target": "67d982"
+    "target": "a6937b"
   },
   {
-    "id": "f8b1d5",
+    "id": "7c52c4",
     "string": "Pozzi.petizioni.1842.13",
-    "target": "e4dc48"
+    "target": "9b17da"
   },
   {
-    "id": "bcb876",
+    "id": "e74f4b",
     "string": "Pozzi.petizioni.1842.14",
-    "target": "a5155d"
+    "target": "9abd48"
   },
   {
-    "id": "b7746f",
+    "id": "fc177d",
     "string": "Pozzi.petizioni.1842.15",
-    "target": "90a7ef"
+    "target": "1e05a5"
   },
   {
-    "id": "4b4d9f",
+    "id": "a2fac3",
     "string": "Pozzi.petizioni.1842.16",
-    "target": "95ff3f"
+    "target": "7f9e2a"
   },
   {
-    "id": "830197",
+    "id": "1ebe1d",
     "string": "Pozzi.petizioni.1842.17",
-    "target": "ee4b64"
+    "target": "1ff093"
   },
   {
-    "id": "077b55",
+    "id": "ba88d3",
     "string": "Pozzi.petizioni.1842.18",
-    "target": "b34739"
+    "target": "b791f4"
   },
   {
-    "id": "402512",
+    "id": "bb062c",
     "string": "Pozzi.petizioni.1842.19",
-    "target": "d7dc36"
+    "target": "6b54ab"
   },
   {
-    "id": "908521",
+    "id": "311f3d",
     "string": "Pozzi.petizioni.1842.20",
-    "target": "032963"
+    "target": "028f88"
   },
   {
-    "id": "028f5e",
+    "id": "184ab8",
     "string": "Pozzi.petizioni.1842.21",
-    "target": "8ee164"
+    "target": "efd507"
   },
   {
-    "id": "518b35",
+    "id": "ac5d2d",
     "string": "Pozzi.petizioni.1842.22",
-    "target": "bceab7"
+    "target": "452e8b"
   },
   {
-    "id": "3a0a87",
+    "id": "b3cec6",
     "string": "Pozzi.petizioni.1843.1",
-    "target": "cd5bca"
+    "target": "81f865"
   },
   {
-    "id": "0c78b2",
+    "id": "8f130c",
     "string": "Pozzi.petizioni.1843.2",
-    "target": "3b5266"
+    "target": "4ce0e1"
   },
   {
-    "id": "8882db",
+    "id": "4cf668",
     "string": "Pozzi.petizioni.1843.3",
-    "target": "4c3ec8"
+    "target": "caf2c8"
   },
   {
-    "id": "6a27cd",
+    "id": "d81eb8",
     "string": "Pozzi.petizioni.1843.4",
-    "target": "e0659d"
+    "target": "a955a9"
   },
   {
-    "id": "5b250b",
+    "id": "aeb4b8",
     "string": "Pozzi.petizioni.1843.5",
-    "target": "75c628"
+    "target": "75ec26"
   },
   {
-    "id": "c377b2",
+    "id": "633674",
     "string": "Pozzi.petizioni.1843.8",
-    "target": "31b407"
+    "target": "d7d99b"
   },
   {
-    "id": "27c13b",
+    "id": "aba024",
     "string": "Pozzi.petizioni.1843.9",
-    "target": "837807"
+    "target": "ea78b7"
   },
   {
-    "id": "6aa5bf",
+    "id": "b26c9d",
     "string": "Pozzi.petizioni.1843.10",
-    "target": "c1388b"
+    "target": "028b6b"
   },
   {
-    "id": "3a308d",
+    "id": "b25c59",
     "string": "Pozzi.petizioni.1843.11",
-    "target": "14ced5"
+    "target": "259be9"
   },
   {
-    "id": "b01cea",
+    "id": "37c8e4",
     "string": "Pozzi.petizioni.1843.12",
-    "target": "290f15"
+    "target": "b61cc9"
   },
   {
-    "id": "af8f6c",
+    "id": "b3b869",
     "string": "Pozzi.petizioni.1843.13",
-    "target": "4ac3ee"
+    "target": "3488ca"
   },
   {
-    "id": "86b5cf",
+    "id": "fe7636",
     "string": "Pozzi.petizioni.1843.14",
-    "target": "47beaa"
+    "target": "9f869f"
   },
   {
-    "id": "ec7abd",
+    "id": "fbb57d",
     "string": "Pozzi.petizioni.1843.15",
-    "target": "df22d8"
+    "target": "28bbee"
   },
   {
-    "id": "399eda",
+    "id": "fd624d",
     "string": "Pozzi.petizioni.1843.16",
-    "target": "19ddb1"
+    "target": "d74880"
   },
   {
-    "id": "f9b78d",
+    "id": "6656b5",
     "string": "Pozzi.petizioni.1843.17",
-    "target": "43b0fe"
+    "target": "1b07ac"
   },
   {
-    "id": "3fe92e",
+    "id": "ccb58e",
     "string": "Pozzi.petizioni.1843.18",
-    "target": "ea3d59"
+    "target": "d89534"
   },
   {
-    "id": "365e0c",
+    "id": "11c98c",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "82efe5",
+    "id": "8a7177",
     "string": "Pozzi.petizioni.1844.1",
-    "target": "98dc52"
+    "target": "0681fc"
   },
   {
-    "id": "38bc84",
+    "id": "0117ca",
     "string": "Pozzi.petizioni.1844.1",
-    "target": "98dc52"
+    "target": "0681fc"
   },
   {
-    "id": "318861",
+    "id": "5f8ba5",
     "string": "Pozzi.petizioni.1844.2",
-    "target": "9013e1"
+    "target": "acf993"
   },
   {
-    "id": "c3ead4",
+    "id": "0a6357",
     "string": "Pozzi.petizioni.1844.3",
-    "target": "43f86b"
+    "target": "19e934"
   },
   {
-    "id": "dcff32",
+    "id": "65da5e",
     "string": "Pozzi.petizioni.1844.4",
-    "target": "11aedb"
+    "target": "584ca4"
   },
   {
-    "id": "c83c36",
+    "id": "4b941a",
     "string": "Pozzi.petizioni.1844.5",
-    "target": "78e31c"
+    "target": "bbf65c"
   },
   {
-    "id": "9b86d7",
+    "id": "12ff5d",
     "string": "Pozzi.petizioni.1844.6",
-    "target": "d3f777"
+    "target": "5478fa"
   },
   {
-    "id": "57f526",
+    "id": "08bdb0",
     "string": "Pozzi.petizioni.1844.7",
-    "target": "25ea6a"
+    "target": "d56b5a"
   },
   {
-    "id": "e480b0",
+    "id": "41a8e1",
     "string": "Pozzi.petizioni.1844.8",
-    "target": "26d90f"
+    "target": "3eb53c"
   },
   {
-    "id": "0857e4",
+    "id": "37b6b2",
     "string": "Pozzi.petizioni.1845.1",
-    "target": "32a7d6"
+    "target": "5248e6"
   },
   {
-    "id": "3590d2",
+    "id": "094930",
     "string": "Pozzi.petizioni.1845.2",
-    "target": "9dc74b"
+    "target": "0705eb"
   },
   {
-    "id": "357d8f",
+    "id": "caeec9",
     "string": "Pozzi.petizioni.1845.3",
-    "target": "1287ed"
+    "target": "c401cb"
   },
   {
-    "id": "bbead0",
+    "id": "680530",
     "string": "Pozzi.petizioni.1845.4",
-    "target": "e7efed"
+    "target": "ffda4c"
   },
   {
-    "id": "906244",
+    "id": "a2e8e6",
     "string": "Pozzi.petizioni.1845.8",
-    "target": "2a6797"
+    "target": "18f222"
   },
   {
-    "id": "98af14",
+    "id": "aa66eb",
     "string": "Pozzi.petizioni.1845.9",
-    "target": "66ee87"
+    "target": "f20c10"
   },
   {
-    "id": "6923f3",
+    "id": "af3dab",
     "string": "Pozzi.petizioni.1845.10",
-    "target": "66e902"
+    "target": "79aa66"
   },
   {
-    "id": "54be4c",
+    "id": "49ef4d",
     "string": "Pozzi.petizioni.1845.11",
-    "target": "dc1f1c"
+    "target": "7c8a6d"
   },
   {
-    "id": "e22fa4",
+    "id": "f96596",
     "string": "Pozzi.petizioni.1845.12",
-    "target": "5aa889"
+    "target": "1048ed"
   },
   {
-    "id": "4f7e67",
+    "id": "9ee4fe",
     "string": "Pozzi.petizioni.1845.13",
-    "target": "d85204"
+    "target": "c51acf"
   },
   {
-    "id": "8779de",
+    "id": "60b901",
     "string": "Pozzi.petizioni.1846.1",
-    "target": "50ffd5"
+    "target": "453f02"
   },
   {
-    "id": "5f3f8c",
+    "id": "9f2240",
     "string": "Pozzi.petizioni.1846.2",
-    "target": "340154"
+    "target": "53f2ce"
   },
   {
-    "id": "1a177f",
+    "id": "9b97b2",
     "string": "Pozzi.petizioni.1846.3",
-    "target": "8abb37"
+    "target": "68bbe1"
   },
   {
-    "id": "aaf433",
+    "id": "73122a",
     "string": "Pozzi.petizioni.1846.4",
-    "target": "bd6db8"
+    "target": "0fa9e2"
   },
   {
-    "id": "c2804f",
+    "id": "11f3e9",
     "string": "Pozzi.petizioni.1847.1",
-    "target": "e8a674"
+    "target": "7f903e"
   },
   {
-    "id": "34439e",
+    "id": "29322e",
     "string": "Pozzi.petizioni.1847.2",
-    "target": "f6bd38"
+    "target": "b6a8e4"
   },
   {
-    "id": "2a7bc5",
+    "id": "868626",
     "string": "Pozzi.petizioni.1847.3",
-    "target": "eb1f22"
+    "target": "c7a55e"
   },
   {
-    "id": "510aec",
+    "id": "a21587",
     "string": "Pozzi.petizioni.1847.4",
-    "target": "824151"
+    "target": "1e8343"
   },
   {
-    "id": "6f4fea",
+    "id": "ab5621",
     "string": "Pozzi.petizioni.1847.5",
-    "target": "22ed9c"
+    "target": "7d8c82"
   },
   {
-    "id": "420fe8",
+    "id": "55fff1",
     "string": "Pozzi.petizioni.1847.6",
-    "target": "e93998"
+    "target": "c5cb3e"
   },
   {
-    "id": "6f92ba",
+    "id": "366179",
     "string": "Pozzi.petizioni.1848.1",
-    "target": "850908"
+    "target": "1579a4"
   },
   {
-    "id": "af9d16",
+    "id": "000d7c",
     "string": "Pozzi.petizioni.1848.2",
-    "target": "6e1d14"
+    "target": "b8cbfd"
   },
   {
-    "id": "c9cc6f",
+    "id": "bd6e55",
     "string": "Pozzi.petizioni.1848.3",
-    "target": "145368"
+    "target": "6dd75a"
   },
   {
-    "id": "cc4de9",
+    "id": "907202",
     "string": "Pozzi.petizioni.1849.1",
-    "target": "477144"
+    "target": "16a785"
   },
   {
-    "id": "76e4af",
+    "id": "a0bafd",
     "string": "Pozzi.petizioni.1849.2",
-    "target": "8dd3bb"
+    "target": "22beb8"
   },
   {
-    "id": "7111d7",
+    "id": "570b17",
     "string": "Pozzi.petizioni.1849.3",
-    "target": "0bcd64"
+    "target": "40b30e"
   },
   {
-    "id": "02e5e1",
+    "id": "937e90",
     "string": "Pozzi.petizioni.1849.4",
-    "target": "2fda61"
+    "target": "ef7ce0"
   },
   {
-    "id": "1ae432",
+    "id": "0e0409",
     "string": "Pozzi.petizioni.1849.5",
-    "target": "363a4b"
+    "target": "d6acef"
   },
   {
-    "id": "0734e5",
+    "id": "d19b99",
     "string": "Pozzi.petizioni.1849.6",
-    "target": "a168f1"
+    "target": "daf85b"
   },
   {
-    "id": "0a447f",
+    "id": "c2c4a3",
     "string": "Pozzi.petizioni.1849.7",
-    "target": "8e03d9"
+    "target": "ffd555"
   },
   {
-    "id": "c93d5e",
+    "id": "826ad4",
     "string": "Pozzi.petizioni.1850.1",
-    "target": "0212cc"
+    "target": "446ad3"
   },
   {
-    "id": "dd3908",
+    "id": "fbfd9d",
     "string": "Pozzi.petizioni.1850.2",
-    "target": "e0f4b4"
+    "target": "439262"
   },
   {
-    "id": "1499bf",
+    "id": "79ff57",
     "string": "Pozzi.petizioni.1850.3",
-    "target": "e4a7aa"
+    "target": "036627"
   },
   {
-    "id": "10928a",
+    "id": "359156",
     "string": "Pozzi.petizioni.1850.4",
-    "target": "70245c"
+    "target": "3486ff"
   },
   {
-    "id": "00be14",
+    "id": "ff1a84",
     "string": "Pozzi.petizioni.1850.5",
-    "target": "eced68"
+    "target": "d6257f"
   },
   {
-    "id": "33cf2f",
+    "id": "353e8a",
     "string": "Pozzi.petizioni.1850.6",
-    "target": "d95a87"
+    "target": "5ea68e"
   },
   {
-    "id": "178eae",
+    "id": "bffd01",
     "string": "Pozzi.petizioni.1850.7",
-    "target": "2e3e5b"
+    "target": "0e945a"
   },
   {
-    "id": "e65864",
+    "id": "008ae3",
     "string": "Pozzi.petizioni.1850.8",
-    "target": "4aadc0"
+    "target": "5580ab"
   },
   {
-    "id": "6f0425",
+    "id": "e061a7",
     "string": "Pozzi.petizioni.1851.1",
-    "target": "2b9cc9"
+    "target": "29685d"
   },
   {
-    "id": "ef7ab9",
+    "id": "f1f62a",
     "string": "Pozzi.petizioni.1851.2",
-    "target": "4cf376"
+    "target": "ae9b04"
   },
   {
-    "id": "c483ea",
+    "id": "b3f1d7",
     "string": "Pozzi.petizioni.1851.3",
-    "target": "b09f9b"
+    "target": "747963"
   },
   {
-    "id": "34211c",
+    "id": "d0eb3f",
     "string": "Pozzi.petizioni.1851.4",
-    "target": "9e9625"
+    "target": "579da8"
   },
   {
-    "id": "6f9627",
+    "id": "b5c1a6",
     "string": "Pozzi.petizioni.1851.5",
-    "target": "5ce6ab"
+    "target": "930767"
   },
   {
-    "id": "38c3d1",
+    "id": "fb60aa",
     "string": "Pozzi.petizioni.1851.6",
-    "target": "63d208"
+    "target": "64038d"
   },
   {
-    "id": "e25ad4",
+    "id": "7c1ac8",
     "string": "Pozzi.petizioni.1851.7",
-    "target": "e7fe8b"
+    "target": "fcc0a9"
   },
   {
-    "id": "8e28a4",
+    "id": "652d29",
     "string": "Pozzi.petizioni.1851.8",
-    "target": "3a3e94"
+    "target": "65b1e2"
   },
   {
-    "id": "0b22b5",
+    "id": "cd3a7b",
     "string": "Pozzi.petizioni.1853.1",
-    "target": "e28827"
+    "target": "d6cb74"
   },
   {
-    "id": "82bf2d",
+    "id": "14ca56",
     "string": "Pozzi.petizioni.1853.2",
-    "target": "9692fd"
+    "target": "3e4ead"
   },
   {
-    "id": "2fc3a6",
+    "id": "5c0e49",
     "string": "Pozzi.petizioni.1853.3",
-    "target": "0a3100"
+    "target": "0b76ff"
   },
   {
-    "id": "7f3b29",
+    "id": "d91117",
     "string": "Pozzi.petizioni.1853.4",
-    "target": "722613"
+    "target": "71ad93"
   },
   {
-    "id": "a3966f",
+    "id": "b1c78d",
     "string": "Pozzi.petizioni.1853.5",
-    "target": "b926db"
+    "target": "0a9a24"
   },
   {
-    "id": "b40bd7",
+    "id": "32221a",
     "string": "Pozzi.petizioni.1853.6",
-    "target": "cbfe44"
+    "target": "b6ab53"
   },
   {
-    "id": "49e714",
+    "id": "d3c39b",
     "string": "Pozzi.petizioni.1853.7",
-    "target": "0d528f"
+    "target": "a1a2b2"
   },
   {
-    "id": "cc0794",
+    "id": "4144e5",
     "string": "Pozzi.petizioni.1855.1",
-    "target": "1d6e3e"
+    "target": "4939c9"
   },
   {
-    "id": "4e3c99",
+    "id": "d6ea2b",
     "string": "Pozzi.petizioni.1855.2",
-    "target": "50aaf9"
+    "target": "58cbb8"
   },
   {
-    "id": "941b7d",
+    "id": "c3fe5b",
     "string": "7. Petizioni - Spinelli (Euterpe Ticinese)",
-    "target": "7b4fa1"
+    "target": "6428ec"
   },
   {
-    "id": "941b7d",
+    "id": "c3fe5b",
     "string": "7. Petizioni - Spinelli (Euterpe Ticinese)",
-    "target": "7b4fa1"
+    "target": "6428ec"
   },
   {
-    "id": "f3b25f",
+    "id": "1fbb8a",
     "string": "Spinelli.avvisi.1838.1",
-    "target": "d47c44"
+    "target": "777b5e"
   },
   {
-    "id": "58c81d",
+    "id": "675f60",
     "string": "Spinelli.avvisi.1838.2",
-    "target": "371ce6"
+    "target": "2024dc"
   },
   {
-    "id": "4c561c",
+    "id": "f36265",
     "string": "Spinelli.petizioni.1840.1",
-    "target": "b329c8"
+    "target": "b2228f"
   },
   {
-    "id": "4c561c",
+    "id": "f36265",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "4c561c",
+    "id": "f36265",
     "string": "Spinelli.avvisi.1840.1",
-    "target": "f7a44e"
+    "target": "c2d54c"
   },
   {
-    "id": "740c21",
+    "id": "d41c08",
     "string": "Spinelli.avvisi.1840.2",
-    "target": "e619cf"
+    "target": "6e70bc"
   },
   {
-    "id": "04e066",
+    "id": "37d1a2",
     "string": "Spinelli.avvisi.1841.1",
-    "target": "95db1c"
+    "target": "5b67ba"
   },
   {
-    "id": "c2353b",
+    "id": "a34c4c",
     "string": "Spinelli.avvisi.1841.2",
-    "target": "f0164a"
+    "target": "081433"
   },
   {
-    "id": "df7549",
+    "id": "0c4e00",
     "string": "Spinelli.avvisi.1841.3",
-    "target": "c582db"
+    "target": "3f56cc"
   },
   {
-    "id": "3a4625",
+    "id": "4ffe92",
     "string": "Spinelli.petizioni.1845.1",
-    "target": "7161db"
+    "target": "730851"
   },
   {
-    "id": "3a4625",
+    "id": "4ffe92",
     "string": "2",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "3a4625",
+    "id": "4ffe92",
     "string": "Spinelli.avvisi.1845.1",
-    "target": "985237"
+    "target": "75f78b"
   },
   {
-    "id": "5f3f86",
+    "id": "35a293",
     "string": "Spinelli.petizioni.1845.3",
-    "target": "e43893"
+    "target": "de0815"
   },
   {
-    "id": "5f3f86",
+    "id": "35a293",
     "string": "Spinelli.avvisi.1845.2",
-    "target": "e406ec"
+    "target": "85d812"
   },
   {
-    "id": "01d02d",
+    "id": "e66d5e",
     "string": "Spinelli.petizioni.1845.4",
-    "target": "9a747b"
+    "target": "a66aeb"
   },
   {
-    "id": "01d02d",
+    "id": "e66d5e",
     "string": "Spinelli.avvisi.1845.3",
-    "target": "9d0fe1"
+    "target": "67b1ba"
   },
   {
-    "id": "06c8e0",
+    "id": "9b0bf1",
     "string": "Spinelli.petizioni.1845.5",
-    "target": "32f89b"
+    "target": "76fed5"
   },
   {
-    "id": "06c8e0",
+    "id": "9b0bf1",
     "string": "6",
-    "target": "8882db"
+    "target": "4cf668"
   },
   {
-    "id": "06c8e0",
+    "id": "9b0bf1",
     "string": "Spinelli.avvisi.1845.4",
-    "target": "111189"
+    "target": "88fbf8"
   },
   {
-    "id": "a03060",
+    "id": "d375c7",
     "string": "Spinelli.petizioni.1846.1",
-    "target": "d8892a"
+    "target": "e3f8c0"
   },
   {
-    "id": "a03060",
+    "id": "d375c7",
     "string": "Spinelli.avvisi.1846.1",
-    "target": "b3112c"
+    "target": "d06231"
   },
   {
-    "id": "513a4a",
+    "id": "452efa",
     "string": "Spinelli.petizioni.1846.2",
-    "target": "7d0a34"
+    "target": "2c2663"
   },
   {
-    "id": "513a4a",
+    "id": "452efa",
     "string": " 3",
-    "target": "d680eb"
+    "target": "49b950"
   },
   {
-    "id": "513a4a",
+    "id": "452efa",
     "string": "Spinelli.avvisi.1846.2",
-    "target": "b6b37a"
+    "target": "36d072"
   },
   {
-    "id": "94a3a8",
+    "id": "968431",
     "string": "Spinelli.petizioni.1846.4",
-    "target": "88814c"
+    "target": "345b7e"
   },
   {
-    "id": "94a3a8",
+    "id": "968431",
     "string": "5",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "94a3a8",
+    "id": "968431",
     "string": "Spinelli.avvisi.1846.3",
-    "target": "a1e14b"
+    "target": "9ce0e7"
   },
   {
-    "id": "3332f1",
+    "id": "4ccf6b",
     "string": "Spinelli.petizioni.1846.6",
-    "target": "6959d6"
+    "target": "8ef38e"
   },
   {
-    "id": "3332f1",
+    "id": "4ccf6b",
     "string": "Spinelli.avvisi.1846.4",
-    "target": "e7067a"
+    "target": "2b2ed9"
   },
   {
-    "id": "eca9ae",
+    "id": "a2582a",
     "string": "Spinelli.petizioni.1846.7",
-    "target": "13413a"
+    "target": "0ef52d"
   },
   {
-    "id": "eca9ae",
+    "id": "a2582a",
     "string": "8",
-    "target": "357d8f"
+    "target": "caeec9"
   },
   {
-    "id": "e0e3cd",
+    "id": "2568ed",
     "string": "Spinelli.petizioni.1846.9",
-    "target": "db56ce"
+    "target": "c9bf79"
   },
   {
-    "id": "e0e3cd",
+    "id": "2568ed",
     "string": "10",
-    "target": "0e67dd"
+    "target": "1fd339"
   },
   {
-    "id": "dc6d99",
+    "id": "7297bd",
     "string": "Spinelli.petizioni.1846.11",
-    "target": "7fd30a"
+    "target": "5517be"
   },
   {
-    "id": "dc6d99",
+    "id": "7297bd",
     "string": "12",
-    "target": "6aa5bf"
+    "target": "b26c9d"
   },
   {
-    "id": "dc6d99",
+    "id": "7297bd",
     "string": "Spinelli.avvisi.1846.5",
-    "target": "6c80b4"
+    "target": "bdd252"
   },
   {
-    "id": "ef6978",
+    "id": "6aac3b",
     "string": "Spinelli.avvisi.1846.6",
-    "target": "a372fd"
+    "target": "de097b"
   },
   {
-    "id": "52d2d2",
+    "id": "fd600d",
     "string": "Spinelli.petizioni.1846.13",
-    "target": "2a7204"
+    "target": "97475b"
   },
   {
-    "id": "52d2d2",
+    "id": "fd600d",
     "string": "14",
-    "target": "830609"
+    "target": "9ccb8c"
   },
   {
-    "id": "0d1e04",
+    "id": "8d93c0",
     "string": "Spinelli.petizioni.1846.15",
-    "target": "4409d8"
+    "target": "525602"
   },
   {
-    "id": "0d1e04",
+    "id": "8d93c0",
     "string": "16",
-    "target": "9d2d46"
+    "target": "85057e"
   },
   {
-    "id": "0d1e04",
+    "id": "8d93c0",
     "string": "Spinelli.avvisi.1846.7",
-    "target": "e6d9f4"
+    "target": "ddcb98"
   },
   {
-    "id": "30b0d7",
+    "id": "c8c86b",
     "string": "Spinelli.petizioni.1847.1",
-    "target": "a0107b"
+    "target": "5b0bce"
   },
   {
-    "id": "30b0d7",
+    "id": "c8c86b",
     "string": "Spinelli.avvisi.1847.1",
-    "target": "8b5012"
+    "target": "f41f78"
   },
   {
-    "id": "2fd5ad",
+    "id": "9c6dce",
     "string": "Spinelli.petizioni.1847.2",
-    "target": "4b5628"
+    "target": "04df4f"
   },
   {
-    "id": "498c88",
+    "id": "e9e429",
     "string": "Spinelli.petizioni.1847.3",
-    "target": "d87f83"
+    "target": "f286c9"
   },
   {
-    "id": "498c88",
+    "id": "e9e429",
     "string": "Spinelli.avvisi.1847.2",
-    "target": "763a87"
+    "target": "176466"
   },
   {
-    "id": "f3be7c",
+    "id": "f4589a",
     "string": "Spinelli.petizioni.1847.4",
-    "target": "8fe52c"
+    "target": "37506b"
   },
   {
-    "id": "0a7f5a",
+    "id": "3ecf18",
     "string": "Spinelli.petizioni.1847.5",
-    "target": "ee6f02"
+    "target": "3fa6ff"
   },
   {
-    "id": "3738d4",
+    "id": "f64e4c",
     "string": "Spinelli.petizioni.1849.1",
-    "target": "c0b5b5"
+    "target": "40b609"
   },
   {
-    "id": "3738d4",
+    "id": "f64e4c",
     "string": "Spinelli.avvisi.1849.1",
-    "target": "8edb96"
+    "target": "9307e4"
   },
   {
-    "id": "85ff34",
+    "id": "23329d",
     "string": "Spinelli.petizioni.1849.2",
-    "target": "858af4"
+    "target": "8697ee"
   },
   {
-    "id": "85ff34",
+    "id": "23329d",
     "string": "Spinelli.avvisi.1849.2",
-    "target": "6a5bbd"
+    "target": "8837f5"
   },
   {
-    "id": "072e1c",
+    "id": "386a38",
     "string": "Spinelli.petizioni.1849.3",
-    "target": "08ffe4"
+    "target": "7d84ef"
   },
   {
-    "id": "072e1c",
+    "id": "386a38",
     "string": "Spinelli.avvisi.1849.3",
-    "target": "1208a7"
+    "target": "f97d56"
   },
   {
-    "id": "d8bc7c",
+    "id": "8ca4bf",
     "string": "Spinelli.petizioni.1849.4",
-    "target": "7596bf"
+    "target": "a65747"
   },
   {
-    "id": "d8bc7c",
+    "id": "8ca4bf",
     "string": "Spinelli.avvisi.1849.4",
-    "target": "3cd678"
+    "target": "5f1faf"
   },
   {
-    "id": "fd8aa6",
+    "id": "a26742",
     "string": "Spinelli.petizioni.1850.1",
-    "target": "fed8db"
+    "target": "decff5"
   },
   {
-    "id": "fd8aa6",
+    "id": "a26742",
     "string": "Spinelli.avvisi.1850.1",
-    "target": "8d6ef9"
+    "target": "300325"
   },
   {
-    "id": "85961f",
+    "id": "244c25",
     "string": "Spinelli.petizioni.1850.2",
-    "target": "cc9b32"
+    "target": "00a217"
   },
   {
-    "id": "85961f",
+    "id": "244c25",
     "string": "Spinelli.avvisi.1850.2",
-    "target": "820f54"
+    "target": "16e8dc"
   },
   {
-    "id": "3cc2a5",
+    "id": "1afd7e",
     "string": "Spinelli.petizioni.1850.3",
-    "target": "d64990"
+    "target": "ce62d9"
   },
   {
-    "id": "3cc2a5",
+    "id": "1afd7e",
     "string": "Spinelli.avvisi.1850.3",
-    "target": "10ce10"
+    "target": "60bfbd"
   },
   {
-    "id": "7889e7",
+    "id": "57396a",
     "string": "Spinelli.petizioni.1850.4",
-    "target": "ab5e9c"
+    "target": "941a0e"
   },
   {
-    "id": "7889e7",
+    "id": "57396a",
     "string": "Spinelli.avvisi.1850.4",
-    "target": "76bea0"
+    "target": "9ef135"
   },
   {
-    "id": "52002f",
+    "id": "9a3c48",
     "string": "Spinelli.petizioni.1850.4",
-    "target": "ab5e9c"
+    "target": "941a0e"
   },
   {
-    "id": "52002f",
+    "id": "9a3c48",
     "string": "Spinelli.petizioni.1850.5",
-    "target": "9d6d09"
+    "target": "651807"
   },
   {
-    "id": "d51590",
+    "id": "92c871",
     "string": "Spinelli.petizioni.1850.5",
-    "target": "9d6d09"
+    "target": "651807"
   },
   {
-    "id": "d51590",
+    "id": "92c871",
     "string": "Spinelli.avvisi.1850.5",
-    "target": "7be0eb"
+    "target": "dbf4b6"
   },
   {
-    "id": "25c42f",
+    "id": "6065f0",
     "string": "Spinelli.petizioni.1850.6",
-    "target": "df610e"
+    "target": "7db251"
   },
   {
-    "id": "c2c48e",
+    "id": "918f21",
     "string": "Spinelli.petizioni.1850.7",
-    "target": "487d31"
+    "target": "40b5a6"
   },
   {
-    "id": "c2c48e",
+    "id": "918f21",
     "string": "Spinelli.avvisi.1850.6",
-    "target": "eda1a7"
+    "target": "70fc5d"
   },
   {
-    "id": "0fbf86",
+    "id": "52d41d",
     "string": "Spinelli.petizioni.1850.8",
-    "target": "3922f8"
+    "target": "1890c7"
   },
   {
-    "id": "0fbf86",
+    "id": "52d41d",
     "string": "Spinelli.avvisi.1850.7",
-    "target": "959671"
+    "target": "7ef0ab"
   },
   {
-    "id": "7b86b6",
+    "id": "0ccf5d",
     "string": "Spinelli.petizioni.1850.9",
-    "target": "f51ec2"
+    "target": "534f0f"
   },
   {
-    "id": "930176",
+    "id": "8761ce",
     "string": "Spinelli.petizioni.1850.10",
-    "target": "88d6af"
+    "target": "367f6f"
   },
   {
-    "id": "174ffc",
+    "id": "2d27a3",
     "string": "Spinelli.petizioni.1850.11",
-    "target": "c1a185"
+    "target": "2c8be2"
   },
   {
-    "id": "7b4c89",
+    "id": "b090d3",
     "string": "Spinelli.petizioni.1851.1",
-    "target": "db7c04"
+    "target": "135873"
   },
   {
-    "id": "7b4c89",
+    "id": "b090d3",
     "string": "Spinelli.avvisi.1851.1",
-    "target": "eb8758"
+    "target": "874d1e"
   },
   {
-    "id": "4a7c2e",
+    "id": "100118",
     "string": "Spinelli.petizioni.1851.2",
-    "target": "f62838"
+    "target": "c7dd8e"
   },
   {
-    "id": "4a7c2e",
+    "id": "100118",
     "string": "Spinelli.avvisi.1851.2",
-    "target": "378bbe"
+    "target": "d7bd5d"
   },
   {
-    "id": "95ee82",
+    "id": "9c4058",
     "string": "Spinelli.petizioni.1851.3",
-    "target": "c882e5"
+    "target": "1addf9"
   },
   {
-    "id": "95ee82",
+    "id": "9c4058",
     "string": "Spinelli.avvisi.1851.2",
-    "target": "378bbe"
+    "target": "d7bd5d"
   },
   {
-    "id": "e2730d",
+    "id": "c77f3a",
     "string": "Spinelli.petizioni.1851.4",
-    "target": "15c5c6"
+    "target": "cde0c1"
   },
   {
-    "id": "9f6a8a",
+    "id": "1da28e",
     "string": "Spinelli.petizioni.1851.5",
-    "target": "d9fffc"
+    "target": "538f2e"
   },
   {
-    "id": "9f6a8a",
+    "id": "1da28e",
     "string": "Spinelli.avvisi.1851.3",
-    "target": "0d08a4"
+    "target": "8588cc"
   },
   {
-    "id": "6ce7a3",
+    "id": "01dec1",
     "string": "Spinelli.petizioni.1851.6",
-    "target": "2a3d23"
+    "target": "c78f2c"
   },
   {
-    "id": "6ce7a3",
+    "id": "01dec1",
     "string": "Spinelli.avvisi.1851.4",
-    "target": "f201fa"
+    "target": "c97634"
   },
   {
-    "id": "94f1be",
+    "id": "164aff",
     "string": "Spinelli.petizioni.1851.7",
-    "target": "e4c3a4"
+    "target": "ddfb36"
   },
   {
-    "id": "94f1be",
+    "id": "164aff",
     "string": "Spinelli.avvisi.1851.4",
-    "target": "f201fa"
+    "target": "c97634"
   },
   {
-    "id": "b395e5",
+    "id": "039fa0",
     "string": "Spinelli.petizioni.1851.8",
-    "target": "b4766a"
+    "target": "85df65"
   },
   {
-    "id": "b330c2",
+    "id": "07e466",
     "string": "Spinelli.petizioni.1851.9",
-    "target": "4b2a27"
+    "target": "82770a"
   },
   {
-    "id": "b330c2",
+    "id": "07e466",
     "string": "Spinelli.avvisi.1851.5",
-    "target": "c3242f"
+    "target": "a10433"
   },
   {
-    "id": "6b8cfe",
+    "id": "2b5711",
     "string": "Spinelli.petizioni.1851.10",
-    "target": "2ef7ee"
+    "target": "718482"
   },
   {
-    "id": "6b8cfe",
+    "id": "2b5711",
     "string": "Spinelli.avvisi.1851.5",
-    "target": "c3242f"
+    "target": "a10433"
   },
   {
-    "id": "d1e0c2",
+    "id": "27f6ed",
     "string": "Spinelli.petizioni.1851.11",
-    "target": "08367a"
+    "target": "61b8b3"
   },
   {
-    "id": "d1e0c2",
+    "id": "27f6ed",
     "string": "Spinelli.avvisi.1851.6",
-    "target": "a0a165"
+    "target": "d6cb5e"
   },
   {
-    "id": "21fef7",
+    "id": "f7b59c",
     "string": "Spinelli.petizioni.1851.12",
-    "target": "6675b0"
+    "target": "13de0f"
   },
   {
-    "id": "21fef7",
+    "id": "f7b59c",
     "string": "Spinelli.avvisi.1851.7",
-    "target": "b18f32"
+    "target": "b35ff6"
   },
   {
-    "id": "3d15c1",
+    "id": "a14cfd",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "3d15c1",
+    "id": "a14cfd",
     "string": "Spinelli.avvisi.1851.8",
-    "target": "1b608b"
+    "target": "7e47ec"
   },
   {
-    "id": "a50110",
+    "id": "08807a",
     "string": "Spinelli.petizioni.1851.14",
-    "target": "b73751"
+    "target": "d3e296"
   },
   {
-    "id": "a50110",
+    "id": "08807a",
     "string": "Spinelli.avvisi.1851.9",
-    "target": "b6b056"
+    "target": "32f6ec"
   },
   {
-    "id": "e1ab06",
+    "id": "e5c7f5",
     "string": "Spinelli.petizioni.1851.15",
-    "target": "2c9c3f"
+    "target": "3f0dd2"
   },
   {
-    "id": "e1ab06",
+    "id": "e5c7f5",
     "string": "Spinelli.avvisi.1852.1",
-    "target": "71a349"
+    "target": "e8db1b"
   },
   {
-    "id": "bdd948",
+    "id": "ec2c3a",
     "string": "Spinelli.petizioni.1852.1",
-    "target": "fbc9cd"
+    "target": "bece9c"
   },
   {
-    "id": "bdd948",
+    "id": "ec2c3a",
     "string": "Spinelli.avvisi.1852.1",
-    "target": "71a349"
+    "target": "e8db1b"
   },
   {
-    "id": "912984",
+    "id": "3a525a",
     "string": "Spinelli.petizioni.1852.2",
-    "target": "d76d48"
+    "target": "947ff6"
   },
   {
-    "id": "912984",
+    "id": "3a525a",
     "string": "Spinelli.avvisi.1852.2",
-    "target": "727a0b"
+    "target": "122230"
   },
   {
-    "id": "08a798",
+    "id": "d642bf",
     "string": "Spinelli.petizioni.1852.3",
-    "target": "f6ea8d"
+    "target": "6667cb"
   },
   {
-    "id": "fe6862",
+    "id": "d46cd3",
     "string": "Spinelli.petizioni.1852.4",
-    "target": "da903c"
+    "target": "0e7b7c"
   },
   {
-    "id": "fe6862",
+    "id": "d46cd3",
     "string": "Spinelli.avvisi.1852.3",
-    "target": "2acb69"
+    "target": "b27822"
   },
   {
-    "id": "cf8940",
+    "id": "0da725",
     "string": "Spinelli.petizioni.1853.1",
-    "target": "d216ac"
+    "target": "b358dd"
   },
   {
-    "id": "cf8940",
+    "id": "0da725",
     "string": "Spinelli.avvisi.1853.1",
-    "target": "0c50a2"
+    "target": "dfa5ff"
   },
   {
-    "id": "fdb3c0",
+    "id": "f9ec40",
     "string": "Spinelli.petizioni.1853.2",
-    "target": "b623be"
+    "target": "2d62d4"
   },
   {
-    "id": "fdb3c0",
+    "id": "f9ec40",
     "string": "Spinelli.avvisi.1853.1",
-    "target": "0c50a2"
+    "target": "dfa5ff"
   },
   {
-    "id": "e7dc76",
+    "id": "219f43",
     "string": "Spinelli.petizioni.1853.3",
-    "target": "17edf5"
+    "target": "837d4a"
   },
   {
-    "id": "8d98ab",
+    "id": "401838",
     "string": "Spinelli.petizioni.1853.4",
-    "target": "2501ed"
+    "target": "3964b2"
   },
   {
-    "id": "4696e8",
+    "id": "66be3f",
     "string": "Spinelli.petizioni.1853.5",
-    "target": "d408be"
+    "target": "b45cd8"
   },
   {
-    "id": "1f4a5e",
+    "id": "951d25",
     "string": "Spinelli.petizioni.1854.1",
-    "target": "6a232c"
+    "target": "016ee8"
   },
   {
-    "id": "36cc74",
+    "id": "e352f9",
     "string": "Spinelli.petizioni.1854.2",
-    "target": "c39234"
+    "target": "856a1b"
   },
   {
-    "id": "d2bc8a",
+    "id": "97e6c6",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "84e325",
+    "id": "4179af",
     "string": "7. Petizioni - Bustelli-Rossi",
-    "target": "2fb1b4"
+    "target": "db4081"
   },
   {
-    "id": "84e325",
+    "id": "4179af",
     "string": "7. Petizioni - Bustelli-Rossi",
-    "target": "2fb1b4"
+    "target": "db4081"
   },
   {
-    "id": "7df34b",
+    "id": "25003f",
     "string": "Illustrazione 8",
-    "target": "4d7bd8"
+    "target": "604c2f"
   },
   {
-    "id": "7df34b",
+    "id": "25003f",
     "string": "Illustrazione 8",
-    "target": "4d7bd8"
+    "target": "604c2f"
   },
   {
-    "id": "853565",
+    "id": "b5621e",
     "string": "8. Avvisi musicali - Bustelli-Rossi",
-    "target": "b402da"
+    "target": "a04881"
   },
   {
-    "id": "853565",
+    "id": "b5621e",
     "string": "8. Avvisi musicali - Bustelli-Rossi",
-    "target": "b402da"
+    "target": "a04881"
   },
   {
-    "id": "132760",
+    "id": "f438bb",
     "string": "Bustelli-Rossi.avvisi.1857.1",
-    "target": "198d82"
+    "target": "4ab4c2"
   },
   {
-    "id": "bffad4",
+    "id": "10bd20",
     "string": "Bustelli-Rossi.avvisi.1857.2",
-    "target": "98f55f"
+    "target": "938166"
   },
   {
-    "id": "fee57c",
+    "id": "1e1d2d",
     "string": "Bustelli-Rossi.petizioni.1859.1",
-    "target": "40052a"
+    "target": "6f3248"
   },
   {
-    "id": "fee57c",
+    "id": "1e1d2d",
     "string": "Bustelli-Rossi.avvisi.1859.1",
-    "target": "9b9db3"
+    "target": "ecfbd3"
   },
   {
-    "id": "d9f40b",
+    "id": "39d4fb",
     "string": "Bustelli-Rossi.petizioni.1862.1",
-    "target": "312d20"
+    "target": "921d2d"
   },
   {
-    "id": "d9f40b",
+    "id": "39d4fb",
     "string": "Bustelli-Rossi.avvisi.1862.1",
-    "target": "5745ce"
+    "target": "7d0acf"
   },
   {
-    "id": "2edaa8",
+    "id": "1a0010",
     "string": "Bustelli-Rossi.petizioni.1862.2",
-    "target": "004fef"
+    "target": "214174"
   },
   {
-    "id": "2edaa8",
+    "id": "1a0010",
     "string": "Bustelli-Rossi.avvisi.1862.2",
-    "target": "151606"
+    "target": "82b95b"
   },
   {
-    "id": "dce679",
+    "id": "d2f580",
     "string": "Bustelli-Rossi.petizioni.1862.3",
-    "target": "18445f"
+    "target": "c7fa2e"
   },
   {
-    "id": "dce679",
+    "id": "d2f580",
     "string": "Bustelli-Rossi.avvisi.1862.3",
-    "target": "69bc91"
+    "target": "df902e"
   },
   {
-    "id": "d11d29",
+    "id": "b90668",
     "string": "Bustelli-Rossi.petizioni.1867.1",
-    "target": "e780e3"
+    "target": "bc21d8"
   },
   {
-    "id": "d11d29",
+    "id": "b90668",
     "string": "Bustelli-Rossi.avvisi.1867.1",
-    "target": "5a52c8"
+    "target": "dfe5fb"
   },
   {
-    "id": "64fd6a",
+    "id": "32aa0d",
     "string": "Bustelli-Rossi.petizioni.1867.2",
-    "target": "af8202"
+    "target": "893e84"
   },
   {
-    "id": "64fd6a",
+    "id": "32aa0d",
     "string": "Bustelli-Rossi.avvisi.1867.2",
-    "target": "1fd6e0"
+    "target": "8f9aa6"
   },
   {
-    "id": "60a426",
+    "id": "4a5206",
     "string": "Bustelli-Rossi.petizioni.1867.3",
-    "target": "ac8201"
+    "target": "4fa3ac"
   },
   {
-    "id": "f68194",
+    "id": "159622",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "f68194",
+    "id": "159622",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "24bb12",
+    "id": "d0171e",
     "string": "Documenti.vari.1835.1",
-    "target": "f9d466"
+    "target": "dd2655"
   },
   {
-    "id": "24bb12",
+    "id": "d0171e",
     "string": "Documenti.vari.1835.1",
-    "target": "f9d466"
+    "target": "dd2655"
   },
   {
-    "id": "24bb12",
+    "id": "d0171e",
     "string": "Carteggio.1836.2",
-    "target": "361f1f"
+    "target": "6c2c30"
   },
   {
-    "id": "24bb12",
+    "id": "d0171e",
     "string": "Carteggio.1836.2",
-    "target": "361f1f"
+    "target": "6c2c30"
   },
   {
-    "id": "24bb12",
+    "id": "d0171e",
     "string": "3",
-    "target": "af46d6"
+    "target": "ce94c7"
   },
   {
-    "id": "24bb12",
+    "id": "d0171e",
     "string": "3",
-    "target": "af46d6"
+    "target": "ce94c7"
   },
   {
-    "id": "19ee73",
+    "id": "a057e7",
     "string": "Illustrazione 28",
-    "target": "2ebb63"
+    "target": "3442ee"
   },
   {
-    "id": "19ee73",
+    "id": "a057e7",
     "string": "Illustrazione 28",
-    "target": "2ebb63"
+    "target": "3442ee"
   },
   {
-    "id": "eef049",
+    "id": "52ac11",
     "string": "Carteggio.1837.1",
-    "target": "d1be04"
+    "target": "8764b5"
   },
   {
-    "id": "eef049",
+    "id": "52ac11",
     "string": "Carteggio.1837.1",
-    "target": "d1be04"
+    "target": "8764b5"
   },
   {
-    "id": "e8ed3a",
+    "id": "9e0ed3",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "e8ed3a",
+    "id": "9e0ed3",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "f58f79",
+    "id": "619795",
     "string": "Illustrazione 23",
-    "target": "d25b8b"
+    "target": "3b69cf"
   },
   {
-    "id": "f58f79",
+    "id": "619795",
     "string": "Illustrazione 23",
-    "target": "d25b8b"
+    "target": "3b69cf"
   },
   {
-    "id": "f7dc2e",
+    "id": "6d8815",
     "string": "Pozzi.petizioni.1842.1",
-    "target": "010126"
+    "target": "078e4e"
   },
   {
-    "id": "f7dc2e",
+    "id": "6d8815",
     "string": "Pozzi.petizioni.1842.1",
-    "target": "010126"
+    "target": "078e4e"
   },
   {
-    "id": "85f12e",
+    "id": "02cab1",
     "string": "Carteggio.1837.1",
-    "target": "d1be04"
+    "target": "8764b5"
   },
   {
-    "id": "85f12e",
+    "id": "02cab1",
     "string": "Carteggio.1837.1",
-    "target": "d1be04"
+    "target": "8764b5"
   },
   {
-    "id": "85f12e",
+    "id": "02cab1",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "85f12e",
+    "id": "02cab1",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "8981f9",
+    "id": "2ffe2b",
     "string": "Pozzi.petizioni.1843.5",
-    "target": "75c628"
+    "target": "75ec26"
   },
   {
-    "id": "8981f9",
+    "id": "2ffe2b",
     "string": "Pozzi.petizioni.1843.5",
-    "target": "75c628"
+    "target": "75ec26"
   },
   {
-    "id": "76298d",
+    "id": "f8e20a",
     "string": "Pozzi.petizioni.1844.1",
-    "target": "98dc52"
+    "target": "0681fc"
   },
   {
-    "id": "76298d",
+    "id": "f8e20a",
     "string": "Pozzi.petizioni.1844.1",
-    "target": "98dc52"
+    "target": "0681fc"
   },
   {
-    "id": "6618e0",
+    "id": "c49107",
     "string": "Pozzi.petizioni.1844.1",
-    "target": "98dc52"
+    "target": "0681fc"
   },
   {
-    "id": "6618e0",
+    "id": "c49107",
     "string": "Pozzi.petizioni.1844.1",
-    "target": "98dc52"
+    "target": "0681fc"
   },
   {
-    "id": "6618e0",
+    "id": "c49107",
     "string": "Pozzi.petizioni.1844.5",
-    "target": "78e31c"
+    "target": "bbf65c"
   },
   {
-    "id": "6618e0",
+    "id": "c49107",
     "string": "Pozzi.petizioni.1844.5",
-    "target": "78e31c"
+    "target": "bbf65c"
   },
   {
-    "id": "9066f9",
+    "id": "e25f4a",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "9066f9",
+    "id": "e25f4a",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "e2615b",
+    "id": "38a3aa",
     "string": "Pozzi.petizioni.1844.1",
-    "target": "98dc52"
+    "target": "0681fc"
   },
   {
-    "id": "e2615b",
+    "id": "38a3aa",
     "string": "Pozzi.petizioni.1844.1",
-    "target": "98dc52"
+    "target": "0681fc"
   },
   {
-    "id": "e2615b",
+    "id": "38a3aa",
     "string": "Pozzi.petizioni.1844.5",
-    "target": "78e31c"
+    "target": "bbf65c"
   },
   {
-    "id": "e2615b",
+    "id": "38a3aa",
     "string": "Pozzi.petizioni.1844.5",
-    "target": "78e31c"
+    "target": "bbf65c"
   },
   {
-    "id": "f1614a",
+    "id": "121ab2",
     "string": "3. Cronologia - luglio 1863",
-    "target": "ecc334"
+    "target": "fb02a4"
   },
   {
-    "id": "f1614a",
+    "id": "121ab2",
     "string": "3. Cronologia - luglio 1863",
-    "target": "ecc334"
+    "target": "fb02a4"
   },
   {
-    "id": "7d15f6",
+    "id": "c6c6b2",
     "string": "Carteggio.1837.1",
-    "target": "d1be04"
+    "target": "8764b5"
   },
   {
-    "id": "7d15f6",
+    "id": "c6c6b2",
     "string": "Carteggio.1837.1",
-    "target": "d1be04"
+    "target": "8764b5"
   },
   {
-    "id": "7d15f6",
+    "id": "c6c6b2",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "7d15f6",
+    "id": "c6c6b2",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "179aa7",
+    "id": "5d30e0",
     "string": "Illustrazione 25a-c",
-    "target": "85b312"
+    "target": "28536b"
   },
   {
-    "id": "179aa7",
+    "id": "5d30e0",
     "string": "Illustrazione 25a-c",
-    "target": "85b312"
+    "target": "28536b"
   },
   {
-    "id": "57b15f",
+    "id": "eb3747",
     "string": "6. Cataloghi - Catalogo Euterpe Ticinese",
-    "target": "0953d4"
+    "target": "ad4179"
   },
   {
-    "id": "57b15f",
+    "id": "eb3747",
     "string": "6. Cataloghi - Catalogo Euterpe Ticinese",
-    "target": "0953d4"
+    "target": "ad4179"
   },
   {
-    "id": "dd8753",
+    "id": "195dd3",
     "string": "Illustrazione 3",
-    "target": "7acb3a"
+    "target": "2df120"
   },
   {
-    "id": "dd8753",
+    "id": "195dd3",
     "string": "Illustrazione 3",
-    "target": "7acb3a"
+    "target": "2df120"
   },
   {
-    "id": "2fd13a",
+    "id": "800ae6",
     "string": "Spinelli.avvisi.1841.1",
-    "target": "95db1c"
+    "target": "5b67ba"
   },
   {
-    "id": "2fd13a",
+    "id": "800ae6",
     "string": "Spinelli.avvisi.1841.1",
-    "target": "95db1c"
+    "target": "5b67ba"
   },
   {
-    "id": "6eb22f",
+    "id": "2ab1ce",
     "string": "Spinelli.petizioni.1846.2",
-    "target": "7d0a34"
+    "target": "2c2663"
   },
   {
-    "id": "6eb22f",
+    "id": "2ab1ce",
     "string": "Spinelli.petizioni.1846.2",
-    "target": "7d0a34"
+    "target": "2c2663"
   },
   {
-    "id": "6eb22f",
+    "id": "2ab1ce",
     "string": "3",
-    "target": "af46d6"
+    "target": "ce94c7"
   },
   {
-    "id": "6eb22f",
+    "id": "2ab1ce",
     "string": "3",
-    "target": "af46d6"
+    "target": "ce94c7"
   },
   {
-    "id": "c14fe5",
+    "id": "eb38ab",
     "string": "Spinelli.avvisi.1850.1",
-    "target": "8d6ef9"
+    "target": "300325"
   },
   {
-    "id": "c14fe5",
+    "id": "eb38ab",
     "string": "Spinelli.avvisi.1850.1",
-    "target": "8d6ef9"
+    "target": "300325"
   },
   {
-    "id": "df8aac",
+    "id": "36ad8c",
     "string": "Spinelli.petizioni.1850.3",
-    "target": "d64990"
+    "target": "ce62d9"
   },
   {
-    "id": "df8aac",
+    "id": "36ad8c",
     "string": "Spinelli.petizioni.1850.3",
-    "target": "d64990"
+    "target": "ce62d9"
   },
   {
-    "id": "1ed5af",
+    "id": "f1b47a",
     "string": "Spinelli.petizioni.1850.4",
-    "target": "ab5e9c"
+    "target": "941a0e"
   },
   {
-    "id": "1ed5af",
+    "id": "f1b47a",
     "string": "Spinelli.petizioni.1850.4",
-    "target": "ab5e9c"
+    "target": "941a0e"
   },
   {
-    "id": "1ed5af",
+    "id": "f1b47a",
     "string": "Spinelli.petizioni.1850.5",
-    "target": "9d6d09"
+    "target": "651807"
   },
   {
-    "id": "1ed5af",
+    "id": "f1b47a",
     "string": "Spinelli.petizioni.1850.5",
-    "target": "9d6d09"
+    "target": "651807"
   },
   {
-    "id": "afe410",
+    "id": "28e623",
     "string": "Spinelli.petizioni.1850.5",
-    "target": "9d6d09"
+    "target": "651807"
   },
   {
-    "id": "afe410",
+    "id": "28e623",
     "string": "Spinelli.petizioni.1850.5",
-    "target": "9d6d09"
+    "target": "651807"
   },
   {
-    "id": "5baa1a",
+    "id": "3c3505",
     "string": "Spinelli.petizioni.1850.7",
-    "target": "487d31"
+    "target": "40b5a6"
   },
   {
-    "id": "5baa1a",
+    "id": "3c3505",
     "string": "Spinelli.petizioni.1850.7",
-    "target": "487d31"
+    "target": "40b5a6"
   },
   {
-    "id": "41dd4b",
+    "id": "bc28b3",
     "string": "Spinelli.petizioni.1851.3",
-    "target": "c882e5"
+    "target": "1addf9"
   },
   {
-    "id": "41dd4b",
+    "id": "bc28b3",
     "string": "Spinelli.petizioni.1851.3",
-    "target": "c882e5"
+    "target": "1addf9"
   },
   {
-    "id": "41dd4b",
+    "id": "bc28b3",
     "string": "Spinelli.petizioni.1851.4",
-    "target": "15c5c6"
+    "target": "cde0c1"
   },
   {
-    "id": "41dd4b",
+    "id": "bc28b3",
     "string": "Spinelli.petizioni.1851.4",
-    "target": "15c5c6"
+    "target": "cde0c1"
   },
   {
-    "id": "41dd4b",
+    "id": "bc28b3",
     "string": "Spinelli.petizioni.1851.8",
-    "target": "b4766a"
+    "target": "85df65"
   },
   {
-    "id": "41dd4b",
+    "id": "bc28b3",
     "string": "Spinelli.petizioni.1851.8",
-    "target": "b4766a"
+    "target": "85df65"
   },
   {
-    "id": "41dd4b",
+    "id": "bc28b3",
     "string": "Spinelli.petizioni.1851.9",
-    "target": "4b2a27"
+    "target": "82770a"
   },
   {
-    "id": "41dd4b",
+    "id": "bc28b3",
     "string": "Spinelli.petizioni.1851.9",
-    "target": "4b2a27"
+    "target": "82770a"
   },
   {
-    "id": "41dd4b",
+    "id": "bc28b3",
     "string": "Spinelli.petizioni.1851.10",
-    "target": "2ef7ee"
+    "target": "718482"
   },
   {
-    "id": "41dd4b",
+    "id": "bc28b3",
     "string": "Spinelli.petizioni.1851.10",
-    "target": "2ef7ee"
+    "target": "718482"
   },
   {
-    "id": "b49815",
+    "id": "4ace5f",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "b49815",
+    "id": "4ace5f",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "b49815",
+    "id": "4ace5f",
     "string": "14",
-    "target": "830609"
+    "target": "9ccb8c"
   },
   {
-    "id": "b49815",
+    "id": "4ace5f",
     "string": "14",
-    "target": "830609"
+    "target": "9ccb8c"
   },
   {
-    "id": "27110d",
+    "id": "50ef26",
     "string": "Spinelli.petizioni.1851.14",
-    "target": "b73751"
+    "target": "d3e296"
   },
   {
-    "id": "27110d",
+    "id": "50ef26",
     "string": "Spinelli.petizioni.1851.14",
-    "target": "b73751"
+    "target": "d3e296"
   },
   {
-    "id": "066398",
+    "id": "9032f7",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "066398",
+    "id": "9032f7",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "7bb065",
+    "id": "737a29",
     "string": "6. Cataloghi - Catalogo Euterpe Ticinese",
-    "target": "0953d4"
+    "target": "ad4179"
   },
   {
-    "id": "7bb065",
+    "id": "737a29",
     "string": "6. Cataloghi - Catalogo Euterpe Ticinese",
-    "target": "0953d4"
+    "target": "ad4179"
   },
   {
-    "id": "6d2192",
+    "id": "3b7f2f",
     "string": "Spinelli.petizioni.1851.14",
-    "target": "b73751"
+    "target": "d3e296"
   },
   {
-    "id": "6d2192",
+    "id": "3b7f2f",
     "string": "Spinelli.petizioni.1851.14",
-    "target": "b73751"
+    "target": "d3e296"
   },
   {
-    "id": "e88479",
+    "id": "f6568c",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "e88479",
+    "id": "f6568c",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "4b4305",
+    "id": "4d8423",
     "string": "Spinelli.petizioni.1852.1",
-    "target": "fbc9cd"
+    "target": "bece9c"
   },
   {
-    "id": "4b4305",
+    "id": "4d8423",
     "string": "Spinelli.petizioni.1852.1",
-    "target": "fbc9cd"
+    "target": "bece9c"
   },
   {
-    "id": "4b4305",
+    "id": "4d8423",
     "string": "Spinelli.petizioni.1853.2",
-    "target": "b623be"
+    "target": "2d62d4"
   },
   {
-    "id": "4b4305",
+    "id": "4d8423",
     "string": "Spinelli.petizioni.1853.2",
-    "target": "b623be"
+    "target": "2d62d4"
   },
   {
-    "id": "af3189",
+    "id": "bd9b73",
     "string": "Spinelli.petizioni.1852.3",
-    "target": "f6ea8d"
+    "target": "6667cb"
   },
   {
-    "id": "af3189",
+    "id": "bd9b73",
     "string": "Spinelli.petizioni.1852.3",
-    "target": "f6ea8d"
+    "target": "6667cb"
   },
   {
-    "id": "394201",
+    "id": "8b56ef",
     "string": "Spinelli.petizioni.1852.2",
-    "target": "d76d48"
+    "target": "947ff6"
   },
   {
-    "id": "394201",
+    "id": "8b56ef",
     "string": "Spinelli.petizioni.1852.2",
-    "target": "d76d48"
+    "target": "947ff6"
   },
   {
-    "id": "394201",
+    "id": "8b56ef",
     "string": "Spinelli.petizioni.1852.3",
-    "target": "f6ea8d"
+    "target": "6667cb"
   },
   {
-    "id": "394201",
+    "id": "8b56ef",
     "string": "Spinelli.petizioni.1852.3",
-    "target": "f6ea8d"
+    "target": "6667cb"
   },
   {
-    "id": "c01cfe",
+    "id": "fdfc22",
     "string": "Spinelli.petizioni.1852.4",
-    "target": "da903c"
+    "target": "0e7b7c"
   },
   {
-    "id": "c01cfe",
+    "id": "fdfc22",
     "string": "Spinelli.petizioni.1852.4",
-    "target": "da903c"
+    "target": "0e7b7c"
   },
   {
-    "id": "87e1a8",
+    "id": "091e70",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "87e1a8",
+    "id": "091e70",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "4f45d7",
+    "id": "e2b69d",
     "string": "Spinelli.petizioni.1853.5",
-    "target": "d408be"
+    "target": "b45cd8"
   },
   {
-    "id": "4f45d7",
+    "id": "e2b69d",
     "string": "Spinelli.petizioni.1853.5",
-    "target": "d408be"
+    "target": "b45cd8"
   },
   {
-    "id": "33d0cd",
+    "id": "b7984e",
     "string": "Spinelli.petizioni.1853.4",
-    "target": "2501ed"
+    "target": "3964b2"
   },
   {
-    "id": "33d0cd",
+    "id": "b7984e",
     "string": "Spinelli.petizioni.1853.4",
-    "target": "2501ed"
+    "target": "3964b2"
   },
   {
-    "id": "ab8cb9",
+    "id": "72f8b3",
     "string": "Spinelli.petizioni.1853.4",
-    "target": "2501ed"
+    "target": "3964b2"
   },
   {
-    "id": "ab8cb9",
+    "id": "72f8b3",
     "string": "Spinelli.petizioni.1853.4",
-    "target": "2501ed"
+    "target": "3964b2"
   },
   {
-    "id": "2a7065",
+    "id": "31344a",
     "string": "Spinelli.petizioni.1854.2",
-    "target": "c39234"
+    "target": "856a1b"
   },
   {
-    "id": "2a7065",
+    "id": "31344a",
     "string": "Spinelli.petizioni.1854.2",
-    "target": "c39234"
+    "target": "856a1b"
   },
   {
-    "id": "2a7065",
+    "id": "31344a",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "2a7065",
+    "id": "31344a",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "a3bd9e",
+    "id": "6d800f",
     "string": "Spinelli.petizioni.1853.1",
-    "target": "d216ac"
+    "target": "b358dd"
   },
   {
-    "id": "a3bd9e",
+    "id": "6d800f",
     "string": "Spinelli.petizioni.1853.1",
-    "target": "d216ac"
+    "target": "b358dd"
   },
   {
-    "id": "7bd326",
+    "id": "438ad7",
     "string": "Bustelli-Rossi.petizioni.1862.1",
-    "target": "312d20"
+    "target": "921d2d"
   },
   {
-    "id": "7bd326",
+    "id": "438ad7",
     "string": "Bustelli-Rossi.petizioni.1862.1",
-    "target": "312d20"
+    "target": "921d2d"
   },
   {
-    "id": "2fbe9c",
+    "id": "e6326e",
     "string": "Pozzi.petizioni.1853.1",
-    "target": "e28827"
+    "target": "d6cb74"
   },
   {
-    "id": "2fbe9c",
+    "id": "e6326e",
     "string": "Pozzi.petizioni.1853.1",
-    "target": "e28827"
+    "target": "d6cb74"
   },
   {
-    "id": "2fbe9c",
+    "id": "e6326e",
     "string": "Pozzi.petizioni.1853.5",
-    "target": "b926db"
+    "target": "0a9a24"
   },
   {
-    "id": "2fbe9c",
+    "id": "e6326e",
     "string": "Pozzi.petizioni.1853.5",
-    "target": "b926db"
+    "target": "0a9a24"
   },
   {
-    "id": "f230ed",
+    "id": "431ac7",
     "string": "Pozzi.petizioni.1845.5",
-    "target": "184028"
+    "target": "4a58ee"
   },
   {
-    "id": "f230ed",
+    "id": "431ac7",
     "string": "Pozzi.petizioni.1845.5",
-    "target": "184028"
+    "target": "4a58ee"
   },
   {
-    "id": "9e36df",
+    "id": "12a609",
     "string": "Carteggio.1844.2",
-    "target": "652b5b"
+    "target": "48756a"
   },
   {
-    "id": "9e36df",
+    "id": "12a609",
     "string": "Carteggio.1844.2",
-    "target": "652b5b"
+    "target": "48756a"
   },
   {
-    "id": "0781db",
+    "id": "4a2d94",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "0781db",
+    "id": "4a2d94",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "0781db",
+    "id": "4a2d94",
     "string": "1886.1",
-    "target": "3b140e"
+    "target": "014a56"
   },
   {
-    "id": "0b74ca",
+    "id": "dd9e81",
     "string": "2. Studio generale",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "0b74ca",
+    "id": "dd9e81",
     "string": "2. Studio generale",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "0b74ca",
+    "id": "dd9e81",
     "string": "Figura 6",
-    "target": "40b60b"
+    "target": "1171af"
   },
   {
-    "id": "0b74ca",
+    "id": "dd9e81",
     "string": "Figura 6",
-    "target": "40b60b"
+    "target": "1171af"
   },
   {
-    "id": "0b74ca",
+    "id": "dd9e81",
     "string": " 7",
-    "target": "9e0470"
+    "target": "6dbd28"
   },
   {
-    "id": "05d271",
+    "id": "93d4d0",
     "string": "Illustrazione 19",
-    "target": "633d7b"
+    "target": "fe8290"
   },
   {
-    "id": "05d271",
+    "id": "93d4d0",
     "string": "Illustrazione 19",
-    "target": "633d7b"
+    "target": "fe8290"
   },
   {
-    "id": "064f18",
+    "id": "d35d2b",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "064f18",
+    "id": "d35d2b",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "86b11b",
+    "id": "96d352",
     "string": "Illustrazione 18",
-    "target": "47fbe8"
+    "target": "61518b"
   },
   {
-    "id": "86b11b",
+    "id": "96d352",
     "string": "Illustrazione 18",
-    "target": "47fbe8"
+    "target": "61518b"
   },
   {
-    "id": "dd416f",
+    "id": "35aedc",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "dd416f",
+    "id": "35aedc",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "bf1f13",
+    "id": "10cb0d",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "bf1f13",
+    "id": "10cb0d",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "029538",
+    "id": "d05002",
     "string": "Pozzi.petizioni.1845.13",
-    "target": "d85204"
+    "target": "c51acf"
   },
   {
-    "id": "029538",
+    "id": "d05002",
     "string": "Pozzi.petizioni.1845.13",
-    "target": "d85204"
+    "target": "c51acf"
   },
   {
-    "id": "7f9ff6",
+    "id": "a7b4a9",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "7f9ff6",
+    "id": "a7b4a9",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "042e41",
+    "id": "c10d65",
     "string": "Illustrazione 22",
-    "target": "8d58ed"
+    "target": "33e540"
   },
   {
-    "id": "042e41",
+    "id": "c10d65",
     "string": "Illustrazione 22",
-    "target": "8d58ed"
+    "target": "33e540"
   },
   {
-    "id": "3569e9",
+    "id": "b97f70",
     "string": "Illustrazione 22",
-    "target": "8d58ed"
+    "target": "33e540"
   },
   {
-    "id": "3569e9",
+    "id": "b97f70",
     "string": "Illustrazione 22",
-    "target": "8d58ed"
+    "target": "33e540"
   },
   {
-    "id": "637cab",
+    "id": "088aaa",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "637cab",
+    "id": "088aaa",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "6e6ca0",
+    "id": "f974a8",
     "string": "Illustrazione 30",
-    "target": "28d320"
+    "target": "75113b"
   },
   {
-    "id": "6e6ca0",
+    "id": "f974a8",
     "string": "Illustrazione 30",
-    "target": "28d320"
+    "target": "75113b"
   },
   {
-    "id": "d4aaea",
+    "id": "a36281",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "d4aaea",
+    "id": "a36281",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "6bbaa9",
+    "id": "032270",
     "string": "Documenti.vari.1840.1",
-    "target": "2404b3"
+    "target": "d87400"
   },
   {
-    "id": "6bbaa9",
+    "id": "032270",
     "string": "Documenti.vari.1840.1",
-    "target": "2404b3"
+    "target": "d87400"
   },
   {
-    "id": "069444",
+    "id": "3cb67b",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "069444",
+    "id": "3cb67b",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "9e66a5",
+    "id": "f601c3",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "9e66a5",
+    "id": "f601c3",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "f8cb8d",
+    "id": "d51d04",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "f8cb8d",
+    "id": "d51d04",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "ee1f50",
+    "id": "b7b26e",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "ee1f50",
+    "id": "b7b26e",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "121613",
+    "id": "da286f",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "121613",
+    "id": "da286f",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "b97f90",
+    "id": "85fd99",
     "string": "Pozzi.petizioni.1843.16",
-    "target": "19ddb1"
+    "target": "d74880"
   },
   {
-    "id": "b97f90",
+    "id": "85fd99",
     "string": "Pozzi.petizioni.1843.16",
-    "target": "19ddb1"
+    "target": "d74880"
   },
   {
-    "id": "b97f90",
+    "id": "85fd99",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "b97f90",
+    "id": "85fd99",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "e9e686",
+    "id": "9aa57c",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "e9e686",
+    "id": "9aa57c",
     "string": "Pozzi.petizioni.1843.19",
-    "target": "707186"
+    "target": "01c693"
   },
   {
-    "id": "9ecca3",
+    "id": "056ff3",
     "string": "Spinelli.petizioni.1852.4",
-    "target": "da903c"
+    "target": "0e7b7c"
   },
   {
-    "id": "9ecca3",
+    "id": "056ff3",
     "string": "Spinelli.petizioni.1852.4",
-    "target": "da903c"
+    "target": "0e7b7c"
   },
   {
-    "id": "9ecca3",
+    "id": "056ff3",
     "string": "Spinelli.petizioni.1853.1",
-    "target": "d216ac"
+    "target": "b358dd"
   },
   {
-    "id": "9ecca3",
+    "id": "056ff3",
     "string": "Spinelli.petizioni.1853.1",
-    "target": "d216ac"
+    "target": "b358dd"
   },
   {
-    "id": "d44826",
+    "id": "520e66",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "d44826",
+    "id": "520e66",
     "string": "Documenti.vari.1868.1",
-    "target": "8fcc94"
+    "target": "21e2b2"
   },
   {
-    "id": "f843a7",
+    "id": "10c074",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "f843a7",
+    "id": "10c074",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "03cc93",
+    "id": "14999d",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "03cc93",
+    "id": "14999d",
     "string": "Illustrazione 29",
-    "target": "7cbed1"
+    "target": "7413b0"
   },
   {
-    "id": "1147b6",
+    "id": "7e1682",
     "string": "8. Avvisi musicali - Pozzi",
-    "target": "b68688"
+    "target": "e4f433"
   },
   {
-    "id": "1147b6",
+    "id": "7e1682",
     "string": "8. Avvisi musicali - Pozzi",
-    "target": "b68688"
+    "target": "e4f433"
   },
   {
-    "id": "1147b6",
+    "id": "7e1682",
     "string": "Illustrazione 5",
-    "target": "4f8a8c"
+    "target": "4739e5"
   },
   {
-    "id": "1147b6",
+    "id": "7e1682",
     "string": "Illustrazione 5",
-    "target": "4f8a8c"
+    "target": "4739e5"
   },
   {
-    "id": "0da701",
+    "id": "5485e9",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "0da701",
+    "id": "5485e9",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "6a8603",
+    "id": "fe759a",
     "string": "Pozzi.petizioni.1845.5",
-    "target": "184028"
+    "target": "4a58ee"
   },
   {
-    "id": "6a8603",
+    "id": "fe759a",
     "string": "Pozzi.petizioni.1845.5",
-    "target": "184028"
+    "target": "4a58ee"
   },
   {
-    "id": "fbf592",
+    "id": "626dbd",
     "string": "Pozzi.petizioni.1845.6",
-    "target": "d3d561"
+    "target": "e9cbb1"
   },
   {
-    "id": "5be236",
+    "id": "71b30e",
     "string": "8. Avvisi musicali - Spinelli",
-    "target": "dffe3a"
+    "target": "dd08e4"
   },
   {
-    "id": "5be236",
+    "id": "71b30e",
     "string": "8. Avvisi musicali - Spinelli",
-    "target": "dffe3a"
+    "target": "dd08e4"
   },
   {
-    "id": "5be236",
+    "id": "71b30e",
     "string": "2. Studio generale",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "5be236",
+    "id": "71b30e",
     "string": "2. Studio generale",
-    "target": "24c46a"
+    "target": "773339"
   },
   {
-    "id": "5be236",
+    "id": "71b30e",
     "string": "Figura 3",
-    "target": "201b0e"
+    "target": "614945"
   },
   {
-    "id": "5be236",
+    "id": "71b30e",
     "string": "Figura 3",
-    "target": "201b0e"
+    "target": "614945"
   },
   {
-    "id": "b48aa7",
+    "id": "3a5507",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "b48aa7",
+    "id": "3a5507",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "44a98f",
+    "id": "8cfe55",
     "string": "Spinelli.petizioni.1840.2",
-    "target": "39b352"
+    "target": "327db7"
   },
   {
-    "id": "e6ff35",
+    "id": "e4269f",
     "string": "Spinelli.petizioni.1840.1",
-    "target": "b329c8"
+    "target": "b2228f"
   },
   {
-    "id": "e6ff35",
+    "id": "e4269f",
     "string": "Spinelli.petizioni.1840.1",
-    "target": "b329c8"
+    "target": "b2228f"
   },
   {
-    "id": "a4f1f7",
+    "id": "6f2d8b",
     "string": "Spinelli.petizioni.1845.1",
-    "target": "7161db"
+    "target": "730851"
   },
   {
-    "id": "a4f1f7",
+    "id": "6f2d8b",
     "string": "Spinelli.petizioni.1845.1",
-    "target": "7161db"
+    "target": "730851"
   },
   {
-    "id": "375910",
+    "id": "052275",
     "string": "Spinelli.petizioni.1845.5",
-    "target": "32f89b"
+    "target": "76fed5"
   },
   {
-    "id": "375910",
+    "id": "052275",
     "string": "Spinelli.petizioni.1845.5",
-    "target": "32f89b"
+    "target": "76fed5"
   },
   {
-    "id": "0e5baf",
+    "id": "c871c7",
     "string": "Spinelli.petizioni.1846.2",
-    "target": "7d0a34"
+    "target": "2c2663"
   },
   {
-    "id": "0e5baf",
+    "id": "c871c7",
     "string": "Spinelli.petizioni.1846.2",
-    "target": "7d0a34"
+    "target": "2c2663"
   },
   {
-    "id": "24a34f",
+    "id": "1e1d24",
     "string": "Spinelli.petizioni.1846.4",
-    "target": "88814c"
+    "target": "345b7e"
   },
   {
-    "id": "24a34f",
+    "id": "1e1d24",
     "string": "Spinelli.petizioni.1846.4",
-    "target": "88814c"
+    "target": "345b7e"
   },
   {
-    "id": "7daac5",
+    "id": "d3ae10",
     "string": "Spinelli.petizioni.1846.7",
-    "target": "13413a"
+    "target": "0ef52d"
   },
   {
-    "id": "7daac5",
+    "id": "d3ae10",
     "string": "Spinelli.petizioni.1846.7",
-    "target": "13413a"
+    "target": "0ef52d"
   },
   {
-    "id": "bcaf08",
+    "id": "3894b9",
     "string": "Spinelli.petizioni.1846.9",
-    "target": "db56ce"
+    "target": "c9bf79"
   },
   {
-    "id": "bcaf08",
+    "id": "3894b9",
     "string": "Spinelli.petizioni.1846.9",
-    "target": "db56ce"
+    "target": "c9bf79"
   },
   {
-    "id": "96eafa",
+    "id": "e7c0a6",
     "string": "Spinelli.petizioni.1846.13",
-    "target": "2a7204"
+    "target": "97475b"
   },
   {
-    "id": "96eafa",
+    "id": "e7c0a6",
     "string": "Spinelli.petizioni.1846.13",
-    "target": "2a7204"
+    "target": "97475b"
   },
   {
-    "id": "3e30b5",
+    "id": "7d0a62",
     "string": "Spinelli.petizioni.1846.15",
-    "target": "4409d8"
+    "target": "525602"
   },
   {
-    "id": "3e30b5",
+    "id": "7d0a62",
     "string": "Spinelli.petizioni.1846.15",
-    "target": "4409d8"
+    "target": "525602"
   },
   {
-    "id": "cb4a5b",
+    "id": "36c4ce",
     "string": "8. Avvisi musicali - Bustelli-Rossi",
-    "target": "b402da"
+    "target": "a04881"
   },
   {
-    "id": "cb4a5b",
+    "id": "36c4ce",
     "string": "8. Avvisi musicali - Bustelli-Rossi",
-    "target": "b402da"
+    "target": "a04881"
   },
   {
-    "id": "cb4a5b",
+    "id": "36c4ce",
     "string": "Illustrazione 7",
-    "target": "668663"
+    "target": "91331a"
   },
   {
-    "id": "cb4a5b",
+    "id": "36c4ce",
     "string": "Illustrazione 7",
-    "target": "668663"
+    "target": "91331a"
   },
   {
-    "id": "3cb473",
+    "id": "884dc9",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "3cb473",
+    "id": "884dc9",
     "string": "5. Depositi",
-    "target": "ea15c9"
+    "target": "58e606"
   },
   {
-    "id": "02dc9e",
+    "id": "3bd066",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "02dc9e",
+    "id": "3bd066",
     "string": "Carteggio.1842.1",
-    "target": "4bc277"
+    "target": "7254ee"
   },
   {
-    "id": "9ac3b1",
+    "id": "6107cc",
     "string": "Pozzi.petizioni.1843.7",
-    "target": "314b5d"
+    "target": "8357e5"
   },
   {
-    "id": "9ac3b1",
+    "id": "6107cc",
     "string": "Pozzi.petizioni.1843.7",
-    "target": "314b5d"
+    "target": "8357e5"
   },
   {
-    "id": "3595cd",
+    "id": "162720",
     "string": "Pozzi.petizioni.1843.6",
-    "target": "129508"
+    "target": "1abd6b"
   },
   {
-    "id": "3595cd",
+    "id": "162720",
     "string": "Pozzi.petizioni.1843.6",
-    "target": "129508"
+    "target": "1abd6b"
   },
   {
-    "id": "aa71ca",
+    "id": "f87af3",
     "string": "Pozzi.petizioni.1851.1",
-    "target": "2b9cc9"
+    "target": "29685d"
   },
   {
-    "id": "aa71ca",
+    "id": "f87af3",
     "string": "Pozzi.petizioni.1851.1",
-    "target": "2b9cc9"
+    "target": "29685d"
   },
   {
-    "id": "735342",
+    "id": "1f2cb5",
     "string": "Spinelli.petizioni.1846.9",
-    "target": "db56ce"
+    "target": "c9bf79"
   },
   {
-    "id": "735342",
+    "id": "1f2cb5",
     "string": "Spinelli.petizioni.1846.9",
-    "target": "db56ce"
+    "target": "c9bf79"
   },
   {
-    "id": "d964bb",
+    "id": "0abcd7",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "d964bb",
+    "id": "0abcd7",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "d964bb",
+    "id": "0abcd7",
     "string": " 14",
-    "target": "b73751"
+    "target": "d3e296"
   },
   {
-    "id": "4839a6",
+    "id": "afaf6b",
     "string": "Spinelli.petizioni.1851.14",
-    "target": "b73751"
+    "target": "d3e296"
   },
   {
-    "id": "4839a6",
+    "id": "afaf6b",
     "string": "Spinelli.petizioni.1851.14",
-    "target": "b73751"
+    "target": "d3e296"
   },
   {
-    "id": "fbd8fb",
+    "id": "74f825",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "fbd8fb",
+    "id": "74f825",
     "string": "Spinelli.petizioni.1851.13",
-    "target": "94f71b"
+    "target": "4bfdff"
   },
   {
-    "id": "3a79d1",
+    "id": "c69a8a",
     "string": "Spinelli.petizioni.1852.3",
-    "target": "f6ea8d"
+    "target": "6667cb"
   },
   {
-    "id": "3a79d1",
+    "id": "c69a8a",
     "string": "Spinelli.petizioni.1852.3",
-    "target": "f6ea8d"
+    "target": "6667cb"
   },
   {
-    "id": "4dd876",
+    "id": "e8f79e",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "4dd876",
+    "id": "e8f79e",
     "string": "Spinelli.petizioni.1854.3",
-    "target": "82bd33"
+    "target": "098590"
   },
   {
-    "id": "f7e6c8",
+    "id": "8e6303",
     "string": "Spinelli.petizioni.1852.4",
-    "target": "da903c"
+    "target": "0e7b7c"
   },
   {
-    "id": "f7e6c8",
+    "id": "8e6303",
     "string": "Spinelli.petizioni.1852.4",
-    "target": "da903c"
+    "target": "0e7b7c"
   },
   {
-    "id": "a38120",
+    "id": "376902",
     "string": "Spinelli.petizioni.1852.4",
-    "target": "da903c"
+    "target": "0e7b7c"
   },
   {
-    "id": "a38120",
+    "id": "376902",
     "string": "Spinelli.petizioni.1852.4",
-    "target": "da903c"
+    "target": "0e7b7c"
   },
   {
-    "id": "3d654f",
+    "id": "479f58",
     "string": "Spinelli.petizioni.1853.4",
-    "target": "2501ed"
+    "target": "3964b2"
   },
   {
-    "id": "3d654f",
+    "id": "479f58",
     "string": "Spinelli.petizioni.1853.4",
-    "target": "2501ed"
+    "target": "3964b2"
   },
   {
-    "id": "3139b7",
+    "id": "b702df",
     "string": "Spinelli.petizioni.1853.1",
-    "target": "d216ac"
+    "target": "b358dd"
   },
   {
-    "id": "3139b7",
+    "id": "b702df",
     "string": "Spinelli.petizioni.1853.1",
-    "target": "d216ac"
+    "target": "b358dd"
   },
   {
-    "id": "20de59",
+    "id": "5b52b9",
     "string": "Pozzi.petizioni.1842.1",
-    "target": "010126"
+    "target": "078e4e"
   },
   {
-    "id": "8ba3a4",
+    "id": "e44edc",
     "string": "Bustelli-Rossi.petizioni.1862.1",
-    "target": "312d20"
+    "target": "921d2d"
   },
   {
-    "id": "368928",
+    "id": "2b5f59",
     "string": "Bustelli-Rossi.avvisi.1862.1",
-    "target": "5745ce"
+    "target": "7d0acf"
   },
   {
-    "id": "c4ec04",
+    "id": "12686f",
     "string": "Documenti.vari.1869.2",
-    "target": "9c3749"
+    "target": "1d5761"
   },
   {
-    "id": "2d15d6",
+    "id": "9d7063",
     "string": "Bustelli-Rossi.avvisi.1857.2",
-    "target": "98f55f"
+    "target": "938166"
   },
   {
-    "id": "2d15d6",
+    "id": "9d7063",
     "string": "1859.1",
-    "target": "9b9db3"
+    "target": "ecfbd3"
   },
   {
-    "id": "685c3e",
+    "id": "7a2217",
     "string": "Carteggio.1848.1",
-    "target": "3ebab4"
+    "target": "0591d7"
   },
   {
-    "id": "034301",
+    "id": "9e29e3",
     "string": "Carteggio.1850.2a",
-    "target": "55472f"
+    "target": "e6689a"
   },
   {
-    "id": "034301",
+    "id": "9e29e3",
     "string": "Pozzi.petizioni.1850.8",
-    "target": "4aadc0"
+    "target": "5580ab"
   },
   {
-    "id": "8079b7",
+    "id": "7f4453",
     "string": "Illustrazione 24",
-    "target": "50c35f"
+    "target": "011578"
   },
   {
-    "id": "7710ee",
+    "id": "3563b2",
     "string": "Pozzi.petizioni.1842.8",
-    "target": "4520a5"
+    "target": "42cf15"
   },
   {
-    "id": "17b550",
+    "id": "748497",
     "string": "Carteggio.1828.1",
-    "target": "0a1140"
+    "target": "d15959"
   },
   {
-    "id": "13c505",
+    "id": "035ec9",
     "string": "Carteggio.1833.1",
-    "target": "3d4f35"
+    "target": "5cb9bc"
   },
   {
-    "id": "83158f",
+    "id": "dab4dd",
     "string": "Carteggio.1842.3",
-    "target": "4260c0"
+    "target": "f032a1"
   },
   {
-    "id": "2f0cb4",
+    "id": "db9810",
     "string": "Carteggio.1853.2",
-    "target": "8552ad"
+    "target": "2e17e4"
   },
   {
-    "id": "03bc79",
+    "id": "ea5861",
     "string": "Carteggio.1855.1",
-    "target": "9271f1"
+    "target": "edddc4"
   },
   {
-    "id": "ce9ce5",
+    "id": "44d60e",
     "string": "Illustrazione 4",
-    "target": "1db00a"
+    "target": "14d871"
   },
   {
-    "id": "ce9ce5",
+    "id": "44d60e",
     "string": "Illustrazione 4",
-    "target": "1db00a"
+    "target": "14d871"
   },
   {
-    "id": "d4ef36",
+    "id": "9006d8",
     "string": "Illustrazione 37",
-    "target": "f8fbc2"
+    "target": "cbb4a1"
   },
   {
-    "id": "d4ef36",
+    "id": "9006d8",
     "string": "Illustrazione 37",
-    "target": "f8fbc2"
+    "target": "cbb4a1"
   },
   {
-    "id": "d4ef36",
+    "id": "9006d8",
     "string": "Documenti.vari.1863.1",
-    "target": "56a490"
+    "target": "599daf"
   },
   {
-    "id": "d4ef36",
+    "id": "9006d8",
     "string": "Documenti.vari.1863.1",
-    "target": "56a490"
+    "target": "599daf"
   }
 ]
