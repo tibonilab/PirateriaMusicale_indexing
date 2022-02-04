@@ -154,6 +154,40 @@ for i in 0..11
     div_index = 0;
     doc.search('p').each_with_index do |e, index|
 
+        
+        if e[:class] == 'TABLE-HERE'
+          collector << Nokogiri::HTML('<table class="small-table">
+            <tr>
+                  <td>Serie</td>
+                  <td>At</td>
+                  <td>N.<sup>°</sup></td>
+                  <td>47645</td>
+                  <td>Una Banconota di</td>
+                  <td>f.</td>
+                  <td>100.–</td>
+            </tr>
+            <tr>
+                  <td>"</td>
+                  <td>Me</td>
+                  <td>"</td>
+                  <td>91017</td>
+                  <td style="text-align: center">idem</td>
+                  <td>"</td>
+                  <td>100.–</td>
+            </tr>
+            <tr>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td style="text-align: right">assieme</td>
+                  <td>f.</td>
+                  <td>200.–</td>
+            </tr>
+          </table>').to_html;
+          e.remove
+        end
+
         if breakpoints_start.include?(index)
             should_add = true
             divs[div_index] = Nokogiri::XML::Node.new('div', doc)
@@ -436,7 +470,7 @@ for i in 0..11
 
     doc.search('p').each_with_index do |e, index|
     
-      if e.children[0][:style] == 'font-size:10pt;color:44546A' || e.children[0][:style] == 'font-size:10pt;font-style:italic;font-weight:bold;color:44546A'
+      if e.children[0] && (e.children[0][:style] == 'font-size:10pt;color:44546A' || e.children[0][:style] == 'font-size:10pt;font-style:italic;font-weight:bold;color:44546A')
   
         e[:class] = 'inline-columns'
 
