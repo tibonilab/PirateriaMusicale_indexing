@@ -248,12 +248,25 @@ for i in 0..11
               div.add_child(note)
           end 
 
+          nodes = e.children.to_a
+          container = Nokogiri::XML::Node.new('span', doc)
+          container[:class] = 'text-value'
+
+          k = 1
+          while nodes[k]
+            container.add_child(nodes[k])
+            k = k + 1
+          end
+
+          e.children[0].after(container)
           e[:class] = 'inline-tab'
+          
+          # ap e
 
         # test otherwise if there is a single <span /> to be splitted into 2 chunks 
         # <span>NNNN</span><span>TEXT TEXT TEXT</span>
         # OR <span>[NNNN]</span><span>TEXT TEXT TEXT</span>
-        elsif (/\d/.match(e.children[0].text[0]) || e.children[0].text[0] == '[' && /\d/.match(e.children[0].text[1])) && e.children[0][:style] == 'font-size:10pt;color:44546A'
+        elsif (/\d/.match(e.children[0].text[0]) || e.children[0].text[0] == '[' && /\d/.match(e.children[0].text[1])) && e.children[0][:style] == 'font-size:10pt;color:44546A'          
           splitted = e.children[0].text.split
           style = e.children[0][:style];
 
@@ -264,12 +277,27 @@ for i in 0..11
           e.children[0].add_previous_sibling(div)
           e.children[1].remove
           
+          # put number into first span
           first_span = Nokogiri::XML::Node.new('span', doc)
           first_span.inner_html = splitted[0]
           first_span[:style] = style
 
+          # test if there is a note for the number
+          note = false
+
+          if e.children[1] && e.children[1][:id]
+            note = e.children[1]
+            e.children[1].remove
+          end
+
+          if note
+            first_span.add_child(note)
+          end
+
+          # remove number from splitted string
           splitted.delete_at(0);
 
+          # put text purged of number into second span
           second_span = Nokogiri::XML::Node.new('span', doc);
           second_span.inner_html = splitted.join(' ');
           second_span[:style] = style
@@ -277,8 +305,25 @@ for i in 0..11
           div.add_child(first_span)
           e.children[0].after(second_span)
 
+          # cycle all remaining spans containing text
+          nodes = e.children.to_a
+
+          container = Nokogiri::XML::Node.new('span', doc)
+          container.add_child(second_span);
+          container[:class] = 'text-value'
+
+          k = 1
+          while nodes[k]
+            container.add_child(nodes[k])
+            k = k + 1
+          end
+
+          e.children[0].after(container)
+
           e[:class] = 'inline-tab'
 
+        elsif e.children[0][:style] == 'font-size:10pt;font-weight:bold;color:C00000'
+          e[:class] = 'heading8'
         end
 
         if e.children[0][:style] == 'font-size:11pt;font-weight:bold;text-decoration:underline'

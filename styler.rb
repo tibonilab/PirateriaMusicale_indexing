@@ -70,11 +70,16 @@ doc.search('p').each do |node|
 
 
         if node.child[:style] == 'font-size:10pt;font-weight:bold;color:44546A'
-            if node.children[1]
-                if node.children[1].inner_html != 'Federico Ricci'
+            
+            if node[:class] != 'noheading'
                 node[:class] = 'heading6'
+            end
+
+            if node.children[1] && node[:class] != 'noheading'
+                if node.children[1].inner_html != 'Federico Ricci'
+                    node[:class] = 'heading6'
                 end
-            else
+            elsif node[:class] != 'noheading'
                 node[:class] = 'heading6'
             end
 
