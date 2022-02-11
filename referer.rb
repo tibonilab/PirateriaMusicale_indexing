@@ -77,6 +77,51 @@ def try_matching(node, child, headers, found, missing, doc)
             extracted = "Pozzi.avvisi.1837.1"
             matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
 
+        # manage here erroneous tagging inside the document
+        elsif !matched &&  search == "Pozzi.petizioni.13"
+            extracted = "Pozzi.petizioni.1850.1"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.15"
+            extracted = "Pozzi.petizioni.1851.1"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.23"
+            extracted = "Pozzi.petizioni.1853.5"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.70"
+            extracted = "Pozzi.petizioni.1843.14"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.71"
+            extracted = "Pozzi.petizioni.1843.18"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.72"
+            extracted = "Pozzi.petizioni.1843.11"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.73"
+            extracted = "Pozzi.petizioni.1843.16"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.74"
+            extracted = "Pozzi.petizioni.1843.15"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.75"
+            extracted = "Pozzi.petizioni."
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.1843.17"
+            extracted = "Pozzi.petizioni."
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.76"
+            extracted = "Pozzi.petizioni.1843.19"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.85"
+            extracted = "Pozzi.petizioni.1842.7"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.88"
+            extracted = "Pozzi.petizioni.1842.5"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+        elsif !matched &&  search == "Pozzi.petizioni.105"
+            extracted = "Pozzi.petizioni.1842.20"
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+
+        # others..
         elsif !matched &&  search == "Carteggio"
             extracted = "4. Carteggio"
             matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
