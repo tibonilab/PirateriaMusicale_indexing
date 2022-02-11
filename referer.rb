@@ -13,12 +13,16 @@ missing = [];
 found = []
 
 # wrap a child with a link
-def wrap(child, referer, doc)
+def wrap(child, referer, doc, extracted = '', replace = false)
     # create a node <a>
     link = Nokogiri::XML::Node.new('a', doc)
     link[:href] = "#" + referer[0][:id]
     link[:class] = 'anchor-link'
     link[:target] = '_blank'
+
+    if replace
+        child.inner_html = extracted
+    end
 
     # add it before the text
     child.wrap(link.to_html)
@@ -31,12 +35,12 @@ def add_missing(missing, node, search)
 end
 
 
-def try_matching_extracted(extracted, headers, child, doc, found, node, search)
+def try_matching_extracted(extracted, headers, child, doc, found, node, search, replace = false)
     referer = headers.select { |header| header[:string].start_with? extracted }
 
     if referer.count > 0
 
-        wrap(child, referer, doc)
+        wrap(child, referer, doc, extracted, replace)
 
         found << { id: node[:id], string: search, target: referer[0][:id] }
 
@@ -80,46 +84,46 @@ def try_matching(node, child, headers, found, missing, doc)
         # manage here erroneous tagging inside the document
         elsif !matched &&  search == "Pozzi.petizioni.13"
             extracted = "Pozzi.petizioni.1850.1"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.15"
             extracted = "Pozzi.petizioni.1851.1"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.23"
             extracted = "Pozzi.petizioni.1853.5"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.70"
             extracted = "Pozzi.petizioni.1843.14"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.71"
             extracted = "Pozzi.petizioni.1843.18"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.72"
             extracted = "Pozzi.petizioni.1843.11"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.73"
             extracted = "Pozzi.petizioni.1843.16"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.74"
             extracted = "Pozzi.petizioni.1843.15"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.75"
             extracted = "Pozzi.petizioni."
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.1843.17"
             extracted = "Pozzi.petizioni."
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.76"
             extracted = "Pozzi.petizioni.1843.19"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.85"
             extracted = "Pozzi.petizioni.1842.7"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.88"
             extracted = "Pozzi.petizioni.1842.5"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
         elsif !matched &&  search == "Pozzi.petizioni.105"
             extracted = "Pozzi.petizioni.1842.20"
-            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search)
+            matched = try_matching_extracted(extracted, headers, child, doc, found, node, search, true)
 
         # others..
         elsif !matched &&  search == "Carteggio"
