@@ -322,8 +322,8 @@ for i in 0..11
 
           e[:class] = 'inline-tab'
 
-        elsif e.children[0][:style] == 'font-size:10pt;font-weight:bold;color:C00000'
-          e[:class] = 'heading8'
+        elsif e.children[0][:style] == 'font-size:10pt;font-weight:bold;color:C00000' || (e.children[1] && e.children[1][:style] == 'font-size:10pt;font-weight:bold;color:C00000')
+          e[:class] = e[:class].to_s + ' heading8'
         end
 
         if e.children[0][:style] == 'font-size:11pt;font-weight:bold;text-decoration:underline'
