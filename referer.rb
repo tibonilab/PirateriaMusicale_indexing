@@ -64,8 +64,14 @@ def try_matching(node, child, headers, found, missing, doc)
     if search[-1] == '.' || search[-1] == ' ' || search[-1] == ' '
         search = search[0...-1]
     end 
-
+    
     referer = headers.select { |header| header[:string].start_with? search }
+
+    # exclude referer strict matching if search string is a number that could be refered to previous link
+    # something like "Pozzi.petizioni.1842.13, 14, 15, 16 e 18"
+    if (search.strip.match(/^[0-9]*$/ ) || search.start_with?(' '))
+        referer = []
+    end
 
     if referer.count > 0
 

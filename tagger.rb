@@ -218,6 +218,9 @@ for i in 0..11
   if i == 5
 
     doc.search('p').each_with_index do |e, index|
+
+      next if e[:class] == 'no-inline-tab'
+
           # search for heading
         if e.child[:style] == 'font-size:10pt;font-weight:bold;text-decoration:underline;color:44546A'
             e[:class] = 'heading7'
