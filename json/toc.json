@@ -5,550 +5,550 @@
         "name": "Toc",
         "group": [
           {
-            "name": "1. Introduzione",
+            "name": "1. Introduzione",
             "subtitle": "Ambientazione tematica",
             "link": [
               {
                 "label": "Introduzione",
-                "target": "1b3e3d"
+                "target": "b74749"
               },
               {
                 "label": "Dramatis personae",
-                "target": "4a40dc"
+                "target": "b74749"
               }
             ]
           },
           {
-            "name": "2. Studio generale",
+            "name": "2. Studio generale",
             "subtitle": "Vicende storiche dell’editoria musicale ticinese durante il\n                  Risorgimento: un sommario\n            ",
             "link": [
               {
                 "label": "Retroscena ",
-                "target": "4edfa2",
+                "target": "c4262d",
                 "chapter": "02"
               },
               {
                 "label": "Realtà complementari ",
-                "target": "3ab8b9",
+                "target": "ebbb91",
                 "chapter": "02"
               },
               {
                 "label": "Attività di frontiera ",
-                "target": "0b6457",
+                "target": "7ad47a",
                 "chapter": "02"
               },
               {
                 "label": "Contraffattori e contrabbandieri ",
-                "target": "60fa74",
+                "target": "3abb19",
                 "chapter": "02"
               },
               {
                 "label": "Reagisce lo Stato ",
-                "target": "8518f2",
+                "target": "cdd7a2",
                 "chapter": "02"
               },
               {
                 "label": "Lista bianca – lista nera ",
-                "target": "18cf13",
+                "target": "6d68b5",
                 "chapter": "02"
               },
               {
                 "label": "Strategie di conversione ",
-                "target": "385d35",
+                "target": "8d492a",
                 "chapter": "02"
               },
               {
                 "label": "Convenzioni inconvenienti ",
-                "target": "2a39ad",
+                "target": "75227f",
                 "chapter": "02"
               },
               {
                 "label": "Epilogo ",
-                "target": "9f65fc",
+                "target": "70e889",
                 "chapter": "02"
               }
             ]
           },
           {
-            "name": "3. Cronologia",
+            "name": "3. Cronologia",
             "subtitle": "Sunto cronologico dei principali avvenimenti legati alla storia e allo sviluppo dell’editoria\n            musicale ticinese durante il Risorgimento e oltre (1808–1902)",
-            "link": "9dbaad"
+            "link": "2bf235"
           },
           {
-            "name": "4. Carteggio",
+            "name": "4. Carteggio",
             "subtitle": "Lettere di corrispondenza di vari attori legati agli eventi\n                  (1826–1863): trascrizione con commento critico",
             "link": [
               {
                 "label": "Carteggio.1826.1 ",
-                "target": "a43433",
+                "target": "3e9ac6",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1826.2 ",
-                "target": "ec33c3",
+                "target": "3f9a16",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1827.1 ",
-                "target": "c96325",
+                "target": "7e2e9a",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1828.1 ",
-                "target": "4313c6",
+                "target": "9bb59b",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1828.2 ",
-                "target": "31cccc",
+                "target": "976d32",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1831.1 ",
-                "target": "2b78ed",
+                "target": "adfcde",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1831.2 ",
-                "target": "997242",
+                "target": "1ba833",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1832.1 ",
-                "target": "a675d5",
+                "target": "b839ab",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1832.2 ",
-                "target": "a32c1d",
+                "target": "37ea86",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1833.1 ",
-                "target": "fedc48",
+                "target": "e1623f",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1833.2 ",
-                "target": "615ef5",
+                "target": "b03f18",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1833.3 ",
-                "target": "a3817d",
+                "target": "6395a3",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1835.1 ",
-                "target": "f9ba5c",
+                "target": "975247",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1835.2 ",
-                "target": "3eb947",
+                "target": "5418dd",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1835.3 ",
-                "target": "e5dc67",
+                "target": "2227d5",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1836.1 ",
-                "target": "785628",
+                "target": "f215c8",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1836.2 ",
-                "target": "c15a91",
+                "target": "9b9d67",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1836.3",
-                "target": "39c32c",
+                "target": "7f97a2",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1836.4",
-                "target": "5d686f",
+                "target": "f79281",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1836.5 ",
-                "target": "4c3aa3",
+                "target": "17f775",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1836.6 ",
-                "target": "43155e",
+                "target": "4cc7e9",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1836.7 ",
-                "target": "7b8cb7",
+                "target": "9438a5",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1836.8 ",
-                "target": "8a82a5",
+                "target": "daf3b5",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1836.9 ",
-                "target": "885fab",
+                "target": "3d1cd2",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1836.10 ",
-                "target": "287b4f",
+                "target": "c9fef7",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1837.1 ",
-                "target": "46bf89",
+                "target": "54b0ca",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1837.2 ",
-                "target": "f3ae32",
+                "target": "c5fcca",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1838.1 ",
-                "target": "85afa6",
+                "target": "02e718",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1838.2 ",
-                "target": "5948e5",
+                "target": "e24542",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1838.3 ",
-                "target": "5be99f",
+                "target": "7608f7",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1841.2 ",
-                "target": "977785",
+                "target": "782e8e",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1841.3 ",
-                "target": "f83c86",
+                "target": "b23a79",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1842.1 ",
-                "target": "b45c71",
+                "target": "bafd99",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1842.2 ",
-                "target": "9ecd5b",
+                "target": "1fd998",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1842.3 ",
-                "target": "920d6e",
+                "target": "c07ce9",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1843.1 ",
-                "target": "630021",
+                "target": "a485ab",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1843.2 ",
-                "target": "e7fff4",
+                "target": "5ecc46",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1843.3 ",
-                "target": "588277",
+                "target": "97ad82",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1844.1 ",
-                "target": "556f12",
+                "target": "bea2d9",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1844.2 ",
-                "target": "0fa0d3",
+                "target": "81d3c1",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1844.3 ",
-                "target": "1170ae",
+                "target": "f19c9d",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1844.4 ",
-                "target": "e6521b",
+                "target": "a61813",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1844.5 ",
-                "target": "75c09e",
+                "target": "5f3cb0",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1847.1 ",
-                "target": "515b9b",
+                "target": "565237",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1848.1 ",
-                "target": "3efd7e",
+                "target": "701008",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1848.2 ",
-                "target": "b31707",
+                "target": "80e4f1",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1849.1 ",
-                "target": "dd7a1c",
+                "target": "59f4b8",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1849.2 ",
-                "target": "d34ee4",
+                "target": "f3c6e2",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1849.3 ",
-                "target": "cd32bb",
+                "target": "f3ffb6",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1849.4 ",
-                "target": "628acb",
+                "target": "66392f",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1849.5 ",
-                "target": "659f40",
+                "target": "d29513",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1850.1 ",
-                "target": "4e4b52",
+                "target": "d18fab",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1850.2a ",
-                "target": "5f6a5e",
+                "target": "97e8cd",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1850.2b ",
-                "target": "03af62",
+                "target": "b1e00d",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1852.1 ",
-                "target": "a563f7",
+                "target": "4630bb",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1852.2 ",
-                "target": "50d2a8",
+                "target": "b4b144",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1852.3 ",
-                "target": "88a244",
+                "target": "cd3cc7",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1852.4 ",
-                "target": "df1a98",
+                "target": "e51e0a",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1852.5 ",
-                "target": "c3de43",
+                "target": "d0926f",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1852.6 ",
-                "target": "6e51e1",
+                "target": "d384e9",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1853.1 ",
-                "target": "7d29a3",
+                "target": "4ffabe",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1853.2 ",
-                "target": "acef3f",
+                "target": "6548d4",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1853.3 ",
-                "target": "87c40f",
+                "target": "c85450",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1853.4 ",
-                "target": "54d2ce",
+                "target": "7b7ae6",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1853.5 ",
-                "target": "645815",
+                "target": "486f51",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1854.1 ",
-                "target": "c3558b",
+                "target": "fbcda6",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1854.2 ",
-                "target": "643106",
+                "target": "e5fbfb",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1855.1 ",
-                "target": "0065a8",
+                "target": "aba5b2",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1855.2 ",
-                "target": "cdd422",
+                "target": "7de29d",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1855.3 ",
-                "target": "6d46c3",
+                "target": "5009fd",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1855.4 ",
-                "target": "120d25",
+                "target": "4a6983",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1858.1 ",
-                "target": "3b3b42",
+                "target": "68e0e0",
                 "chapter": "04"
               },
               {
                 "label": "Carteggio.1863.1 ",
-                "target": "7eec1f",
+                "target": "501af6",
                 "chapter": "04"
               }
             ]
           },
           {
-            "name": "5. Depositi",
+            "name": "5. Depositi",
             "subtitle": "Elenco dei prodotti depositati ufficialmente presso il Consiglio di\n                  Stato ticinese\n            ",
             "group": [
               {
-                "name": "5. Depositi - Carlo Pozzi (1836–1855)",
-                "target": "77cc34",
+                "name": "5. Depositi - Carlo Pozzi (1836–1855)",
+                "target": "d2e2a4",
                 "link": [
                   {
-                    "label": "a) sintesi cronologica",
-                    "target": "07f903",
+                    "label": "a) sintesi cronologica",
+                    "target": "cee224",
                     "chapter": "05"
                   },
                   {
-                    "label": "b) sintesi quantitativa e per tipologie",
-                    "target": "815027",
+                    "label": "b) sintesi quantitativa e per tipologie",
+                    "target": "9e30dc",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  riassuntiva)",
-                    "target": "88c363",
+                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  riassuntiva)",
+                    "target": "68f8f3",
                     "chapter": "05"
                   },
                   {
                     "label": "> sintesi quantitativa dei materiali documentati (forma\n                  completa)",
-                    "target": "3f9ed4",
+                    "target": "467c05",
                     "chapter": "05"
                   },
                   {
                     "label": "> sintesi dei materiali documentati per tipologie (forma\n                  ridotta)",
-                    "target": "7cd8f3",
+                    "target": "9ed651",
                     "chapter": "05"
                   }
                 ]
               },
               {
-                "name": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)",
-                "target": "e03cbe",
+                "name": "5. Depositi - Gioachino Spinelli / Euterpe Ticinese (1838–1854)",
+                "target": "86f2d9",
                 "link": [
                   {
-                    "label": "a) sintesi cronologica",
-                    "target": "afd66b",
+                    "label": "a) sintesi cronologica",
+                    "target": "7decff",
                     "chapter": "05"
                   },
                   {
-                    "label": "b) sintesi quantitativa e per tipologie",
-                    "target": "e94a0b",
+                    "label": "b) sintesi quantitativa e per tipologie",
+                    "target": "75eb45",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi quantitativa dei materiali documentati (forma ridotta)",
-                    "target": "7e62cf",
+                    "label": "> sintesi quantitativa dei materiali documentati (forma ridotta)",
+                    "target": "a15c52",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  completa)",
-                    "target": "0129a9",
+                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  completa)",
+                    "target": "8e42f1",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi dei materiali documentati per tipologie",
-                    "target": "15e3e0",
+                    "label": "> sintesi dei materiali documentati per tipologie",
+                    "target": "498845",
                     "chapter": "05"
                   }
                 ]
               },
               {
-                "name": "5. Depositi - Achille Bustelli-Rossi (1857–1867)",
-                "target": "a5c221",
+                "name": "5. Depositi - Achille Bustelli-Rossi (1857–1867)",
+                "target": "96fc28",
                 "link": [
                   {
-                    "label": "a) sintesi cronologica",
-                    "target": "b739cc",
+                    "label": "a) sintesi cronologica",
+                    "target": "a88e3d",
                     "chapter": "05"
                   },
                   {
-                    "label": "b) sintesi quantitativa e per tipologie",
-                    "target": "18c588",
+                    "label": "b) sintesi quantitativa e per tipologie",
+                    "target": "3f6476",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  riassuntiva)",
-                    "target": "706e3e",
+                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  riassuntiva)",
+                    "target": "0f5604",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  completa)",
-                    "target": "66b745",
+                    "label": "> sintesi quantitativa dei materiali documentati (forma\n                  completa)",
+                    "target": "8b3ea0",
                     "chapter": "05"
                   },
                   {
-                    "label": "> sintesi dei materiali documentati per tipologie",
-                    "target": "e666dd",
+                    "label": "> sintesi dei materiali documentati per tipologie",
+                    "target": "778faf",
                     "chapter": "05"
                   }
                 ]
               },
               {
-                "name": "5. Depositi - Francesco Veladini (1860–1866)",
-                "target": "5fd39d",
+                "name": "5. Depositi - Francesco Veladini (1860–1866)",
+                "target": "01a5ce",
                 "link": [
                   {
-                    "label": "> sintesi cronologica",
-                    "target": "350d67",
+                    "label": "> sintesi cronologica",
+                    "target": "6f0e0a",
                     "chapter": "05"
                   }
                 ]
@@ -556,68 +556,68 @@
             ]
           },
           {
-            "name": "6. Cataloghi",
+            "name": "6. Cataloghi",
             "subtitle": "Elenco dei prodotti realizzati dai protagonisti dell’editoria\n                  musicale ticinese, non\n                  depositati ",
             "group": [
               {
-                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Carlo Pozzi",
-                "target": "c74e31",
+                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Carlo Pozzi",
+                "target": "7135ee",
                 "link": [
                   {
-                    "label": "a) in ordine numerico",
-                    "target": "52be38",
+                    "label": "a) in ordine numerico",
+                    "target": "d43687",
                     "chapter": "06"
                   },
                   {
-                    "label": "> elenco numerico",
-                    "target": "417e14",
+                    "label": "> elenco numerico",
+                    "target": "12e54a",
                     "chapter": "06"
                   },
                   {
-                    "label": "b) in ordine tematico",
-                    "target": "698cc1",
+                    "label": "b) in ordine tematico",
+                    "target": "74afda",
                     "chapter": "06"
                   }
                 ]
               },
               {
-                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Euterpe Ticinese",
-                "target": "e11567",
+                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Euterpe Ticinese",
+                "target": "f911d5",
                 "link": [
                   {
-                    "label": "a) in ordine numerico",
-                    "target": "48c9fb",
+                    "label": "a) in ordine numerico",
+                    "target": "483924",
                     "chapter": "06"
                   },
                   {
-                    "label": "> elenco numerico",
-                    "target": "ba5c96",
+                    "label": "> elenco numerico",
+                    "target": "dfa288",
                     "chapter": "06"
                   },
                   {
-                    "label": "b) in ordine tematico",
-                    "target": "22bf84",
+                    "label": "b) in ordine tematico",
+                    "target": "9f8243",
                     "chapter": "06"
                   }
                 ]
               },
               {
-                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Achille Bustelli-Rossi",
-                "target": "000732",
+                "name": "6. Cataloghi - Catalogo delle musiche prodotte da Achille Bustelli-Rossi",
+                "target": "a2e835",
                 "link": [
                   {
-                    "label": "a) in ordine numerico",
-                    "target": "1f433a",
+                    "label": "a) in ordine numerico",
+                    "target": "0e5fd1",
                     "chapter": "06"
                   },
                   {
-                    "label": "> elenco numerico",
-                    "target": "8f8b88",
+                    "label": "> elenco numerico",
+                    "target": "39792f",
                     "chapter": "06"
                   },
                   {
-                    "label": "b) in ordine tematico",
-                    "target": "52cf69",
+                    "label": "b) in ordine tematico",
+                    "target": "eb812d",
                     "chapter": "06"
                   }
                 ]
@@ -625,454 +625,454 @@
             ]
           },
           {
-            "name": "7. Petizioni",
-            "subtitle": "Raccolta delle petizioni presentate al Consiglio di Stato ticinese per ottenere il\n            beneficio giusta la legge 20 maggio 1835 sulla protezione della proprietà letteraria (in ordine\n            cronologico) ",
+            "name": "7. Petizioni",
+            "subtitle": "Raccolta delle petizioni presentate al Consiglio di Stato ticinese per ottenere il\n            beneficio giusta la legge 20 maggio 1835 sulla protezione della proprietà letteraria (in ordine\n            cronologico) ",
             "link": [
               {
-                "label": "7. Petizioni - Pozzi (1839–1855)",
-                "target": "8e6ead",
+                "label": "7. Petizioni - Pozzi (1839–1855)",
+                "target": "918e4d",
                 "chapter": "07"
               },
               {
-                "label": "7. Petizioni - Spinelli / Euterpe Ticinese (1840–1854)",
-                "target": "4c7a0f",
+                "label": "7. Petizioni - Spinelli / Euterpe Ticinese (1840–1854)",
+                "target": "de5ffa",
                 "chapter": "07"
               },
               {
-                "label": "7. Petizioni - Bustelli-Rossi (1859–1867)",
-                "target": "8fa921",
+                "label": "7. Petizioni - Bustelli-Rossi (1859–1867)",
+                "target": "00bfd7",
                 "chapter": "07"
               }
             ]
           },
           {
-            "name": "8. Avvisi musicali",
+            "name": "8. Avvisi musicali",
             "subtitle": "Raccolta degli annunci lanciati dagli editori musicali ticinesi sui\n                  principali organi\n                  ufficiali e di stampa per diffidare la ristampa dei prodotti depositati (in ordine cronologico)\n      ",
             "link": [
               {
-                "label": "8. Avvisi musicali pubblicati da Carlo Pozzi",
-                "target": "250e0f",
+                "label": "8. Avvisi musicali pubblicati da Carlo Pozzi",
+                "target": "a3f4ad",
                 "chapter": "08"
               },
               {
-                "label": "8. Avvisi musicali pubblicati da Gioachino Spinelli (Euterpe Ticinese)",
-                "target": "3f7479",
+                "label": "8. Avvisi musicali pubblicati da Gioachino Spinelli (Euterpe Ticinese)",
+                "target": "ac63b7",
                 "chapter": "08"
               },
               {
-                "label": "8. Avvisi musicali pubblicati da Achille Bustelli-Rossi",
-                "target": "48ce3f",
+                "label": "8. Avvisi musicali pubblicati da Achille Bustelli-Rossi",
+                "target": "03c9f8",
                 "chapter": "08"
               }
             ]
           },
           {
-            "name": "9. Documenti vari",
+            "name": "9. Documenti vari",
             "subtitle": "Avvisi pubblici, testi di legge, documenti governativi (1815–1900):\n                  materiali non compresi nelle precedenti rubriche (in ordine cronologico) ",
             "link": [
               {
                 "label": "Documenti.vari.1815.1",
-                "target": "fc8a15",
+                "target": "e38cd1",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1816.1",
-                "target": "3e20b7",
+                "target": "b9874a",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1831.1",
-                "target": "272a5f",
+                "target": "31d017",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1831.2",
-                "target": "433420",
+                "target": "9ea9ab",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1831.3",
-                "target": "9492c9",
+                "target": "ab6e2f",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1831.4",
-                "target": "abef50",
+                "target": "15700b",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1833.1",
-                "target": "b79e82",
+                "target": "40f671",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1835.1",
-                "target": "05697d",
+                "target": "18ac2f",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1840.1",
-                "target": "10741c",
+                "target": "5280d7",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1841.1",
-                "target": "f227be",
+                "target": "64c212",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1842.1",
-                "target": "438be7",
+                "target": "29ff82",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1850.1",
-                "target": "a72933",
+                "target": "5c8b0a",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1850.2",
-                "target": "8fa88a",
+                "target": "31292c",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1853.1",
-                "target": "ee4367",
+                "target": "4b9219",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1858.1",
-                "target": "1f7580",
+                "target": "469058",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1863.1",
-                "target": "a6b15e",
+                "target": "8f258e",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1868.1",
-                "target": "85ab3c",
+                "target": "3e217e",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1869.1",
-                "target": "1cfad1",
+                "target": "e97dab",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1869.2",
-                "target": "c96469",
+                "target": "a5a395",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1870.1",
-                "target": "9670ac",
+                "target": "d4a22d",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1870.2",
-                "target": "68d3b2",
+                "target": "db3aa1",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1883.1",
-                "target": "2bee8a",
+                "target": "7ec60a",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1886.1",
-                "target": "9a742a",
+                "target": "769b24",
                 "chapter": "09"
               },
               {
                 "label": "Documenti.vari.1900.1",
-                "target": "186e31",
+                "target": "03045d",
                 "chapter": "09"
               }
             ]
           },
           {
-            "name": "10. Illustrazioni",
+            "name": "10. Illustrazioni",
             "link": [
               {
-                "label": "Illustrazione 1",
-                "target": "a8a2e0",
+                "label": "Illustrazione 1",
+                "target": "135a6f",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 2",
-                "target": "e07089",
+                "label": "Illustrazione 2",
+                "target": "e2fe07",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 3",
-                "target": "7a312b",
+                "label": "Illustrazione 3",
+                "target": "e5ffd1",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 4a",
-                "target": "a5984d",
+                "label": "Illustrazione 4a",
+                "target": "00d3c1",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 4b",
-                "target": "19d0a9",
+                "label": "Illustrazione 4b",
+                "target": "26a7ac",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 5a",
-                "target": "7cba07",
+                "label": "Illustrazione 5a",
+                "target": "b355b3",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 5b",
-                "target": "8cce8d",
+                "label": "Illustrazione 5b",
+                "target": "f98571",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 6a-b",
-                "target": "52a76a",
+                "label": "Illustrazione 6a-b",
+                "target": "0ab2b1",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 6c-d",
-                "target": "2aefe4",
+                "label": "Illustrazione 6c-d",
+                "target": "12f89e",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 7a",
-                "target": "ea9c41",
+                "label": "Illustrazione 7a",
+                "target": "f8ac42",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 7b",
-                "target": "bcd78f",
+                "label": "Illustrazione 7b",
+                "target": "f505da",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 8a",
-                "target": "710860",
+                "label": "Illustrazione 8a",
+                "target": "11a3c3",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 8b",
-                "target": "fc64e0",
+                "label": "Illustrazione 8b",
+                "target": "9fa59a",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 8c-d",
-                "target": "6d814b",
+                "label": "Illustrazione 8c-d",
+                "target": "e53c66",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 9",
-                "target": "c22cfe",
+                "label": "Illustrazione 9",
+                "target": "d694c5",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 10a-b",
-                "target": "ede8b6",
+                "label": "Illustrazione 10a-b",
+                "target": "20dafc",
                 "chapter": "10"
               },
               {
                 "label": "Illustrazione 11a-b",
-                "target": "fbc15f",
+                "target": "79b413",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 12a-c",
-                "target": "bdf8b8",
+                "label": "Illustrazione 12a-c",
+                "target": "2fd2ee",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 13",
-                "target": "0c9413",
+                "label": "Illustrazione 13",
+                "target": "feb2d4",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 14",
-                "target": "0cf106",
+                "label": "Illustrazione 14",
+                "target": "528639",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 15a-b",
-                "target": "ac7a25",
+                "label": "Illustrazione 15a-b",
+                "target": "fe786c",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 16",
-                "target": "bceb5d",
+                "label": "Illustrazione 16",
+                "target": "7c70fc",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 17",
-                "target": "ef3e54",
+                "label": "Illustrazione 17a-b",
+                "target": "4e4071",
                 "chapter": "10"
               },
               {
                 "label": "Illustrazione 18a-b",
-                "target": "f1b12c",
+                "target": "bf28a1",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 18c",
-                "target": "5c6502",
+                "label": "Illustrazione 18c",
+                "target": "2af3b2",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 19a-b",
-                "target": "b11f01",
+                "label": "Illustrazione 19a-b",
+                "target": "7b0f44",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 19c-d",
-                "target": "b78c2b",
+                "label": "Illustrazione 19c-d",
+                "target": "040fc5",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 19e",
-                "target": "5432a9",
+                "label": "Illustrazione 19e",
+                "target": "350988",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 20a-c",
-                "target": "70a4f2",
+                "label": "Illustrazione 20a-c",
+                "target": "cd7813",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 21",
-                "target": "675ac8",
+                "label": "Illustrazione 21",
+                "target": "fa3cd9",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 22",
-                "target": "0b4231",
+                "label": "Illustrazione 22",
+                "target": "940b94",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 23",
-                "target": "538813",
+                "label": "Illustrazione 23",
+                "target": "b6d824",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 24",
-                "target": "cf8a11",
+                "label": "Illustrazione 24",
+                "target": "45f8c2",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 25a-c",
-                "target": "2afda8",
+                "label": "Illustrazione 25a-c",
+                "target": "52f911",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 25d-e",
-                "target": "5fa771",
+                "label": "Illustrazione 25d-e",
+                "target": "b1d7f2",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 26a",
-                "target": "d8fc91",
+                "label": "Illustrazione 26a",
+                "target": "829fd3",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 26b",
-                "target": "e94863",
+                "label": "Illustrazione 26b",
+                "target": "9df738",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 26c",
-                "target": "1c6693",
+                "label": "Illustrazione 26c",
+                "target": "9cc3a6",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 24",
-                "target": "e08ee4",
+                "label": "Illustrazione 24",
+                "target": "7d5dcf",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 26d",
-                "target": "880fe9",
+                "label": "Illustrazione 26d",
+                "target": "9ba367",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 27",
-                "target": "7d3824",
+                "label": "Illustrazione 27",
+                "target": "83f142",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 28a-b",
-                "target": "45ef8a",
+                "label": "Illustrazione 28a-b",
+                "target": "51bd34",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 29a-b",
-                "target": "49566c",
+                "label": "Illustrazione 29a-b",
+                "target": "890ba7",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 30a-b",
-                "target": "4ff99d",
+                "label": "Illustrazione 30a-b",
+                "target": "989caf",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 31",
-                "target": "4dcb86",
+                "label": "Illustrazione 31",
+                "target": "797dc6",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 32",
-                "target": "eca0dc",
+                "label": "Illustrazione 32",
+                "target": "275576",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 33",
-                "target": "e5857d",
+                "label": "Illustrazione 33",
+                "target": "062d72",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 34",
-                "target": "849fa3",
+                "label": "Illustrazione 34",
+                "target": "cb7540",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 35",
-                "target": "8b112e",
+                "label": "Illustrazione 35",
+                "target": "c53c52",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 36a-c",
-                "target": "d50d84",
+                "label": "Illustrazione 36a-c",
+                "target": "43d0dc",
                 "chapter": "10"
               },
               {
-                "label": "Illustrazione 37a-b",
-                "target": "a66823",
+                "label": "Illustrazione 37a-b",
+                "target": "bc02cb",
                 "chapter": "10"
               }
             ]
           },
           {
-            "name": "11. Abbreviazioni  -  Bibliografia",
+            "name": "11. Abbreviazioni  -  Bibliografia",
             "link": [
               {
-                "label": "Archivi e biblioteche",
-                "target": "9f41f2",
+                "label": "Archivi e biblioteche",
+                "target": "6571bb",
                 "chapter": "11"
               },
               {
-                "label": "Fonti ufficiali a stampa",
-                "target": "30da0d",
+                "label": "Fonti ufficiali a stampa",
+                "target": "515cce",
                 "chapter": "11"
               },
               {
                 "label": "Altre sigle",
-                "target": "75a69c",
+                "target": "0570a7",
                 "chapter": "11"
               },
               {
-                "label": "Riferimenti bibliografici",
-                "target": "2f6791",
+                "label": "Riferimenti bibliografici",
+                "target": "ff0f96",
                 "chapter": "11"
               }
             ]
