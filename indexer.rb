@@ -167,7 +167,12 @@ doc.search('span').each do |s|
     if title == ''
       title = splitted[1]
     end
-    
+
+    if !title
+      title = s.parent.next_element.child.child.text.strip
+      # ap title
+    end
+
     # normalizing names
     string_to_test = s.text.strip
 
@@ -250,11 +255,21 @@ index.each do |name, pages|
 
   normalized_name = name_map2[name]
 
+  if ! normalized_name
+    ap name
+  end
+
   composer = {}
   composer[:name] = normalized_name
   
   links = []
+
   pages.each do |p|
+
+    if !p[1]
+      ap p
+    end
+
     links << {label: p[1].strip, target: p[0], chapter: "06"}
   end
 

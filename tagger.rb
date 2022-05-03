@@ -518,8 +518,61 @@ for i in 0..11
 
     doc.search('p').each_with_index do |e, index|
     
-      if e.children[0] && (e.children[0][:style] == 'font-size:10pt;color:44546A' || e.children[0][:style] == 'font-size:10pt;font-style:italic;font-weight:bold;color:44546A')
-  
+      next if e[:class] == 'inline-columns'
+
+      if e[:class] == 'inline-flex' && e.children[0] && e.children[0][:style] == 'font-size:10pt;font-style:italic;font-weight:bold;color:44546A'
+        e[:class] = 'inline-flex'
+
+        left = Nokogiri::XML::Node.new('span', doc)
+        left[:class] = 'inline-flex-left'
+
+        right = Nokogiri::XML::Node.new('span', doc)
+        right[:class] = 'inline-flex-right'
+
+        splitted = e.children[1].text.strip.split('[');
+
+        left.add_child(e.children[0])
+
+        note = false
+        k = 0
+        while e.children[k]
+          if (e.children[k][:id])
+            note = e.children[k]
+            e.children[k].remove
+          end
+          k = k + 1
+        end
+
+        k = 0;
+        while splitted[k]
+          content = Nokogiri::XML::Node.new('span', doc)
+          content[:style] = 'font-size:10pt;color:44546A';
+          content.inner_html = splitted[k+1] ? splitted[k] : splitted.count > 1 ?  '[' + splitted[k] : splitted[k]
+
+          if splitted[k+1] || splitted.count == 1
+            left.add_child(content)
+          else 
+            right.add_child(content)
+
+            if note
+              right.add_child(note)
+            end
+          end
+          k = k + 1  
+        end
+
+        e.add_child(left);
+
+        if right.children.count > 0
+          e.add_child(right);
+        end
+
+        e.children[0].remove
+      end
+
+
+      if e[:class] != 'inline-flex' && e.children[0] && (e.children[0][:style] == 'font-size:10pt;color:44546A' || e.children[0][:style] == 'font-size:10pt;font-style:italic;font-weight:bold;color:44546A')
+
         e[:class] = 'inline-columns'
 
         # clean up the elements if ar note nodes
@@ -540,6 +593,25 @@ for i in 0..11
               notelink = e.children[1];
               e.children[1].remove
               e.children[0].add_child(notelink)
+          end
+
+          nodes = e.children.to_a
+          container = Nokogiri::XML::Node.new('span', doc)
+          container[:class] = 'text-value'
+
+          k = 1
+          while nodes[k]
+            if e.children[k]
+              e.children[k].remove
+            end
+            container.add_child(nodes[k])
+            k = k + 1
+          end
+
+          e.children[0].after(container)
+
+          if nodes[1] && nodes[1].inner_html.start_with?('op.')
+            e[:class] = e[:class] + ' inline-tab-padding-top'
           end
           
         # otherwise the numeric value is not single wrapped into its <span>
@@ -563,7 +635,12 @@ for i in 0..11
 
               text = Nokogiri::XML::Node.new('span', doc);
               text[:style] = e.children[0][:style]
+              text[:class] = 'text-value'
               text.inner_html = splitted.join(' ')
+
+              if text.inner_html.start_with?('op.')
+                e[:class] = e[:class] + ' inline-tab-padding-top'
+              end
 
               e.add_child(span)
               e.add_child(text)
@@ -571,7 +648,7 @@ for i in 0..11
               e.children[0].remove
             
             # else if the first chunk is numeric we want to wrap it into a .numeric-value <span>
-            elsif splitted[0].is_numeric? || splitted[0][0] == '°'
+            elsif splitted[0].is_numeric? || splitted[0][0] == '°' || splitted[0].gsub('°', '').is_numeric?
               span = Nokogiri::XML::Node.new('span', doc);
               span[:style] = e.children[0][:style]
               span[:class] = 'numeric-value';
@@ -581,12 +658,36 @@ for i in 0..11
 
               text = Nokogiri::XML::Node.new('span', doc);
               text[:style] = e.children[0][:style]
+              text[:class] = 'text-value'
               text.inner_html = splitted.join(' ')
+
+              if text.inner_html.start_with?('op.')
+                e[:class] = e[:class] + ' inline-tab-padding-top'
+              end
 
               e.add_child(span)
               e.add_child(text)
 
               e.children[0].remove
+
+              nodes = e.children.to_a
+              container = Nokogiri::XML::Node.new('span', doc)
+              container[:class] = 'text-value'
+
+              k = 1
+              while nodes[k]
+                if e.children[k]
+                  e.children[k].remove
+                end
+                container.add_child(nodes[k])
+                k = k + 1
+              end
+
+              e.children[0].after(container)
+
+              if nodes[1] && nodes[1].inner_html.start_with?('op.')
+                e[:class] = e[:class] + ' inline-tab-padding-top'
+              end
             end
 
           # manage here a collection of <span>
@@ -603,6 +704,25 @@ for i in 0..11
                   notelink = e.children[1];
                   e.children[1].remove
                   e.children[0].add_child(notelink)
+              end
+
+              nodes = e.children.to_a
+              container = Nokogiri::XML::Node.new('span', doc)
+              container[:class] = 'text-value'
+    
+              k = 1
+              while nodes[k]
+                if e.children[k]
+                  e.children[k].remove
+                end
+                container.add_child(nodes[k])
+                k = k + 1
+              end
+
+              e.children[0].after(container)
+
+              if nodes[1] && nodes[1].inner_html.start_with?('op.')
+                e[:class] = e[:class] + ' inline-tab-padding-top'
               end
 
             else
@@ -623,13 +743,29 @@ for i in 0..11
 
                 text = Nokogiri::XML::Node.new('span', doc);
                 text[:style] = e.children[0][:style]
-                text.inner_html = splitted.join(' ')
+                text[:class] = 'text-value'
+                text.inner_html = '<span>' + splitted.join(' ') + '</span>';
 
-                e.children[0].remove
+                if splitted[0].start_with?('op.')
+                  e[:class] = e[:class] + ' inline-tab-padding-top'
+                end
+
+                nodes = e.children.to_a
+      
+                k = 1
+                while nodes[k]
+                  if e.children[k]
+                    e.children[k].remove
+                  end
+                  text.add_child(nodes[k])
+                  k = k + 1
+                end
 
                 e.children[0].add_previous_sibling(text)
                 e.children[0].add_previous_sibling(span)
-              
+
+                e.children[e.children.count - 1].remove
+
               # else if the first chunk is numeric we want to wrap it into a .numeric-value <span>
               elsif splitted[0].is_numeric? || splitted[0][0] == '°' || splitted[0].gsub('-','').is_numeric? || splitted[0].gsub('/','').is_numeric?
                 span = Nokogiri::XML::Node.new('span', doc);
@@ -641,12 +777,28 @@ for i in 0..11
 
                 text = Nokogiri::XML::Node.new('span', doc);
                 text[:style] = e.children[0][:style]
-                text.inner_html = splitted.join(' ')
-                
-                e.children[0].remove
+                text[:class] = 'text-value'
+                text.inner_html = '<span>' + splitted.join(' ') + '</span>'
+
+                if splitted[0].start_with?('op.')
+                  e[:class] = e[:class] + ' inline-tab-padding-top'
+                end
+
+                nodes = e.children.to_a
+      
+                k = 1
+                while nodes[k]
+                  if e.children[k]
+                    e.children[k].remove
+                  end
+                  text.add_child(nodes[k])
+                  k = k + 1
+                end
 
                 e.children[0].add_previous_sibling(text)
                 e.children[0].add_previous_sibling(span)
+
+                e.children[e.children.count - 1].remove
 
               end
             end
