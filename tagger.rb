@@ -44,7 +44,8 @@ stop_index = 0
 for i in 0..11
 
   if i == 5 
-    doc = File.open("./source/document#{i}-col-ref.html") { |f| Nokogiri::HTML(f) }
+    doc = File.open("./source/document#{i}-col-ref-NOTES.html") { |f| Nokogiri::HTML(f) }
+    # doc = File.open("./source/document#{i}-col-ref.html") { |f| Nokogiri::HTML(f) }
   else
     doc = File.open("./source/document#{i}.html") { |f| Nokogiri::HTML(f) }
   end
