@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "Adjusting table notes"
+ruby adjust_depositi_notes.rb
+
 echo "Performing tagger";
 ruby tagger.rb
 
